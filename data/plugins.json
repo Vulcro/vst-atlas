@@ -1,0 +1,5671 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-07-12",
+  "plugins": [
+    {
+      "id": "vital",
+      "slug": "vital",
+      "name": "Vital",
+      "developer": "Matt Tytel",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://vital.audio/",
+      "description": "Synthé wavetable gratuit et puissant, idéal pour la production moderne.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "surge-xt",
+      "slug": "surge-xt",
+      "name": "Surge XT",
+      "developer": "Surge Synth Team",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://surge-synthesizer.github.io/",
+      "description": "Synthé open-source hybride avec une bibliothèque de presets immense.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "helm",
+      "slug": "helm",
+      "name": "Helm",
+      "developer": "Matt Tytel",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://tytel.org/helm",
+      "description": "Synthé polyphonique gratuit au son clair et polyvalent.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "odin-2",
+      "slug": "odin-2",
+      "name": "Odin 2",
+      "developer": "TheWaveWarden",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.thewavewarden.com/product/odin2/",
+      "description": "Synthé analogique virtuel gratuit avec trois oscillateurs.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "dexed",
+      "slug": "dexed",
+      "name": "Dexed",
+      "developer": "Digital Suburban",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://asb2m10.github.io/dexed/",
+      "description": "Émulation gratuite du légendaire synthé Yamaha DX7.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-noisemaker",
+      "slug": "tal-noisemaker",
+      "name": "TAL-NoiseMaker",
+      "developer": "TAL Software",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://tal-software.com/products/tal-noisemaker",
+      "description": "Synthé virtuel analogique gratuit de TAL.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "komplete-start",
+      "slug": "komplete-start",
+      "name": "Komplete Start",
+      "developer": "Native Instruments",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/",
+      "description": "Bundle gratuit avec Kontakt Player, synthés et effets NI.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spitfire-labs",
+      "slug": "spitfire-labs",
+      "name": "Spitfire LABS",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Instruments orchestraux et textures gratuits en qualité studio.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "decent-sampler",
+      "slug": "decent-sampler",
+      "name": "Decent Sampler",
+      "developer": "Decent Samples",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+      "description": "Sampler gratuit compatible avec la bibliothèque Decent Sampler.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ample-guitar-m-lite-ii",
+      "slug": "ample-guitar-m-lite-ii",
+      "name": "Ample Guitar M Lite II",
+      "developer": "Ample Sound",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.amplesound.net/en/pro-pd.asp?id=7",
+      "description": "Guitare acoustique Martin D-41 en version lite gratuite.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sforzando",
+      "slug": "sforzando",
+      "name": "Sforzando",
+      "developer": "Plogue",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.plogue.com/products/sforzando.html",
+      "description": "Lecteur SFZ gratuit pour instruments orchestraux.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "valhalla-supermassive",
+      "slug": "valhalla-supermassive",
+      "name": "Valhalla Supermassive",
+      "developer": "Valhalla DSP",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "description": "Réverb et delay cosmiques gratuits, très appréciés en production.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "valhalla-space-modulator",
+      "slug": "valhalla-space-modulator",
+      "name": "Valhalla Space Modulator",
+      "developer": "Valhalla DSP",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "description": "Modulateur de flanger gratuit au caractère unique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tdr-nova",
+      "slug": "tdr-nova",
+      "name": "TDR Nova",
+      "developer": "Tokyo Dawn Labs",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tokyodawn.net/tdr-nova/",
+      "description": "Égaliseur dynamique paramétrique gratuit très complet.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tdr-kotelnikov",
+      "slug": "tdr-kotelnikov",
+      "name": "TDR Kotelnikov",
+      "developer": "Tokyo Dawn Labs",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tokyodawn.net/tdr-kotelnikov/",
+      "description": "Compresseur transparent gratuit pour le mixage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tdr-vos-slickeq",
+      "slug": "tdr-vos-slickeq",
+      "name": "TDR VOS SlickEQ",
+      "developer": "Tokyo Dawn Labs",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tokyodawn.net/tdr-vos-slickeq/",
+      "description": "Égaliseur musical gratuit inspiré des consoles vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tdr-molotok",
+      "slug": "tdr-molotok",
+      "name": "TDR Molotok",
+      "developer": "Tokyo Dawn Labs",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tokyodawn.net/tdr-molotok/",
+      "description": "Compresseur coloré gratuit pour donner du caractère.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-reverb-4",
+      "slug": "tal-reverb-4",
+      "name": "TAL-Reverb-4",
+      "developer": "TAL Software",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://tal-software.com/products/tal-reverb-4",
+      "description": "Réverbération algorithmique gratuite simple et efficace.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-chorus-lx",
+      "slug": "tal-chorus-lx",
+      "name": "TAL-Chorus-LX",
+      "developer": "TAL Software",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://tal-software.com/products/tal-chorus-lx",
+      "description": "Chorus gratuit inspiré du Roland Juno-60.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ott",
+      "slug": "ott",
+      "name": "OTT",
+      "developer": "Xfer Records",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://xferrecords.com/freeware",
+      "description": "Compresseur multibande gratuit iconique en EDM.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "krush",
+      "slug": "krush",
+      "name": "Krush",
+      "developer": "Kilohearts",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://kilohearts.com/products/krush",
+      "description": "Distorsion bitcrush gratuite pour des textures lo-fi.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "chowmatrix",
+      "slug": "chowmatrix",
+      "name": "ChowMatrix",
+      "developer": "ChowDSP",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://chowdsp.com/products/",
+      "description": "Delay modulaire gratuit open-source aux possibilités étendues.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "chowtape",
+      "slug": "chowtape",
+      "name": "ChowTape",
+      "developer": "ChowDSP",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://chowdsp.com/products/",
+      "description": "Émulation de bande magnétique gratuite open-source.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "meldaproduction-free-bundle",
+      "slug": "meldaproduction-free-bundle",
+      "name": "MeldaProduction Free Bundle",
+      "developer": "MeldaProduction",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.meldaproduction.com/MFreeFXBundle",
+      "description": "Suite de plus de 30 plugins gratuits pour le mixage et le mastering.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "airwindows-consolidated",
+      "slug": "airwindows-consolidated",
+      "name": "Airwindows Consolidated",
+      "developer": "Airwindows",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://airwindows.com/",
+      "description": "Collection massive de plugins gratuits pour le mixage analogique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "analog-obsession-lala",
+      "slug": "analog-obsession-lala",
+      "name": "Analog Obsession LALA",
+      "developer": "Analog Obsession",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://analogobsession.com/",
+      "description": "Compresseur LA-2A gratuit de la collection Analog Obsession.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "analog-obsession-rare",
+      "slug": "analog-obsession-rare",
+      "name": "Analog Obsession Rare",
+      "developer": "Analog Obsession",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://analogobsession.com/",
+      "description": "Égaliseur Pultec gratuit de style vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ignite-amps-emissary",
+      "slug": "ignite-amps-emissary",
+      "name": "Ignite Amps Emissary",
+      "developer": "Ignite Amps",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.igniteamps.com/",
+      "description": "Simulateur de tête d'ampli guitare gratuite très populaire.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "neural-amp-modeler",
+      "slug": "neural-amp-modeler",
+      "name": "Neural Amp Modeler",
+      "developer": "Steven Atkinson",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.neuralampmodeler.com/",
+      "description": "Plateforme gratuite de modélisation d'amplis par IA.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spitfire-bbc-symphony-orchestra-discover",
+      "slug": "spitfire-bbc-symphony-orchestra-discover",
+      "name": "Spitfire BBC Symphony Orchestra Discover",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/bbc-so-discover",
+      "description": "Orchestre symphonique BBC gratuit pour la composition.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "pianoteq-8-trial",
+      "slug": "pianoteq-8-trial",
+      "name": "PianoTeq 8 Trial",
+      "developer": "Modartt",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 159.0,
+      "officialUrl": "https://www.pianoteq.com/",
+      "description": "Piano acoustique modélisé physiquement, référence du marché.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "serum",
+      "slug": "serum",
+      "name": "Serum",
+      "developer": "Xfer Records",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 189.0,
+      "officialUrl": "https://xferrecords.com/products/serum",
+      "description": "Synthé wavetable leader pour la production électronique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fabfilter-pro-q-3",
+      "slug": "fabfilter-pro-q-3",
+      "name": "FabFilter Pro-Q 3",
+      "developer": "FabFilter",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in",
+      "description": "Égaliseur dynamique de référence pour le mixage professionnel.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fabfilter-pro-c-2",
+      "slug": "fabfilter-pro-c-2",
+      "name": "FabFilter Pro-C 2",
+      "developer": "FabFilter",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://www.fabfilter.com/products/pro-c-2-compressor-plug-in",
+      "description": "Compresseur polyvalent avec modes VCA, FET et opto.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fabfilter-pro-l-2",
+      "slug": "fabfilter-pro-l-2",
+      "name": "FabFilter Pro-L 2",
+      "developer": "FabFilter",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.fabfilter.com/products/pro-l-2-limiter-plug-in",
+      "description": "Limiteur transparent de référence pour le mastering.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "valhalla-vintageverb",
+      "slug": "valhalla-vintageverb",
+      "name": "Valhalla VintageVerb",
+      "developer": "Valhalla DSP",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 50.0,
+      "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-vintageverb/",
+      "description": "Réverbération vintage inspirée des années 70 et 80.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "valhalla-room",
+      "slug": "valhalla-room",
+      "name": "Valhalla Room",
+      "developer": "Valhalla DSP",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 50.0,
+      "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-room/",
+      "description": "Réverbération algorithmique claire et flexible.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "soundtoys-decapitator",
+      "slug": "soundtoys-decapitator",
+      "name": "Soundtoys Decapitator",
+      "developer": "Soundtoys",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.soundtoys.com/product/decapitator/",
+      "description": "Saturation analogique au caractère affirmé.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "soundtoys-echoboy",
+      "slug": "soundtoys-echoboy",
+      "name": "Soundtoys EchoBoy",
+      "developer": "Soundtoys",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.soundtoys.com/product/echoboy/",
+      "description": "Delay vintage avec émulation de bandes et de pédales.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "omnisphere",
+      "slug": "omnisphere",
+      "name": "Omnisphere",
+      "developer": "Spectrasonics",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 479.0,
+      "officialUrl": "https://www.spectrasonics.net/products/omnisphere/",
+      "description": "Synthé hybride premium avec une bibliothèque sonore immense.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "kontakt-7",
+      "slug": "kontakt-7",
+      "name": "Kontakt 7",
+      "developer": "Native Instruments",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 299.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/",
+      "description": "Sampler industriel compatible avec des milliers de bibliothèques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "massive-x",
+      "slug": "massive-x",
+      "name": "Massive X",
+      "developer": "Native Instruments",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/synths/massive-x/",
+      "description": "Synthé wavetable moderne successeur du légendaire Massive.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "arturia-v-collection",
+      "slug": "arturia-v-collection",
+      "name": "Arturia V Collection",
+      "developer": "Arturia",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 599.0,
+      "officialUrl": "https://www.arturia.com/products/software-instruments/v-collection/",
+      "description": "Collection d'émulations de synthés et pianos classiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "u-he-diva",
+      "slug": "u-he-diva",
+      "name": "u-he Diva",
+      "developer": "u-he",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://u-he.com/products/diva/",
+      "description": "Synthé analogique virtuel au son chaud et authentique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "u-he-hive-2",
+      "slug": "u-he-hive-2",
+      "name": "u-he Hive 2",
+      "developer": "u-he",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://u-he.com/products/hive/",
+      "description": "Synthé moderne compact avec tables d'ondes et filtres flexibles.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sylenth1",
+      "slug": "sylenth1",
+      "name": "Sylenth1",
+      "developer": "LennarDigital",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://www.lennardigital.com/",
+      "description": "Synthé analogique virtuel iconique en house et trance.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "phase-plant",
+      "slug": "phase-plant",
+      "name": "Phase Plant",
+      "developer": "Kilohearts",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://kilohearts.com/products/phase_plant",
+      "description": "Synthé modulaire semi-modulaire très flexible.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "scaler-2",
+      "slug": "scaler-2",
+      "name": "Scaler 2",
+      "developer": "Plugin Boutique",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 59.0,
+      "officialUrl": "https://www.pluginboutique.com/products/2-Scaler-2",
+      "description": "Assistant d'accords et de composition pour producteurs.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "izotope-ozone-11-elements",
+      "slug": "izotope-ozone-11-elements",
+      "name": "iZotope Ozone 11 Elements",
+      "developer": "iZotope",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 129.0,
+      "officialUrl": "https://www.izotope.com/en/shop/ozone-elements",
+      "description": "Suite de mastering assistée par IA en version Elements.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "izotope-neutron-4",
+      "slug": "izotope-neutron-4",
+      "name": "iZotope Neutron 4",
+      "developer": "iZotope",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 249.0,
+      "officialUrl": "https://www.izotope.com/en/shop/neutron",
+      "description": "Assistant de mixage intelligent avec analyse spectrale.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "izotope-rx-11-elements",
+      "slug": "izotope-rx-11-elements",
+      "name": "iZotope RX 11 Elements",
+      "developer": "iZotope",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 129.0,
+      "officialUrl": "https://www.izotope.com/en/shop/rx-elements",
+      "description": "Réparation audio pour voix, podcasts et enregistrements.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "soothe2",
+      "slug": "soothe2",
+      "name": "Soothe2",
+      "developer": "oeksound",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 219.0,
+      "officialUrl": "https://oeksound.com/plugins/soothe2/",
+      "description": "Suppresseur de résonances dynamique très populaire.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spiff",
+      "slug": "spiff",
+      "name": "Spiff",
+      "developer": "oeksound",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://oeksound.com/plugins/spiff/",
+      "description": "Outil de contrôle des transitoires haute fréquence.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "gullfoss",
+      "slug": "gullfoss",
+      "name": "Gullfoss",
+      "developer": "Soundtheory",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.soundtheory.com/gullfoss",
+      "description": "Égaliseur intelligent qui adapte le spectre automatiquement.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sonible-smart-eq-4",
+      "slug": "sonible-smart-eq-4",
+      "name": "Sonible smart:EQ 4",
+      "developer": "Sonible",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 129.0,
+      "officialUrl": "https://www.sonible.com/smarteq4/",
+      "description": "Égaliseur assisté par IA pour un équilibre rapide.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sonible-pure-unmask",
+      "slug": "sonible-pure-unmask",
+      "name": "Sonible pure:unmask",
+      "developer": "Sonible",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 89.0,
+      "officialUrl": "https://www.sonible.com/pureunmask/",
+      "description": "Outil de séparation spectrale pour clarifier le mix.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "eventide-blackhole",
+      "slug": "eventide-blackhole",
+      "name": "Eventide Blackhole",
+      "developer": "Eventide",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.eventideaudio.com/plug-ins/blackhole/",
+      "description": "Réverbération spatiale immense pour textures atmosphériques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "eventide-h910-harmonizer",
+      "slug": "eventide-h910-harmonizer",
+      "name": "Eventide H910 Harmonizer",
+      "developer": "Eventide",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.eventideaudio.com/plug-ins/h910-harmonizer/",
+      "description": "Harmonizer vintage légendaire des années 70.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "softube-tape",
+      "slug": "softube-tape",
+      "name": "Softube Tape",
+      "developer": "Softube",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.softube.com/tape",
+      "description": "Émulation de bande magnétique pour chaleur analogique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "softube-console-1",
+      "slug": "softube-console-1",
+      "name": "Softube Console 1",
+      "developer": "Softube",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 449.0,
+      "officialUrl": "https://www.softube.com/console1",
+      "description": "Écosystème de mixage hardware + software avec émulations SSL.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "waves-cla-2a",
+      "slug": "waves-cla-2a",
+      "name": "Waves CLA-2A",
+      "developer": "Waves",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 35.0,
+      "officialUrl": "https://www.waves.com/plugins/cla-2a-compressor-limiter",
+      "description": "Compresseur opto LA-2A émulé par Chris Lord-Alge.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "waves-h-reverb",
+      "slug": "waves-h-reverb",
+      "name": "Waves H-Reverb",
+      "developer": "Waves",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 35.0,
+      "officialUrl": "https://www.waves.com/plugins/h-reverb-hybrid-reverb",
+      "description": "Réverbération hybride avec algorithmes et impulses.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "slate-digital-virtual-mix-rack",
+      "slug": "slate-digital-virtual-mix-rack",
+      "name": "Slate Digital Virtual Mix Rack",
+      "developer": "Slate Digital",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://slatedigital.com/virtual-mix-rack/",
+      "description": "Chaîne de modules de mixage modulaire Slate Digital.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "slate-digital-fg-x",
+      "slug": "slate-digital-fg-x",
+      "name": "Slate Digital FG-X",
+      "developer": "Slate Digital",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://slatedigital.com/fg-x/",
+      "description": "Limiteur de mastering avec détection intelligente.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "output-portal",
+      "slug": "output-portal",
+      "name": "Output Portal",
+      "developer": "Output",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://output.com/products/portal",
+      "description": "Effet de grain et de manipulation spectrale créatif.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "output-arcade",
+      "slug": "output-arcade",
+      "name": "Output Arcade",
+      "developer": "Output",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 10.0,
+      "officialUrl": "https://output.com/products/arcade",
+      "description": "Sampler loop cloud avec contenu renouvelé mensuellement.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "unfiltered-audio-byome",
+      "slug": "unfiltered-audio-byome",
+      "name": "Unfiltered Audio BYOME",
+      "developer": "Unfiltered Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.unfilteredaudio.com/byome",
+      "description": "Multi-effet modulaire programmable pour le sound design.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "unfiltered-audio-sandman-pro",
+      "slug": "unfiltered-audio-sandman-pro",
+      "name": "Unfiltered Audio Sandman Pro",
+      "developer": "Unfiltered Audio",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.unfilteredaudio.com/sandman-pro",
+      "description": "Delay granulaire pour textures rythmiques et glitch.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "baby-audio-ba-1",
+      "slug": "baby-audio-ba-1",
+      "name": "Baby Audio BA-1",
+      "developer": "Baby Audio",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 79.0,
+      "officialUrl": "https://babyaud.io/ba-1",
+      "description": "Synthé inspiré du Yamaha CS-01 au caractère lo-fi.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "baby-audio-super-vhs",
+      "slug": "baby-audio-super-vhs",
+      "name": "Baby Audio Super VHS",
+      "developer": "Baby Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://babyaud.io/super-vhs",
+      "description": "Effet lo-fi multi-bandes pour ambiance cassette rétro.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "denise-audio-perfect-room-2",
+      "slug": "denise-audio-perfect-room-2",
+      "name": "Denise Audio Perfect Room 2",
+      "developer": "Denise Audio",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 79.0,
+      "officialUrl": "https://www.denise.io/perfect-room-2",
+      "description": "Réverbération avec contrôle spatial précis.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "denise-audio-bass-xl",
+      "slug": "denise-audio-bass-xl",
+      "name": "Denise Audio Bass XL",
+      "developer": "Denise Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.denise.io/bass-xl",
+      "description": "Enhancer de basses pour des low-end percutants.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "klevgrand-brusfri",
+      "slug": "klevgrand-brusfri",
+      "name": "Klevgrand Brusfri",
+      "developer": "Klevgrand",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://klevgrand.se/products/brusfri",
+      "description": "Réducteur de bruit simple et efficace pour l'enregistrement.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "klevgrand-pana",
+      "slug": "klevgrand-pana",
+      "name": "Klevgrand Pana",
+      "developer": "Klevgrand",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 29.0,
+      "officialUrl": "https://klevgrand.se/products/pana",
+      "description": "Outil de placement stéréo et de panoramique avancé.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "goodhertz-dc19",
+      "slug": "goodhertz-dc19",
+      "name": "Goodhertz DC19",
+      "developer": "Goodhertz",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 29.0,
+      "officialUrl": "https://goodhertz.co/dc19/",
+      "description": "Chorus et vibrato au grain vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "goodhertz-tupe",
+      "slug": "goodhertz-tupe",
+      "name": "Goodhertz Tupe",
+      "developer": "Goodhertz",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 29.0,
+      "officialUrl": "https://goodhertz.co/tupe/",
+      "description": "Saturation de tubes subtile pour le mixage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "audiothing-dials",
+      "slug": "audiothing-dials",
+      "name": "AudioThing Dials",
+      "developer": "AudioThing",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.audiothing.net/effects/dials/",
+      "description": "Distorsion inspirée des pédales de guitare vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "audiothing-speakers",
+      "slug": "audiothing-speakers",
+      "name": "AudioThing Speakers",
+      "developer": "AudioThing",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.audiothing.net/effects/speakers/",
+      "description": "Émulation de haut-parleurs pour des textures lo-fi.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "audiomodern-riffer",
+      "slug": "audiomodern-riffer",
+      "name": "AudioModern Riffer",
+      "developer": "AudioModern",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 59.0,
+      "officialUrl": "https://audiomodern.com/shop/plugins/riffer/",
+      "description": "Générateur de riffs et mélodies MIDI aléatoires.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "wave-alchemy-pulse",
+      "slug": "wave-alchemy-pulse",
+      "name": "Wave Alchemy Pulse",
+      "developer": "Wave Alchemy",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.wavealchemy.co.uk/pulse/",
+      "description": "Machine à rythmes avec échantillons de boîtes vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "wave-alchemy-triaz",
+      "slug": "wave-alchemy-triaz",
+      "name": "Wave Alchemy Triaz",
+      "developer": "Wave Alchemy",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.wavealchemy.co.uk/triaz/",
+      "description": "Plugin de drums avec des kits modernes et vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "xln-audio-addictive-drums-2",
+      "slug": "xln-audio-addictive-drums-2",
+      "name": "XLN Audio Addictive Drums 2",
+      "developer": "XLN Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.xlnaudio.com/products/addictive_drums_2",
+      "description": "Batterie acoustique échantillonnée très réaliste.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "xln-audio-addictive-keys",
+      "slug": "xln-audio-addictive-keys",
+      "name": "XLN Audio Addictive Keys",
+      "developer": "XLN Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.xlnaudio.com/products/addictive_keys",
+      "description": "Pianos échantillonnés avec options de micros multiples.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "toontrack-ezdrummer-3",
+      "slug": "toontrack-ezdrummer-3",
+      "name": "Toontrack EZdrummer 3",
+      "developer": "Toontrack",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.toontrack.com/product/ezdrummer-3/",
+      "description": "Batterie virtuelle simple et rapide pour la composition.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "toontrack-superior-drummer-3",
+      "slug": "toontrack-superior-drummer-3",
+      "name": "Toontrack Superior Drummer 3",
+      "developer": "Toontrack",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://www.toontrack.com/product/superior-drummer-3/",
+      "description": "Batterie acoustique haut de gamme pour production pro.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "steven-slate-drums-5",
+      "slug": "steven-slate-drums-5",
+      "name": "Steven Slate Drums 5",
+      "developer": "Steven Slate Drums",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://stevenslatedrums.com/ssd5/",
+      "description": "Batterie avec échantillons de kits enregistrés en studio.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "bfd3",
+      "slug": "bfd3",
+      "name": "BFD3",
+      "developer": "FXpansion",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.fxpansion.com/products/bfd3",
+      "description": "Moteur de batterie acoustique détaillé et personnalisable.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "shreddage-3-stratus",
+      "slug": "shreddage-3-stratus",
+      "name": "Shreddage 3 Stratus",
+      "developer": "Impact Soundworks",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 159.0,
+      "officialUrl": "https://impactsoundworks.com/shreddage-3-stratus",
+      "description": "Guitare électrique échantillonnée pour rock et metal.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "neural-dsp-archetype-plini",
+      "slug": "neural-dsp-archetype-plini",
+      "name": "Neural DSP Archetype: Plini",
+      "developer": "Neural DSP",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://neuraldsp.com/plugins/archetype-plini",
+      "description": "Suite d'amplis et d'effets guitare signée Plini.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "neural-dsp-archetype-gojira",
+      "slug": "neural-dsp-archetype-gojira",
+      "name": "Neural DSP Archetype: Gojira",
+      "developer": "Neural DSP",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://neuraldsp.com/plugins/archetype-gojira",
+      "description": "Amplis et pédales pour metal moderne signés Gojira.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "positive-grid-bias-fx-2",
+      "slug": "positive-grid-bias-fx-2",
+      "name": "Positive Grid BIAS FX 2",
+      "developer": "Positive Grid",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.positivegrid.com/bias-fx",
+      "description": "Plateforme d'amplis et d'effets guitare modulaire.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "overloud-th-u",
+      "slug": "overloud-th-u",
+      "name": "Overloud TH-U",
+      "developer": "Overloud",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://www.overloud.com/products/th-u",
+      "description": "Simulateur d'amplis avec modélisation Rig Player.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ik-multimedia-amplitube-5",
+      "slug": "ik-multimedia-amplitube-5",
+      "name": "IK Multimedia AmpliTube 5",
+      "developer": "IK Multimedia",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.ikmultimedia.com/products/amplitube5/",
+      "description": "Suite complète de simulation d'amplis et d'effets guitare.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "nectar-3-plus",
+      "slug": "nectar-3-plus",
+      "name": "Nectar 3 Plus",
+      "developer": "iZotope",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 249.0,
+      "officialUrl": "https://www.izotope.com/en/shop/nectar",
+      "description": "Chaîne de traitement vocale complète pour le mixage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "auto-tune-pro",
+      "slug": "auto-tune-pro",
+      "name": "Auto-Tune Pro",
+      "developer": "Antares",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://www.antarestech.com/products/auto-tune",
+      "description": "Correction de hauteur et effet vocal de référence.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "synchro-arts-revoice-pro-5",
+      "slug": "synchro-arts-revoice-pro-5",
+      "name": "Synchro Arts ReVoice Pro 5",
+      "developer": "Synchro Arts",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 599.0,
+      "officialUrl": "https://www.synchroarts.com/revoice-pro",
+      "description": "Alignement vocal et harmonisation professionnelle.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "accusonus-era-bundle-6",
+      "slug": "accusonus-era-bundle-6",
+      "name": "Accusonus ERA Bundle 6",
+      "developer": "Accusonus",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://accusonus.com/products/era-bundle",
+      "description": "Outils de nettoyage audio pour voix et podcasts.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sonarworks-soundid-reference",
+      "slug": "sonarworks-soundid-reference",
+      "name": "Sonarworks SoundID Reference",
+      "developer": "Sonarworks",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 249.0,
+      "officialUrl": "https://www.sonarworks.com/soundid-reference",
+      "description": "Calibration de monitoring pour un mixage plus précis.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "plugin-doctor",
+      "slug": "plugin-doctor",
+      "name": "Plugin Doctor",
+      "developer": "DDMF",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://ddmf.eu/plugin-doctor/",
+      "description": "Analyseur de courbes et de phase pour plugins et hardware.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "voxengo-span",
+      "slug": "voxengo-span",
+      "name": "Voxengo SPAN",
+      "developer": "Voxengo",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.voxengo.com/product/span/",
+      "description": "Analyseur spectral gratuit très utilisé en mastering.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "youlean-loudness-meter-2",
+      "slug": "youlean-loudness-meter-2",
+      "name": "Youlean Loudness Meter 2",
+      "developer": "Youlean",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://youlean.co/youlean-loudness-meter/",
+      "description": "Mesure de loudness LUFS gratuite conforme aux standards broadcast.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tb-pro-audio-mvmeter2",
+      "slug": "tb-pro-audio-mvmeter2",
+      "name": "TB Pro Audio mvMeter2",
+      "developer": "TB Pro Audio",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tbproaudio.de/products/mvmeter2",
+      "description": "VU-mètre gratuit pour surveiller les niveaux.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "orilriver",
+      "slug": "orilriver",
+      "name": "OrilRiver",
+      "developer": "Denis Tihanov",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tokyodawn.net/other/",
+      "description": "Réverbération algorithmique gratuite à convolution modulable.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "loudmax",
+      "slug": "loudmax",
+      "name": "LoudMax",
+      "developer": "Thomas Mundt",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://loudmax.blogspot.com/",
+      "description": "Limiteur brickwall gratuit simple et transparent.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "glitch2",
+      "slug": "glitch2",
+      "name": "Glitch2",
+      "developer": "Illformed",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.illformed.com/",
+      "description": "Sampler glitch pour productions IDM et expérimentales.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cable-guys-shaperbox-3",
+      "slug": "cable-guys-shaperbox-3",
+      "name": "Cable Guys ShaperBox 3",
+      "developer": "Cableguys",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.cableguys.com/shaperbox.html",
+      "description": "Suite de modulation rythmique pour tous les paramètres.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cable-guys-pancake-2",
+      "slug": "cable-guys-pancake-2",
+      "name": "Cable Guys Pancake 2",
+      "developer": "Cableguys",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.cableguys.com/pancake.html",
+      "description": "Auto-pan gratuit avec formes de modulation créatives.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "instacomposer-3",
+      "slug": "instacomposer-3",
+      "name": "InstaComposer 3",
+      "developer": "W.A. Production",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 59.0,
+      "officialUrl": "https://www.waproduction.com/plugins/instacomposer-3",
+      "description": "Générateur de compositions MIDI par IA.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tracktion-waveform-free",
+      "slug": "tracktion-waveform-free",
+      "name": "Tracktion Waveform Free",
+      "developer": "Tracktion",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.tracktion.com/products/waveform-free",
+      "description": "DAW complète gratuite avec suite d'effets intégrée.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "reaper",
+      "slug": "reaper",
+      "name": "Reaper",
+      "developer": "Cockos",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 60.0,
+      "officialUrl": "https://www.reaper.fm/",
+      "description": "DAW légère et puissante avec licence abordable.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ableton-live-12-intro",
+      "slug": "ableton-live-12-intro",
+      "name": "Ableton Live 12 Intro",
+      "developer": "Ableton",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.ableton.com/en/live/",
+      "description": "DAW iconique pour la production électronique live.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fl-studio-fruity-edition",
+      "slug": "fl-studio-fruity-edition",
+      "name": "FL Studio Fruity Edition",
+      "developer": "Image-Line",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.image-line.com/fl-studio",
+      "description": "DAW populaire pour beatmaking et production hip-hop.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "reason-rack-plugin",
+      "slug": "reason-rack-plugin",
+      "name": "Reason Rack Plugin",
+      "developer": "Reason Studios",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.reasonstudios.com/reason-rack-plugin",
+      "description": "Rack Reason utilisable comme plugin dans votre DAW.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spire",
+      "slug": "spire",
+      "name": "Spire",
+      "developer": "Reveal Sound",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 189.0,
+      "officialUrl": "https://reveal-sound.com/",
+      "description": "Synthé EDM puissant pour leads et basses modernes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "pigments",
+      "slug": "pigments",
+      "name": "Pigments",
+      "developer": "Arturia",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.arturia.com/products/software-instruments/pigments/",
+      "description": "Synthé wavetable et analogique avec interface visuelle.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "analog-lab-v",
+      "slug": "analog-lab-v",
+      "name": "Analog Lab V",
+      "developer": "Arturia",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.arturia.com/products/software-instruments/analoglab/",
+      "description": "Collection de presets des synthés Arturia en un seul plugin.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "rc-20-retro-color",
+      "slug": "rc-20-retro-color",
+      "name": "RC-20 Retro Color",
+      "developer": "XLN Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://www.xlnaudio.com/products/rc-20_retro_color",
+      "description": "Effet lo-fi rétro pour textures vintage et usées.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "portal",
+      "slug": "portal",
+      "name": "Portal",
+      "developer": "Output",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://output.com/products/portal",
+      "description": "Effet granulaire pour sound design expérimental.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sublab-xl",
+      "slug": "sublab-xl",
+      "name": "SubLab XL",
+      "developer": "Future Audio Workshop",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 59.0,
+      "officialUrl": "https://sublabxl.com/",
+      "description": "Synthé de sub-basses pour trap et hip-hop.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "initial-audio-sektor",
+      "slug": "initial-audio-sektor",
+      "name": "Initial Audio Sektor",
+      "developer": "Initial Audio",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://initialaudio.com/sektor/",
+      "description": "Synthé wavetable moderne avec interface 3D.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "d16-lush-2",
+      "slug": "d16-lush-2",
+      "name": "D16 Lush 2",
+      "developer": "D16 Group",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://d16.pl/lush2",
+      "description": "Synthé pad lush pour ambient et soundscapes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sugar-bytes-effectrix",
+      "slug": "sugar-bytes-effectrix",
+      "name": "Sugar Bytes Effectrix",
+      "developer": "Sugar Bytes",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://sugar-bytes.de/products/effectrix",
+      "description": "Effet multi-tranches pour séquençage rythmique créatif.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sugar-bytes-looperator",
+      "slug": "sugar-bytes-looperator",
+      "name": "Sugar Bytes Looperator",
+      "developer": "Sugar Bytes",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://sugar-bytes.de/products/looperator",
+      "description": "Effet looper et modulateur pour performances live.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "audiority-l12x",
+      "slug": "audiority-l12x",
+      "name": "Audiority L12X",
+      "developer": "Audiority",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.audiority.com/l12x",
+      "description": "Amplificateur Solid State Logic pour guitare et bass.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "mercuriall-u530",
+      "slug": "mercuriall-u530",
+      "name": "Mercuriall U530",
+      "developer": "Mercuriall",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://mercuriall.com/",
+      "description": "Simulateur de préampli Friedman BE-100 gratuit.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "stl-tones-amphub",
+      "slug": "stl-tones-amphub",
+      "name": "STL Tones AmpHub",
+      "developer": "STL Tones",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://stltones.com/",
+      "description": "Plateforme d'amplis guitare avec packs d'artistes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "swam-saxophones",
+      "slug": "swam-saxophones",
+      "name": "Swam Saxophones",
+      "developer": "Audio Modeling",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.swamitaly.it/products/swam-saxophones/",
+      "description": "Saxophones modélisés physiquement pour expression MIDI.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "swam-violin",
+      "slug": "swam-violin",
+      "name": "SWAM Violin",
+      "developer": "Audio Modeling",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.swamitaly.it/products/swam-violin/",
+      "description": "Violon solo modélisé avec contrôle expressif continu.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "eastwest-hollywood-orchestra",
+      "slug": "eastwest-hollywood-orchestra",
+      "name": "EastWest Hollywood Orchestra",
+      "developer": "EastWest",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 499.0,
+      "officialUrl": "https://www.soundsonline.com/Hollywood-Orchestra",
+      "description": "Orchestre symphonique Hollywood pour la composition ciné.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "orchestral-tools-berlin-strings",
+      "slug": "orchestral-tools-berlin-strings",
+      "name": "Orchestral Tools Berlin Strings",
+      "developer": "Orchestral Tools",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 849.0,
+      "officialUrl": "https://www.orchestraltools.com/",
+      "description": "Cordes orchestrales enregistrées à Berlin pour le cinéma.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "8dio-century",
+      "slug": "8dio-century",
+      "name": "8DIO Century",
+      "developer": "8DIO",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://8dio.com/",
+      "description": "Orchestre complet pour compositions épiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cinesamples-cinestrings-solo",
+      "slug": "cinesamples-cinestrings-solo",
+      "name": "Cinesamples CineStrings SOLO",
+      "developer": "Cinesamples",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://cinesamples.com/",
+      "description": "Cordes solo cinématiques enregistrées à MGM Scoring Stage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fractal-audio-axe-fx-iii",
+      "slug": "fractal-audio-axe-fx-iii",
+      "name": "Fractal Audio Axe-Fx III",
+      "developer": "Fractal Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 2799.0,
+      "officialUrl": "https://www.fractalaudio.com/axe-fx-iii/",
+      "description": "Processeur guitare hardware de référence avec éditeur logiciel.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "line-6-helix-native",
+      "slug": "line-6-helix-native",
+      "name": "Line 6 Helix Native",
+      "developer": "Line 6",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://line6.com/helix/helixnative.html",
+      "description": "Plugin de la suite Helix avec modélisation d'amplis et d'effets.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "korg-m1",
+      "slug": "korg-m1",
+      "name": "Korg M1",
+      "developer": "Korg",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.korg.com/",
+      "description": "Émulation du synthé/workstation Korg M1 des années 90.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "roland-cloud-jupiter-8",
+      "slug": "roland-cloud-jupiter-8",
+      "name": "Roland Cloud Jupiter-8",
+      "developer": "Roland",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 20.0,
+      "officialUrl": "https://roland.com/roland-cloud/",
+      "description": "Émulation du légendaire Jupiter-8 en abonnement Roland Cloud.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "waldorf-largo-2",
+      "slug": "waldorf-largo-2",
+      "name": "Waldorf Largo 2",
+      "developer": "Waldorf Music",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 179.0,
+      "officialUrl": "https://www.waldorf-music.com/largo2",
+      "description": "Synthé wavetable polyphonique au son riche.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "applied-acoustics-lounge-lizard-ep-4",
+      "slug": "applied-acoustics-lounge-lizard-ep-4",
+      "name": "Applied Acoustics Lounge Lizard EP-4",
+      "developer": "Applied Acoustics",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.applied-acoustics.com/lounge-lizard-ep-4/",
+      "description": "Piano électrique Rhodes et Wurlitzer modélisé.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "modartt-pianoteq-8-standard",
+      "slug": "modartt-pianoteq-8-standard",
+      "name": "Modartt Pianoteq 8 Standard",
+      "developer": "Modartt",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 159.0,
+      "officialUrl": "https://www.pianoteq.com/pianoteq-8",
+      "description": "Piano acoustique modélisé avec faible empreinte disque.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "keyscape",
+      "slug": "keyscape",
+      "name": "Keyscape",
+      "developer": "Spectrasonics",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 379.0,
+      "officialUrl": "https://www.spectrasonics.net/products/keyscape/",
+      "description": "Collection de pianos et claviers rares échantillonnés.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "vienna-symphonic-library-synchron",
+      "slug": "vienna-symphonic-library-synchron",
+      "name": "Vienna Symphonic Library Synchron",
+      "developer": "VSL",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 299.0,
+      "officialUrl": "https://www.vsl.co.at/",
+      "description": "Bibliothèque orchestrale viennoise haute qualité.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "projectsam-symphobia",
+      "slug": "projectsam-symphobia",
+      "name": "ProjectSAM Symphobia",
+      "developer": "ProjectSAM",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://projectsam.com/",
+      "description": "Orchestre cinématique avec articulations dramatiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "heavyocity-mosaic-keys",
+      "slug": "heavyocity-mosaic-keys",
+      "name": "Heavyocity Mosaic Keys",
+      "developer": "Heavyocity",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://heavyocity.com/product/mosaic-keys/",
+      "description": "Textures de claviers hybrides pour compositions modernes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sonic-academy-kick-2",
+      "slug": "sonic-academy-kick-2",
+      "name": "Sonic Academy KICK 2",
+      "developer": "Sonic Academy",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://sonicacademy.com/products/kick-2",
+      "description": "Synthé de kick dédié pour musiques électroniques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sonic-academy-ana-2",
+      "slug": "sonic-academy-ana-2",
+      "name": "Sonic Academy ANA 2",
+      "developer": "Sonic Academy",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://sonicacademy.com/products/ana-2",
+      "description": "Synthé polyphonique pour EDM et house.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "xfer-records-cthulhu",
+      "slug": "xfer-records-cthulhu",
+      "name": "Xfer Records Cthulhu",
+      "developer": "Xfer Records",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 39.0,
+      "officialUrl": "https://xferrecords.com/products/cthulhu",
+      "description": "Générateur d'accords et arpégiateur MIDI créatif.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "xfer-records-nerve",
+      "slug": "xfer-records-nerve",
+      "name": "Xfer Records Nerve",
+      "developer": "Xfer Records",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://xferrecords.com/products/nerve",
+      "description": "Sampler de drums avec édition et resynthèse intégrées.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "loopcloud",
+      "slug": "loopcloud",
+      "name": "Loopcloud",
+      "developer": "Loopmasters",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.loopcloud.com/",
+      "description": "Gestionnaire de samples cloud avec plugin gratuit.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "landr-samples",
+      "slug": "landr-samples",
+      "name": "LANDR Samples",
+      "developer": "LANDR",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.landr.com/",
+      "description": "Plugin gratuit d'accès aux samples et presets LANDR.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "komplete-15-select",
+      "slug": "komplete-15-select",
+      "name": "Komplete 15 Select",
+      "developer": "Native Instruments",
+      "category": "sampler",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-select/",
+      "description": "Bundle NI avec synthés, effets et instruments sélectionnés.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "guitar-rig-7-pro",
+      "slug": "guitar-rig-7-pro",
+      "name": "Guitar Rig 7 Pro",
+      "developer": "Native Instruments",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/",
+      "description": "Chaîne d'effets guitare complète avec modélisation d'amplis.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "raum",
+      "slug": "raum",
+      "name": "Raum",
+      "developer": "Native Instruments",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/raum/",
+      "description": "Réverbération NI gratuite spacieuse et musicale.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "supercharger",
+      "slug": "supercharger",
+      "name": "Supercharger",
+      "developer": "Native Instruments",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/supercharger/",
+      "description": "Compresseur vari-mu gratuit au son chaud.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "phasis",
+      "slug": "phasis",
+      "name": "Phasis",
+      "developer": "Native Instruments",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/phasis/",
+      "description": "Phaser gratuit avec modulation flexible.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "bite",
+      "slug": "bite",
+      "name": "Bite",
+      "developer": "Native Instruments",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/bite/",
+      "description": "Saturateur bitcrush gratuit pour textures agressives.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "dirt",
+      "slug": "dirt",
+      "name": "Dirt",
+      "developer": "Native Instruments",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/dirt/",
+      "description": "Distorsion gratuite simple et efficace.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "flair",
+      "slug": "flair",
+      "name": "Flair",
+      "developer": "Native Instruments",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/flair/",
+      "description": "Flanger gratuit avec feedback harmonique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "choral",
+      "slug": "choral",
+      "name": "Choral",
+      "developer": "Native Instruments",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/choral/",
+      "description": "Chorus gratuit inspiré des effets vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "freak",
+      "slug": "freak",
+      "name": "Freak",
+      "developer": "Native Instruments",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/freak/",
+      "description": "Triple distortion gratuite combinant wavefolding et modulation.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "molekular",
+      "slug": "molekular",
+      "name": "Molekular",
+      "developer": "Native Instruments",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/molekular/",
+      "description": "Effets modulaires gratuits pour sound design.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "symphony-series",
+      "slug": "symphony-series",
+      "name": "SYMPHONY SERIES",
+      "developer": "Native Instruments",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 999.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/cinematic/symphony-series/",
+      "description": "Collection orchestrale complète Native Instruments.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "session-guitarist",
+      "slug": "session-guitarist",
+      "name": "Session Guitarist",
+      "developer": "Native Instruments",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 149.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist/",
+      "description": "Guitares strumming et picking jouées par des session musicians.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "action-strings-2",
+      "slug": "action-strings-2",
+      "name": "Action Strings 2",
+      "developer": "Native Instruments",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 299.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/cinematic/action-strings-2/",
+      "description": "Cordes orchestrales dynamiques pour bandes-annonces.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "damage-2",
+      "slug": "damage-2",
+      "name": "Damage 2",
+      "developer": "Heavyocity",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 399.0,
+      "officialUrl": "https://heavyocity.com/product/damage-2/",
+      "description": "Percussions orchestrales cinématiques et agressives.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "nexus",
+      "slug": "nexus",
+      "name": "Nexus",
+      "developer": "reFX",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 249.0,
+      "officialUrl": "https://refx.com/nexus",
+      "description": "Rompler populaire pour leads et pads en production dance.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "lfo-tool",
+      "slug": "lfo-tool",
+      "name": "LFO Tool",
+      "developer": "Xfer Records",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://xferrecords.com/products/lfo-tool",
+      "description": "Outil de modulation LFO pour sidechain et effets rythmiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "endless-smile",
+      "slug": "endless-smile",
+      "name": "Endless Smile",
+      "developer": "Dada Life",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.pluginboutique.com/products/39-Endless-Smile",
+      "description": "Effet de build-up pour transitions en live et en club.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "kickstart-2",
+      "slug": "kickstart-2",
+      "name": "Kickstart 2",
+      "developer": "Nicky Romero",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 15.0,
+      "officialUrl": "https://www.pluginboutique.com/products/2-Kickstart-2",
+      "description": "Sidechain pump automatique pour grooves EDM.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "trackspacer-2-5",
+      "slug": "trackspacer-2-5",
+      "name": "Trackspacer 2.5",
+      "developer": "Wavesfactory",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 59.0,
+      "officialUrl": "https://www.wavesfactory.com/products/trackspacer",
+      "description": "Sidechain spectral pour dégager de l'espace dans le mix.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "vocal-rider",
+      "slug": "vocal-rider",
+      "name": "Vocal Rider",
+      "developer": "Waves",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.waves.com/plugins/vocal-rider",
+      "description": "Automatisation du niveau vocal pour un mix constant.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cla-vocals",
+      "slug": "cla-vocals",
+      "name": "CLA Vocals",
+      "developer": "Waves",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.waves.com/plugins/cla-vocals",
+      "description": "Chaîne vocale complète signée Chris Lord-Alge.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fresh-air",
+      "slug": "fresh-air",
+      "name": "Fresh Air",
+      "developer": "Slate Digital",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://slatedigital.com/fresh-air/",
+      "description": "Enhancer aérien gratuit pour ajouter de la brillance.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "virtual-tape-machines",
+      "slug": "virtual-tape-machines",
+      "name": "Virtual Tape Machines",
+      "developer": "Slate Digital",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://slatedigital.com/virtual-tape-machines/",
+      "description": "Émulation de machines à bandes Studer pour chaleur analogique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "heatwave",
+      "slug": "heatwave",
+      "name": "Heatwave",
+      "developer": "Slate Digital",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://slatedigital.com/heatwave/",
+      "description": "Saturateur gratuit rapide pour ajouter de la présence.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "kclip-3",
+      "slug": "kclip-3",
+      "name": "KClip 3",
+      "developer": "Kilohearts",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://kilohearts.com/products/kclip",
+      "description": "Clipper de mastering pour loudness contrôlée.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "multipass",
+      "slug": "multipass",
+      "name": "Multipass",
+      "developer": "Kilohearts",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 99.0,
+      "officialUrl": "https://kilohearts.com/products/multipass",
+      "description": "Multiband multieffet pour traitement par bandes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "snap-heap",
+      "slug": "snap-heap",
+      "name": "Snap Heap",
+      "developer": "Kilohearts",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://kilohearts.com/products/snap_heap",
+      "description": "Rack d'effets modulaire gratuit de Kilohearts.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-u-no-lx",
+      "slug": "tal-u-no-lx",
+      "name": "TAL-U-NO-LX",
+      "developer": "TAL Software",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 60.0,
+      "officialUrl": "https://tal-software.com/products/tal-u-no-lx",
+      "description": "Émulation du Juno-60 avec chorus intégré.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-bassline",
+      "slug": "tal-bassline",
+      "name": "TAL-BassLine",
+      "developer": "TAL Software",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://tal-software.com/products/tal-bassline",
+      "description": "Synthé mono gratuit inspiré du SH-101 pour basses.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "tal-j-8",
+      "slug": "tal-j-8",
+      "name": "TAL-J-8",
+      "developer": "TAL Software",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 60.0,
+      "officialUrl": "https://tal-software.com/products/tal-j-8",
+      "description": "Émulation du Roland Jupiter-8 au son iconique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "pg-8x",
+      "slug": "pg-8x",
+      "name": "PG-8X",
+      "developer": "Martin Lüders",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/pg-8x-by-martin-luders",
+      "description": "Émulation gratuite du Roland JX-8P polyphonique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "versilian-upright-no-1",
+      "slug": "versilian-upright-no-1",
+      "name": "Versilian Upright No. 1",
+      "developer": "Versilian Studios",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://vis.versilstudios.com/vsco-community.html",
+      "description": "Piano droit acoustique gratuit échantillonné.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "piano-one",
+      "slug": "piano-one",
+      "name": "Piano One",
+      "developer": "Sound Magic",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.soundmagic.com.cn/pianoone",
+      "description": "Piano acoustique gratuit au son naturel.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spitfire-soft-piano",
+      "slug": "spitfire-soft-piano",
+      "name": "Spitfire Soft Piano",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/soft-piano",
+      "description": "Piano feutré intime gratuit enregistré par Spitfire.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ivy-audio-piano-in-162",
+      "slug": "ivy-audio-piano-in-162",
+      "name": "Ivy Audio Piano in 162",
+      "developer": "Ivy Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://ivy-audio.com/",
+      "description": "Piano Steinway gratuit échantillonné en détail.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "principessa",
+      "slug": "principessa",
+      "name": "Principessa",
+      "developer": "Pianobook",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.pianobook.co.uk/",
+      "description": "Piano upright communautaire gratuit via Pianobook.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-frozen-strings",
+      "slug": "labs-frozen-strings",
+      "name": "LABS Frozen Strings",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cordes orchestrales gelées et atmosphériques gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-tape-piano",
+      "slug": "labs-tape-piano",
+      "name": "LABS Tape Piano",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Piano enregistré sur bande magnétique, texture lo-fi.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-synth-strings",
+      "slug": "labs-synth-strings",
+      "name": "LABS Synth Strings",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cordes synthétiques rétro gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-mandolin",
+      "slug": "labs-mandolin",
+      "name": "LABS Mandolin",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Mandoline acoustique gratuite pour compositions folk.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-electric-piano",
+      "slug": "labs-electric-piano",
+      "name": "LABS Electric Piano",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Piano électrique vintage gratuit.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-pedal-steel",
+      "slug": "labs-pedal-steel",
+      "name": "LABS Pedal Steel",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Pedal steel guitar gratuit pour ambiances country.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-music-box",
+      "slug": "labs-music-box",
+      "name": "LABS Music Box",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Boîte à musique gratuite pour textures délicates.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-autoharp",
+      "slug": "labs-autoharp",
+      "name": "LABS Autoharp",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Autoharp gratuit pour ambiances folk et indie.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-dulcimer",
+      "slug": "labs-dulcimer",
+      "name": "LABS Dulcimer",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Dulcimer gratuit aux sonorités cristallines.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-lap-steel",
+      "slug": "labs-lap-steel",
+      "name": "LABS Lap Steel",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Lap steel gratuit pour ambiances hawaïennes et ambient.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-hand-bells",
+      "slug": "labs-hand-bells",
+      "name": "LABS Hand Bells",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cloches à main gratuites pour effets lumineux.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-tundra-atmos",
+      "slug": "labs-tundra-atmos",
+      "name": "LABS Tundra Atmos",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Textures atmosphériques nordiques gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-scary-strings",
+      "slug": "labs-scary-strings",
+      "name": "LABS Scary Strings",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cordes inquiétantes gratuites pour suspense.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-moon-guitar",
+      "slug": "labs-moon-guitar",
+      "name": "LABS Moon Guitar",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Guitare acoustique lunaire gratuite et onirique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-harmonic-flute",
+      "slug": "labs-harmonic-flute",
+      "name": "LABS Harmonic Flute",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Flûte harmonique gratuite pour textures aériennes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-bass-guitar",
+      "slug": "labs-bass-guitar",
+      "name": "LABS Bass Guitar",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Basse acoustique gratuite pour grooves organiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-wurli",
+      "slug": "labs-wurli",
+      "name": "LABS Wurli",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Wurlitzer électrique gratuit au son chaleureux.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-amplified-cello-quartet",
+      "slug": "labs-amplified-cello-quartet",
+      "name": "LABS Amplified Cello Quartet",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Quatuor de violoncelles amplifiés gratuit.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-flute",
+      "slug": "labs-rare-flute",
+      "name": "LABS Rare Flute",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Flûte rare gratuite aux timbres uniques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-textural-piano",
+      "slug": "labs-textural-piano",
+      "name": "LABS Textural Piano",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Piano textural gratuit pour ambiances expérimentales.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-synth-choir",
+      "slug": "labs-synth-choir",
+      "name": "LABS Synth Choir",
+      "developer": "Spitfire Audio",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Chœur synthétique gratuit pour pads vocaux.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-electric-guitar",
+      "slug": "labs-electric-guitar",
+      "name": "LABS Electric Guitar",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Guitare électrique gratuite pour arpèges et nappes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-drum-machines",
+      "slug": "labs-drum-machines",
+      "name": "LABS Drum Machines",
+      "developer": "Spitfire Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Machines à rythmes vintage gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-glitch-drums",
+      "slug": "labs-glitch-drums",
+      "name": "LABS Glitch Drums",
+      "developer": "Spitfire Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Batteries glitch gratuites pour productions IDM.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-autograph-grand",
+      "slug": "labs-autograph-grand",
+      "name": "LABS Autograph Grand",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Piano à queue concert gratuit.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-peel-guitar",
+      "slug": "labs-peel-guitar",
+      "name": "LABS Peel Guitar",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Guitare acoustique peel gratuite au son cru.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-organic-textures",
+      "slug": "labs-organic-textures",
+      "name": "LABS Organic Textures",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Textures organiques gratuites pour soundscapes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-arctic-swells",
+      "slug": "labs-arctic-swells",
+      "name": "LABS Arctic Swells",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Nappes orchestrales arctiques gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-violins",
+      "slug": "labs-rare-violins",
+      "name": "LABS Rare Violins",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Violons rares gratuits pour mélodies expressives.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-woodwinds",
+      "slug": "labs-rare-woodwinds",
+      "name": "LABS Rare Woodwinds",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Bois rares gratuits pour orchestrations.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-brass",
+      "slug": "labs-rare-brass",
+      "name": "LABS Rare Brass",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cuivres rares gratuits pour fanfares et textures.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-percussion",
+      "slug": "labs-rare-percussion",
+      "name": "LABS Rare Percussion",
+      "developer": "Spitfire Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Percussions rares gratuites pour rythmes uniques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-vocal",
+      "slug": "labs-rare-vocal",
+      "name": "LABS Rare Vocal",
+      "developer": "Spitfire Audio",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Voix rares gratuites pour textures vocales.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-strings",
+      "slug": "labs-rare-strings",
+      "name": "LABS Rare Strings",
+      "developer": "Spitfire Audio",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Cordes rares gratuites pour arrangements.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-keys",
+      "slug": "labs-rare-keys",
+      "name": "LABS Rare Keys",
+      "developer": "Spitfire Audio",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Claviers rares gratuits pour textures vintage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-synth",
+      "slug": "labs-rare-synth",
+      "name": "LABS Rare Synth",
+      "developer": "Spitfire Audio",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Synthés rares gratuits pour pads rétro.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-guitar",
+      "slug": "labs-rare-guitar",
+      "name": "LABS Rare Guitar",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Guitares rares gratuites pour sonorités uniques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-bass",
+      "slug": "labs-rare-bass",
+      "name": "LABS Rare Bass",
+      "developer": "Spitfire Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Basses rares gratuites pour grooves profonds.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-drums",
+      "slug": "labs-rare-drums",
+      "name": "LABS Rare Drums",
+      "developer": "Spitfire Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Batteries rares gratuites pour grooves atypiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-fx",
+      "slug": "labs-rare-fx",
+      "name": "LABS Rare FX",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Effets sonores rares gratuits pour sound design.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "labs-rare-ambient",
+      "slug": "labs-rare-ambient",
+      "name": "LABS Rare Ambient",
+      "developer": "Spitfire Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Ambiances rares gratuites pour compositions atmosphériques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "splice",
+      "slug": "splice",
+      "name": "Splice",
+      "developer": "Splice",
+      "category": "loop_pack",
+      "formats": [
+        "WAV",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 13.0,
+      "officialUrl": "https://splice.com/",
+      "description": "Abonnement à des millions de loops, one-shots et presets avec plugin DAW.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "wave-alchemy-tapewave",
+      "slug": "wave-alchemy-tapewave",
+      "name": "Wave Alchemy Tapewave",
+      "developer": "Wave Alchemy",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.wavealchemy.co.uk/tapewave/",
+      "description": "Pack de loops vintage enregistrés sur bande magnétique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "black-octopus-leviathan",
+      "slug": "black-octopus-leviathan",
+      "name": "Black Octopus Leviathan",
+      "developer": "Black Octopus Sound",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 79.0,
+      "officialUrl": "https://blackoctopus-sound.com/product/leviathan/",
+      "description": "Collection massive de samples EDM, dubstep et bass music.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "sample-magic-raw-techno",
+      "slug": "sample-magic-raw-techno",
+      "name": "Sample Magic Raw Techno",
+      "developer": "Sample Magic",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 29.0,
+      "officialUrl": "https://www.samplemagic.com/",
+      "description": "Loops et one-shots techno bruts pour production club.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "touch-loops-deep-house",
+      "slug": "touch-loops-deep-house",
+      "name": "Touch Loops Deep House",
+      "developer": "Touch Loops",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 25.0,
+      "officialUrl": "https://www.touchloops.com/",
+      "description": "Loops deep house et grooves organiques.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "producer-loops-trap-essentials",
+      "slug": "producer-loops-trap-essentials",
+      "name": "Producer Loops Trap Essentials",
+      "developer": "Producer Loops",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 35.0,
+      "officialUrl": "https://www.producerloops.com/",
+      "description": "Pack trap avec 808, hi-hats et mélodies.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "ghost-syndicate-dnb-evolution",
+      "slug": "ghost-syndicate-dnb-evolution",
+      "name": "Ghost Syndicate DnB Evolution",
+      "developer": "Ghost Syndicate",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 39.0,
+      "officialUrl": "https://www.ghostsyndicate.net/",
+      "description": "Loops drum & bass modernes et basslines profondes.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "loopmasters-tech-house",
+      "slug": "loopmasters-tech-house",
+      "name": "Loopmasters Tech House",
+      "developer": "Loopmasters",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 35.0,
+      "officialUrl": "https://www.loopmasters.com/",
+      "description": "Collection tech house avec tops, percussions et basses.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "beatport-sounds",
+      "slug": "beatport-sounds",
+      "name": "Beatport Sounds",
+      "developer": "Beatport",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 10.0,
+      "officialUrl": "https://www.beatport.com/sounds",
+      "description": "Marketplace de packs loops et samples par genre.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cymatics-infinity-loop-pack",
+      "slug": "cymatics-infinity-loop-pack",
+      "name": "Cymatics Infinity Loop Pack",
+      "developer": "Cymatics",
+      "category": "loop_pack",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://cymatics.fm/",
+      "description": "Pack de loops gratuit populaire en production électronique.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cymatics-free-drum-kits",
+      "slug": "cymatics-free-drum-kits",
+      "name": "Cymatics Free Drum Kits",
+      "developer": "Cymatics",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://cymatics.fm/",
+      "description": "Kits de batterie gratuits : 808, trap, hip-hop et EDM.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cymatics-infinity-drum-collection",
+      "slug": "cymatics-infinity-drum-collection",
+      "name": "Cymatics Infinity Drum Collection",
+      "developer": "Cymatics",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://cymatics.fm/",
+      "description": "Collection de one-shots et drum loops pour trap et EDM.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "splice-sounds-drums",
+      "slug": "splice-sounds-drums",
+      "name": "Splice Sounds Drums",
+      "developer": "Splice",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 13.0,
+      "officialUrl": "https://splice.com/sounds/packs",
+      "description": "Des milliers de packs drums one-shot via abonnement Splice.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "kshmr-samples-vol-4",
+      "slug": "kshmr-samples-vol-4",
+      "name": "KSHMR Samples Vol. 4",
+      "developer": "KSHMR",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 40.0,
+      "officialUrl": "https://www.splice.com/kshmr",
+      "description": "Kicks, snares et percussions du producteur KSHMR.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "native-instruments-battery-4",
+      "slug": "native-instruments-battery-4",
+      "name": "Native Instruments Battery 4",
+      "developer": "Native Instruments",
+      "category": "drum_kit",
+      "formats": [
+        "Battery",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/drums/battery-4/",
+      "description": "Sampler de drums avec expansions et kits inclus.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "xln-audio-ad2-modern-rock",
+      "slug": "xln-audio-ad2-modern-rock",
+      "name": "XLN Audio AD2 Modern Rock",
+      "developer": "XLN Audio",
+      "category": "drum_kit",
+      "formats": [
+        "WAV",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.xlnaudio.com/products/addictive_drums_2",
+      "description": "Expansion rock moderne pour Addictive Drums 2.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "wave-alchemy-drum-tools",
+      "slug": "wave-alchemy-drum-tools",
+      "name": "Wave Alchemy Drum Tools",
+      "developer": "Wave Alchemy",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 49.0,
+      "officialUrl": "https://www.wavealchemy.co.uk/drum-tools/",
+      "description": "One-shots de boîtes à rythmes vintage traitées.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "roland-cloud-tr-808",
+      "slug": "roland-cloud-tr-808",
+      "name": "Roland Cloud TR-808",
+      "developer": "Roland",
+      "category": "drum_kit",
+      "formats": [
+        "WAV",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 20.0,
+      "officialUrl": "https://roland.com/roland-cloud/",
+      "description": "Samples authentiques de la TR-808 via Roland Cloud.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spitfire-labs-glitch-drums",
+      "slug": "spitfire-labs-glitch-drums",
+      "name": "Spitfire LABS Glitch Drums",
+      "developer": "Spitfire Audio",
+      "category": "drum_kit",
+      "formats": [
+        "WAV",
+        "Kontakt"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Batteries glitch gratuites pour productions expérimentales.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "spitfire-labs-drum-machines",
+      "slug": "spitfire-labs-drum-machines",
+      "name": "Spitfire LABS Drum Machines",
+      "developer": "Spitfire Audio",
+      "category": "drum_kit",
+      "formats": [
+        "WAV",
+        "Kontakt"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.spitfireaudio.com/labs",
+      "description": "Machines à rythmes vintage gratuites.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "808-mafia-official-kits",
+      "slug": "808-mafia-official-kits",
+      "name": "808 Mafia Official Kits",
+      "developer": "808 Mafia",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 30.0,
+      "officialUrl": "https://www.beatport.com/",
+      "description": "Kits trap et 808 distribués via boutiques officielles.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "slayed-gnarly",
+      "slug": "slayed-gnarly",
+      "name": "Slayed Gnarly",
+      "developer": "Slayed",
+      "category": "drum_kit",
+      "formats": [
+        "WAV"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 35.0,
+      "officialUrl": "https://www.pluginboutique.com/",
+      "description": "One-shots et loops trap agressifs pour production moderne.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "unison-midi-chord-pack",
+      "slug": "unison-midi-chord-pack",
+      "name": "Unison MIDI Chord Pack",
+      "developer": "Unison",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 67.0,
+      "officialUrl": "https://unison.audio/",
+      "description": "1200+ progressions d'accords MIDI pour tous genres.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "unison-free-midi-pack",
+      "slug": "unison-free-midi-pack",
+      "name": "Unison Free MIDI Pack",
+      "developer": "Unison",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://unison.audio/",
+      "description": "Pack MIDI gratuit avec mélodies et accords.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cymatics-midi-collection",
+      "slug": "cymatics-midi-collection",
+      "name": "Cymatics MIDI Collection",
+      "developer": "Cymatics",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://cymatics.fm/",
+      "description": "Mélodies, accords et basslines MIDI gratuits.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "wa-production-midi-chord-pack",
+      "slug": "wa-production-midi-chord-pack",
+      "name": "WA Production MIDI Chord Pack",
+      "developer": "W.A. Production",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 29.0,
+      "officialUrl": "https://www.waproduction.com/",
+      "description": "Progressions d'accords MIDI pour EDM, pop et hip-hop.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "cthulhu",
+      "slug": "cthulhu",
+      "name": "Cthulhu",
+      "developer": "Xfer Records",
+      "category": "midi_kit",
+      "formats": [
+        "VST3",
+        "AU",
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 39.0,
+      "officialUrl": "https://xferrecords.com/products/cthulhu",
+      "description": "Générateur d'accords et arpégiateur MIDI créatif.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "hooktheory-hookpad",
+      "slug": "hooktheory-hookpad",
+      "name": "Hooktheory Hookpad",
+      "developer": "Hooktheory",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 50.0,
+      "officialUrl": "https://www.hooktheory.com/hookpad",
+      "description": "Outil de composition avec export MIDI et théorie musicale.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "splice-midi-packs",
+      "slug": "splice-midi-packs",
+      "name": "Splice MIDI Packs",
+      "developer": "Splice",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 13.0,
+      "officialUrl": "https://splice.com/sounds/packs",
+      "description": "Packs MIDI mélodies, basses et accords via abonnement.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "producer-hive-midi-vault",
+      "slug": "producer-hive-midi-vault",
+      "name": "Producer Hive MIDI Vault",
+      "developer": "Producer Hive",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 25.0,
+      "officialUrl": "https://producerhive.com/",
+      "description": "Collection de MIDI packs pour house, techno et trap.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "loopmasters-midi-packs",
+      "slug": "loopmasters-midi-packs",
+      "name": "Loopmasters MIDI Packs",
+      "developer": "Loopmasters",
+      "category": "midi_kit",
+      "formats": [
+        "MIDI"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 20.0,
+      "officialUrl": "https://www.loopmasters.com/",
+      "description": "Packs MIDI par genre : house, DnB, hip-hop et plus.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "komplete-15-ultimate",
+      "slug": "komplete-15-ultimate",
+      "name": "Komplete 15 Ultimate",
+      "developer": "Native Instruments",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 1799.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-ultimate/",
+      "description": "Bundle complet NI : 150+ instruments, effets et expansions.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "komplete-15-standard",
+      "slug": "komplete-15-standard",
+      "name": "Komplete 15 Standard",
+      "developer": "Native Instruments",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 599.0,
+      "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-standard/",
+      "description": "Bundle standard avec les essentiels Komplete 15.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "plugin-alliance-mega-bundle",
+      "slug": "plugin-alliance-mega-bundle",
+      "name": "Plugin Alliance Mega Bundle",
+      "developer": "Plugin Alliance",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 249.0,
+      "officialUrl": "https://www.plugin-alliance.com/",
+      "description": "Collection de plugins de mastering et mixage premium.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "waves-mercury-bundle",
+      "slug": "waves-mercury-bundle",
+      "name": "Waves Mercury Bundle",
+      "developer": "Waves",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 599.0,
+      "officialUrl": "https://www.waves.com/bundles/mercury",
+      "description": "Plus de 150 plugins Waves pour mixage, mastering et création.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "izotope-music-production-suite-6",
+      "slug": "izotope-music-production-suite-6",
+      "name": "iZotope Music Production Suite 6",
+      "developer": "iZotope",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 499.0,
+      "officialUrl": "https://www.izotope.com/en/shop/music-production-suite",
+      "description": "Suite complète : Ozone, Neutron, RX, Nectar et plus.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "arturia-v-collection-10",
+      "slug": "arturia-v-collection-10",
+      "name": "Arturia V Collection 10",
+      "developer": "Arturia",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 599.0,
+      "officialUrl": "https://www.arturia.com/products/software-instruments/v-collection/",
+      "description": "32 émulations de synthés et pianos légendaires.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "slate-digital-all-access-pass",
+      "slug": "slate-digital-all-access-pass",
+      "name": "Slate Digital All Access Pass",
+      "developer": "Slate Digital",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 15.0,
+      "officialUrl": "https://slatedigital.com/all-access-pass/",
+      "description": "Abonnement mensuel à tous les plugins Slate Digital.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "softube-volume-1-bundle",
+      "slug": "softube-volume-1-bundle",
+      "name": "Softube Volume 1 Bundle",
+      "developer": "Softube",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 199.0,
+      "officialUrl": "https://www.softube.com/bundles",
+      "description": "Bundle d'effets et d'amplis Softube pour le mixage.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "reason-studios-reason-bundle",
+      "slug": "reason-studios-reason-bundle",
+      "name": "Reason Studios Reason+ Bundle",
+      "developer": "Reason Studios",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "Standalone"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 20.0,
+      "officialUrl": "https://www.reasonstudios.com/reason",
+      "description": "Abonnement Reason+ avec Rack, instruments et effets.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "meldaproduction-mcompletebundle",
+      "slug": "meldaproduction-mcompletebundle",
+      "name": "MeldaProduction MCompleteBundle",
+      "developer": "MeldaProduction",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 499.0,
+      "officialUrl": "https://www.meldaproduction.com/MCompleteBundle",
+      "description": "Bundle complet de 100+ plugins MeldaProduction.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "soundtoys-5",
+      "slug": "soundtoys-5",
+      "name": "Soundtoys 5",
+      "developer": "Soundtoys",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 499.0,
+      "officialUrl": "https://www.soundtoys.com/product/soundtoys-5/",
+      "description": "Collection complète des effets créatifs Soundtoys.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    },
+    {
+      "id": "fabfilter-total-bundle",
+      "slug": "fabfilter-total-bundle",
+      "name": "FabFilter Total Bundle",
+      "developer": "FabFilter",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": 899.0,
+      "officialUrl": "https://www.fabfilter.com/bundles/total-bundle",
+      "description": "Tous les plugins FabFilter : EQ, compression, reverb, saturation.",
+      "discoveredAt": "2026-07-12",
+      "source": "manual"
+    }
+  ]
+}
