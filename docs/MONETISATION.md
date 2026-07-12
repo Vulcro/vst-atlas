@@ -1,139 +1,93 @@
 # Monétisation — VST Atlas
 
-Guide pour activer **Google AdSense** et les **programmes d'affiliation**.
+Guide pour activer **Google AdSense** et **Plugin Boutique Affiliates**.
 
 ---
 
-## Étape 1 — Google AdSense (15 min + délai validation)
+## État actuel
 
-### Inscription
+| Élément | Statut |
+|---------|--------|
+| AdSense demande | ✅ Soumise |
+| ID éditeur | `ca-pub-5124693825307043` |
+| `ads.txt` | ✅ Configuré |
+| Plugin Boutique | ⏳ En attente d'approbation |
+| Thomann affiliation | ❌ Programme fermé |
 
-1. Allez sur [google.com/adsense](https://www.google.com/adsense)
-2. Connectez-vous avec votre compte Google
-3. **Ajouter un site** → `vstatlas.fr`
-4. Pays : **France**
-5. Validez les conditions
+---
 
-### Pendant la validation (1–4 semaines)
+## Étape 1 — Google AdSense
 
-Google vérifie :
-- ✅ Site accessible (`vstatlas.fr`)
-- ✅ Contenu original (270+ fiches plugins)
-- ✅ Pages légales (`/mentions-legales`, `/confidentialite`)
-- ✅ Bannière cookies (RGPD)
-- ✅ `ads.txt` présent → `https://vstatlas.fr/ads.txt`
+### ads.txt (déjà configuré)
 
-**Ne cliquez pas sur vos propres pubs** une fois actif (risque de ban).
+```
+google.com, pub-5124693825307043, DIRECT, f08c47fec0942fa0
+```
 
-### Après approbation
+Vérifiez : [vstatlas.fr/ads.txt](https://vstatlas.fr/ads.txt)
 
-1. Récupérez votre **ID éditeur** : `ca-pub-XXXXXXXXXXXXXXXX`
-2. Créez une **unité publicitaire** (Display, responsive)
-3. Récupérez l'**ID emplacement** : `1234567890`
-
-### Configuration Vercel
+### Configuration Vercel (obligatoire pour afficher les pubs)
 
 **Settings** → **Environment Variables** :
 
-| Variable | Exemple | Environnements |
-|----------|---------|----------------|
-| `NEXT_PUBLIC_ADSENSE_CLIENT` | `ca-pub-1234567890` | Production, Preview, Development |
-| `NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT` | `9876543210` | Production, Preview, Development |
+| Variable | Valeur |
+|----------|--------|
+| `NEXT_PUBLIC_ADSENSE_CLIENT` | `ca-pub-5124693825307043` |
+| `NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT` | *(à ajouter après création d'une unité pub)* |
 
-4. Mettez à jour `web/public/ads.txt` :
+Après approbation AdSense :
+1. Créez une **unité publicitaire** Display responsive dans AdSense
+2. Copiez l'**ID emplacement** dans `NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT`
+3. Redéployez sur Vercel
 
-```
-google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
-```
-
-(Remplacez `pub-...` par l'ID sans le préfixe `ca-`)
-
-5. Commit + push → redeploy automatique
-6. Les emplacements pub remplacent les placeholders sur le site
+**Ne cliquez pas sur vos propres pubs** (risque de ban).
 
 ---
 
-## Étape 2 — Affiliation Plugin Boutique (gratuit, ~5 min)
+## Étape 2 — Affiliation Plugin Boutique
 
 ### Inscription
 
 1. [pluginboutique.com/affiliates](https://www.pluginboutique.com/affiliates)
-2. Créez un compte affilié
-3. Décrivez le site : *« Catalogue français de plugins VST — vstatlas.fr »*
-4. Une fois approuvé, récupérez votre **Affiliate ID** (paramètre `a=XXXXX`)
+2. Site : *« Catalogue français de plugins VST — vstatlas.fr »*
+3. Une fois approuvé → récupérez votre **Affiliate ID** (`a=XXXXX`)
 
 ### Configuration Vercel
 
-| Variable | Exemple |
-|----------|---------|
-| `NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE` | `12345` |
+| Variable | Valeur |
+|----------|--------|
+| `NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE` | votre ID |
 
-→ Les liens vers `pluginboutique.com` incluront automatiquement `?a=12345`.
+→ Les liens `pluginboutique.com` incluront automatiquement `?a=XXXXX`.
 
 Commission typique : **15–30 %** par vente.
 
 ---
 
-## Étape 3 — Affiliation Thomann (gratuit, ~5 min)
-
-### Inscription
-
-1. [thomann.fr/compinfo_affiliate.html](https://www.thomann.fr/fr/compinfo_affiliate.html)
-2. Inscrivez-vous au programme partenaire
-3. Récupérez votre **Partner ID** (`affid=XXXXX`)
-
-### Configuration Vercel
-
-| Variable | Exemple |
-|----------|---------|
-| `NEXT_PUBLIC_AFFILIATE_THOMANN` | `12345` |
-
-→ Les liens vers `thomann.fr` / `thomann.de` seront affiliés automatiquement.
-
----
-
-## Étape 4 — Déclaration fiscale (France)
+## Déclaration fiscale (France)
 
 Dès les premiers revenus :
-- **Micro-entreprise** si vous dépassez le seuil de activité commerciale
-- Déclarez revenus AdSense + affiliation en **BNC** ou **BIC**
+- **Micro-entreprise** si vous dépassez le seuil
 - [autoentrepreneur.urssaf.fr](https://www.autoentrepreneur.urssaf.fr)
-
-Seuil 2026 micro-entreprise prestations : vérifiez le montant en vigueur sur [service-public.fr](https://www.service-public.fr).
-
----
-
-## Projections réalistes
-
-| Période | Trafic | AdSense | Affiliation |
-|---------|--------|---------|-------------|
-| Mois 1–2 | Indexation | 0 € | 0 € |
-| Mois 3–4 | 500–2 000/mois | 5–20 € | 0–30 € |
-| Mois 6+ | 2 000–10 000/mois | 20–80 € | 30–150 € |
-
-La MAO a un RPM AdSense plus élevé que la moyenne (~3–8 € / 1 000 vues).
 
 ---
 
 ## Checklist
 
-- [ ] Demande AdSense soumise pour `vstatlas.fr`
-- [ ] Inscription Plugin Boutique Affiliates
-- [ ] Inscription Thomann Partner
-- [ ] Variables Vercel ajoutées après approbation
-- [ ] `ads.txt` mis à jour avec le pub-ID
+- [x] Demande AdSense soumise
+- [x] `ads.txt` configuré
+- [ ] Variable `NEXT_PUBLIC_ADSENSE_CLIENT` dans Vercel
+- [ ] Unité pub créée + `NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT`
+- [ ] Plugin Boutique approuvé + ID affilié dans Vercel
 - [ ] Micro-entreprise si revenus réguliers
 
 ---
 
-## Variables d'environnement (résumé)
+## Variables d'environnement
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://vstatlas.fr
-NEXT_PUBLIC_ADSENSE_CLIENT=ca-pub-XXXXXXXXXXXXXXXX
+NEXT_PUBLIC_ADSENSE_CLIENT=ca-pub-5124693825307043
 NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT=1234567890
 NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE=12345
-NEXT_PUBLIC_AFFILIATE_THOMANN=12345
 ```
-
-Toutes les variables `NEXT_PUBLIC_*` doivent être dans Vercel pour être actives en production.

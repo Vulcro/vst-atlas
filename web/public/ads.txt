@@ -1,5 +1,1 @@
-# Remplacer pub-XXXXXXXXXXXXXXXX par votre ID éditeur AdSense après approbation.
-# Format : google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-#
-# Exemple :
-# google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+google.com, pub-5124693825307043, DIRECT, f08c47fec0942fa0

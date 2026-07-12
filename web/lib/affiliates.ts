@@ -1,6 +1,5 @@
 const PLUGIN_BOUTIQUE_ID =
   process.env.NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE ?? "";
-const THOMANN_ID = process.env.NEXT_PUBLIC_AFFILIATE_THOMANN ?? "";
 
 export interface OutboundLink {
   url: string;
@@ -33,20 +32,11 @@ export function getOutboundUrl(officialUrl: string): OutboundLink {
     };
   }
 
-  if (THOMANN_ID && host.includes("thomann.")) {
-    parsed.searchParams.set("affid", THOMANN_ID);
-    return {
-      url: parsed.toString(),
-      isAffiliate: true,
-      partner: "Thomann",
-    };
-  }
-
   return { url: officialUrl, isAffiliate: false };
 }
 
 export function hasAffiliatePrograms(): boolean {
-  return Boolean(PLUGIN_BOUTIQUE_ID || THOMANN_ID);
+  return Boolean(PLUGIN_BOUTIQUE_ID);
 }
 
 export function getOutboundLabel(link: OutboundLink, fallback = "Voir sur le site officiel"): string {

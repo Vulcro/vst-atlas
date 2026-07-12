@@ -72,7 +72,7 @@ Dans Vercel → Settings → Domains → ajoutez votre domaine et configurez les
 Guide complet : [`docs/MONETISATION.md`](docs/MONETISATION.md)
 
 1. **AdSense** : [google.com/adsense](https://www.google.com/adsense) → ajoutez `vstatlas.fr`
-2. **Affiliation** : Plugin Boutique + Thomann (gratuit)
+2. **Affiliation** : Plugin Boutique (gratuit)
 3. Variables Vercel après approbation (voir guide)
 
 ### Étape 6 — Google AdSense (variables)
@@ -102,7 +102,7 @@ Pour lancer manuellement : Actions → Weekly VST Discovery → Run workflow
 
 | Investissement | Coût | Impact |
 |----------------|------|--------|
-| Affiliation Plugin Boutique / Thomann | 0 € | Revenus complémentaires |
+| Affiliation Plugin Boutique | 0 € | Revenus complémentaires |
 | Newsletter Brevo | 0 € (plan gratuit) | Fidélisation |
 | Articles SEO ciblés | 0 € | Accélère le référencement |
 
