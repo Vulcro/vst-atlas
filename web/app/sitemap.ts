@@ -3,6 +3,8 @@ import { SITE_URL } from "@/lib/constants";
 import { getAllPlugins } from "@/lib/plugins";
 import { CATEGORY_ORDER, CONTENT_SECTIONS } from "@/lib/categories";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const plugins = getAllPlugins();
   const now = new Date();

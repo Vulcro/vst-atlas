@@ -29,8 +29,8 @@ git push -u origin main
 1. Allez sur [vercel.com/new](https://vercel.com/new)
 2. **Import** votre repo GitHub `vst-atlas`
 3. Configuration :
-   - **Root Directory** : `web`
-   - **Framework** : Next.js (auto-détecté)
+   - **Root Directory** : laissez **vide**
+   - Le build est défini dans `vercel.json` à la racine
 4. **Environment Variables** :
 
 | Variable | Valeur |

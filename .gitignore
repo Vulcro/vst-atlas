@@ -24,3 +24,5 @@ Thumbs.db
 # Build
 out/
 dist/
+web/out/
+web/.next/

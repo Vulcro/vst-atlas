@@ -52,8 +52,8 @@ npm run build
 
 1. Créez un compte sur [vercel.com](https://vercel.com)
 2. Importez ce repo GitHub
-3. **Root Directory** : `web`
-4. Framework : Next.js (auto-détecté)
+3. **Root Directory** : laissez **vide** (le site est configuré depuis la racine)
+4. Framework : Other (détecté via `vercel.json`)
 5. Ajoutez la variable d'environnement :
    - `NEXT_PUBLIC_SITE_URL` = `https://vstatlas.fr`
 
