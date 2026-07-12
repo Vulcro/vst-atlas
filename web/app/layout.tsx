@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { CookieBanner } from "@/components/CookieBanner";
+import { AdSenseScript } from "@/components/AdSenseScript";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/constants";
@@ -57,6 +58,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col">
+        <AdSenseScript />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

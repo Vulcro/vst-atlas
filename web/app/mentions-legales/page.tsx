@@ -37,11 +37,12 @@ export default function LegalPage() {
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold text-foreground">Publicité</h2>
+          <h2 className="text-xl font-semibold text-foreground">Publicité et affiliation</h2>
           <p>
-            Ce site peut afficher des publicités via Google AdSense. Les liens vers
-            les éditeurs et boutiques peuvent être des liens commerciaux. Les
-            revenus publicitaires contribuent au financement du catalogue.
+            Ce site peut afficher des publicités via Google AdSense. Certains liens
+            vers Plugin Boutique, Thomann et d&apos;autres boutiques sont des liens
+            affiliés : nous pouvons percevoir une commission sans surcoût pour
+            l&apos;utilisateur. Ces revenus financent la maintenance du catalogue.
           </p>
         </section>
 

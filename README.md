@@ -67,7 +67,15 @@ Dans Vercel → Settings → Domains → ajoutez votre domaine et configurez les
 2. Ajoutez votre domaine
 3. Soumettez le sitemap : `https://vstatlas.fr/sitemap.xml`
 
-### Étape 5 — Google AdSense (gratuit)
+### Étape 5 — Monétisation
+
+Guide complet : [`docs/MONETISATION.md`](docs/MONETISATION.md)
+
+1. **AdSense** : [google.com/adsense](https://www.google.com/adsense) → ajoutez `vstatlas.fr`
+2. **Affiliation** : Plugin Boutique + Thomann (gratuit)
+3. Variables Vercel après approbation (voir guide)
+
+### Étape 6 — Google AdSense (variables)
 
 1. [google.com/adsense](https://www.google.com/adsense)
 2. Créez un compte et ajoutez votre site
@@ -88,7 +96,7 @@ Pour lancer manuellement : Actions → Weekly VST Discovery → Run workflow
 
 - Déclarez vos revenus AdSense (micro-entreprise si > seuil)
 - Les pages `/mentions-legales` et `/confidentialite` sont incluses
-- Configurez `contact@vstatlas.fr` (redirection email chez votre registrar)
+- Configurez `contact@vstatlas.fr` — voir [`docs/EMAIL-vstatlas.md`](docs/EMAIL-vstatlas.md) (1 boîte gratuite Infomaniak incluse avec le domaine)
 
 ## Budget mois 2+
 

@@ -51,8 +51,9 @@ export function Footer() {
           <p className="font-medium text-foreground">Transparence</p>
           <p className="mt-3 leading-relaxed">
             Ce site peut afficher de la publicité (Google AdSense) et contient des
-            liens vers des éditeurs officiels. Les revenus publicitaires
-            financent la maintenance du catalogue.
+            liens affiliés vers Plugin Boutique, Thomann et les éditeurs officiels.
+            Les commissions et revenus publicitaires financent la maintenance du
+            catalogue.
           </p>
         </div>
       </div>

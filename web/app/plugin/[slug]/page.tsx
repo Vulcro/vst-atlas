@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { CategoryBadge } from "@/components/CategoryBadge";
+import { getOutboundLabel, getOutboundUrl } from "@/lib/affiliates";
 import { getAllPlugins, getPluginBySlug, formatPrice } from "@/lib/plugins";
 import { SITE_URL } from "@/lib/constants";
 
@@ -35,6 +36,9 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
   const plugin = getPluginBySlug(slug);
   if (!plugin) notFound();
 
+  const outbound = getOutboundUrl(plugin.officialUrl);
+  const outboundLabel = getOutboundLabel(outbound);
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
@@ -45,7 +49,7 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
       "@type": "Offer",
       price: plugin.isFree ? 0 : plugin.priceEur ?? 0,
       priceCurrency: "EUR",
-      url: plugin.officialUrl,
+      url: outbound.url,
     },
     author: {
       "@type": "Organization",
@@ -115,13 +119,19 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
           </div>
 
           <a
-            href={plugin.officialUrl}
+            href={outbound.url}
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="mt-8 inline-flex rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white hover:bg-accent-soft"
           >
-            Voir sur le site officiel
+            {outboundLabel}
           </a>
+          {outbound.isAffiliate && (
+            <p className="mt-3 text-xs text-muted">
+              Lien affilié — nous pouvons percevoir une commission sans surcoût pour
+              vous.
+            </p>
+          )}
         </article>
 
         <aside className="space-y-6">
