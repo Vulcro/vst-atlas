@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-13",
   "plugins": [
     {
       "id": "vital",
@@ -5666,6 +5666,1182 @@
       "description": "Tous les plugins FabFilter : EQ, compression, reverb, saturation.",
       "discoveredAt": "2026-07-12",
       "source": "manual"
+    },
+    {
+      "id": "roomreverb",
+      "slug": "roomreverb",
+      "name": "Roomreverb",
+      "developer": "Mr-Hamza1001",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Mr-Hamza1001/RoomReverb",
+      "description": "🔊 Simulate room acoustics with this JUCE-based audio plugin that generates realistic reverb using ray-tracing techniques for improved sound design.",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "fl-25-2-5",
+      "slug": "fl-25-2-5",
+      "name": "Fl 25.2.5",
+      "developer": "ImageLine-Project",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/ImageLine-Project/fl-25.2.5",
+      "description": "fl 25.2.5 image line daw digital audio workstation music production beat making vst plugins audio editing mixing mastering piano roll step sequencer audio interface asio4all producer edition desktop utility installation setup guide beginner tutorial workflow optimization",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "micvst",
+      "slug": "micvst",
+      "name": "Micvst",
+      "developer": "tenrececaudatusarmour182",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/tenrececaudatusarmour182/MicVST",
+      "description": "Route your microphone through VST3 plugins and output the processed audio to any application using a virtual audio cable.",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "quill",
+      "slug": "quill",
+      "name": "Quill",
+      "developer": "nickpanaccione",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/nickpanaccione/Quill",
+      "description": "Quill is a live C++ DSP prototyping VST/AU plugin built on JUCE.",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "duq",
+      "slug": "duq",
+      "name": "Duq",
+      "developer": "gradippp",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/gradippp/duq",
+      "description": "[WIP] MIDI-Based Envelope Trigger plugin",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "morass",
+      "slug": "morass",
+      "name": "Morass",
+      "developer": "bogware",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/bogware/morass",
+      "description": "Studio vocal channel-strip audio plugin (AU/AUv3/VST3/Standalone), built on JUCE 8.",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "juce",
+      "slug": "juce",
+      "name": "Juce",
+      "developer": "juce-framework",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "delay",
+      "slug": "delay",
+      "name": "Delay",
+      "developer": "petetheman79",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/petetheman79/Delay",
+      "description": "A Delay VST Plugin based on the tutorial in the book \"The Complete Beginner's Guide to Audio Plug-in Development\"",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "wire-wound-12",
+      "slug": "wire-wound-12",
+      "name": "Wire Wound 12",
+      "developer": "Jtekkk",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Jtekkk/WIRE-WOUND-12",
+      "description": "12 KINDS OF AUDIO TRANSFORMES SELECTABLE IN A VST PLUGIN",
+      "discoveredAt": "2026-07-13",
+      "source": "github"
+    },
+    {
+      "id": "eldoraudio-launches-guitar-audio-to-midi-converter-for-turning-guitar-recordings",
+      "slug": "eldoraudio-launches-guitar-audio-to-midi-converter-for-turning-guitar-recordings",
+      "name": "Eldoraudio launches Guitar Audio to MIDI Converter for turning guitar recordings",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
+      "description": "Eldoraudio has launched Guitar Audio to MIDI Converter, a browser-based tool that transcribes guitar recordings into standard MIDI files. The new guitar converter joins Eldoraudio’s existing Piano Audio to MIDI Converter. You upload an audio file, set the BPM if needed, and get b",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "xnullx-releases-five-free-plugins-for-sound-design-and-sound-mangling",
+      "slug": "xnullx-releases-five-free-plugins-for-sound-design-and-sound-mangling",
+      "name": "XNULLX releases five FREE plugins for sound design and sound mangling",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/12/xnullx/",
+      "description": "Developer XNULLX has released five free donationware plugins covering granular processing, saturation, wavefolding, spectral smear, and beat slicing. I will be honest right away. I like the tools themselves, but I am getting tired of the current wave of AI-generated plugin websit",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "angelic-vibes-releases-spread-a-free-stereo-widening-plugin",
+      "slug": "angelic-vibes-releases-spread-a-free-stereo-widening-plugin",
+      "name": "Angelic Vibes releases Spread, a FREE stereo widening plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/11/angelic-vibes-spread/",
+      "description": "Developer Angelic Vibes has released Spread, a free stereo widening plugin for macOS and Windows. Spread is the second installment in the developer’s AV Essentials FX series (which I think also includes the free Pitchshifter that we recently featured). It is designed for vocals, ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "schulz-audio-offers-portacrunch-424-cassette-gain-stage-plugin-for-free",
+      "slug": "schulz-audio-offers-portacrunch-424-cassette-gain-stage-plugin-for-free",
+      "name": "Schulz Audio offers Portacrunch 424 cassette gain-stage plugin for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/11/schulz-audio-portacrunch-424/",
+      "description": "Developer Schulz Audio is offering Portacrunch 424, a cassette four-track gain-stage effect for macOS and Windows, as a free download. There’s no expiry date listed on the Portacrunch 424 product page, and the summer sale had around 15 hours remaining at the time of writing, but ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "free-fx-plugins-aplenty-with-the-kvr-developer-challenge-2026",
+      "slug": "free-fx-plugins-aplenty-with-the-kvr-developer-challenge-2026",
+      "name": "FREE FX plugins aplenty with the KVR Developer Challenge 2026",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/10/fx-kvrdc26/",
+      "description": "The KVR Developer Challenge 26 not only provides a platform for existing and aspiring developers to showcase their creativity but also offers us an opportunity to stock up on new tools that enhance our workflow for free. And show our appreciation, of course. But, seriously, it’s ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "almudio-releases-3d-panner-a-free-binaural-spatial-audio-plugin",
+      "slug": "almudio-releases-3d-panner-a-free-binaural-spatial-audio-plugin",
+      "name": "Almudio releases 3D Panner, a FREE binaural spatial audio plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+      "description": "Almudio has released 3D Panner, a free early access spatial audio plugin for macOS and Windows. Developer Almog reached out about the release and shared some very interesting details about the project. 3D Panner was developed over seven months as his final project at BIMM Univers",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "tonal-forms-releases-dado-lilac-alloy-a-free-kontakt-player-instrument",
+      "slug": "tonal-forms-releases-dado-lilac-alloy-a-free-kontakt-player-instrument",
+      "name": "Tonal Forms releases DADO – Lilac Alloy, a FREE Kontakt Player instrument",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/09/dado-lilac-alloy-kontakt/",
+      "description": "Tonal Forms has released DADO – Lilac Alloy, a free Kontakt Player instrument available through Native Instruments. Developer Francesco Sabatini reached out about this one via email, and it was one of the best emails I received in a while. Francesco is a lead product designer at ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "check-out-some-free-synths-from-the-kvr-developer-challenge-2026",
+      "slug": "check-out-some-free-synths-from-the-kvr-developer-challenge-2026",
+      "name": "Check out some FREE synths from the KVR Developer Challenge 2026",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/09/check-out-some-free-synths-from-the-kvr-developer-challenge-2026/",
+      "description": "The KVR Developer Challenge 2026 is underway, and with over 50 freebies on offer, we’ve got lots to choose from. We’re taking a quick look at some of the synths from this year’s contest, and it’s a pretty impressive lineup. We have almost a month before the winners are announced ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "noizlabs-offers-the-beheader-clipper-plugin-free-for-a-limited-time",
+      "slug": "noizlabs-offers-the-beheader-clipper-plugin-free-for-a-limited-time",
+      "name": "NoizLabs offers the Beheader clipper plugin FREE for a limited time",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/09/noizlabs-beheader-clipper/",
+      "description": "NoizLabs has released Beheader, a free-for-a-limited-time clipper and saturation plugin for macOS and Windows. Beheader is a surgical clipper with a simple interface. Like any clipper, instead of pulling the whole signal down to avoid a ceiling, it clips only the peaks that excee",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "pitch-innovations-introduces-loop2kit-exclusive-bpb-discount-code-inside",
+      "slug": "pitch-innovations-introduces-loop2kit-exclusive-bpb-discount-code-inside",
+      "name": "Pitch Innovations Introduces Loop2Kit | Exclusive BPB Discount Code Inside",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/09/pitch-innovations-loop2kit/",
+      "description": "Pitch Innovations has released Loop2Kit, an intelligent sampler instrument that turns audio loops into playable kits. The developer is offering Loop2Kit for $69 during the intro sale, down from the regular $129 price. BPB readers can use the coupon code BPB10 for an extra 10% dis",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "analog-obsession-releases-thebus-a-free-analog-style-compressor-plugin",
+      "slug": "analog-obsession-releases-thebus-a-free-analog-style-compressor-plugin",
+      "name": "Analog Obsession releases TheBus, a FREE analog-style compressor plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/08/analog-obsession-thebus/",
+      "description": "Analog Obsession has released TheBus, a free analog-style compressor plugin for macOS and Windows. Coming from one of my favorite indie developers, I was super excited to test this one. Analog Obsession describes TheBus as a fully custom compressor rather than a clone or variatio",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "zplane-launches-peel-stems-2-with-improved-real-time-stem-separation",
+      "slug": "zplane-launches-peel-stems-2-with-improved-real-time-stem-separation",
+      "name": "zplane launches PEEL STEMS 2 with improved real-time stem separation",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
+      "description": "zplane has launched PEEL STEMS 2, a major update to its real-time stem separation plugin for macOS and Windows. Stem separation is a busy area right now, but PEEL STEMS offers an interesting angle: it works directly inside your DAW. Instead of uploading audio to an online service",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "karanyi-sounds-summer-sale-save-on-plugins-and-bundles",
+      "slug": "karanyi-sounds-summer-sale-save-on-plugins-and-bundles",
+      "name": "Karanyi Sounds Summer Sale: Save on plugins and bundles",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/karanyi-sounds-summer-sale-kontakt-instruments-plugins/",
+      "description": "Karanyi Sounds has announced the launch of a limited time Summer Sale on its instruments, audio plugins and expansion packs. Summer Sale just kicked off – and this one runs for a few weeks. Every week a different plugin takes the spotlight, with a fresh exclusive offer. No countd",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "summer-sale-save-up-to-70-on-pitch-innovation-s-creative-audio-plugins",
+      "slug": "summer-sale-save-up-to-70-on-pitch-innovation-s-creative-audio-plugins",
+      "name": "Summer Sale: Save up to 70% on Pitch Innovation’s creative audio plugins",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/pitch-innovations-pitchbend-chord-bending-plugins-sale/",
+      "description": "Pitch Innovations has announced the launch of a limited time Summer Sale with discounts of up to 70% off on its innovative music production tools focused on enhancing creativity and workflow inside the DAW. The offer includes the Groove Shaper one-of-a-kind creative sequencer, ex",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "omega-fm-synthesizer-by-bleass-on-sale-for-29-usd",
+      "slug": "omega-fm-synthesizer-by-bleass-on-sale-for-29-usd",
+      "name": "Omega FM Synthesizer by BLEASS on sale for $29 USD!",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bleass-omega-fm-synthesizer-plugin-sale/",
+      "description": "Plugin Boutique has launched a limited time “Overdrive Sun Sale” on BLEASS Omega, offering a 63% discount on the user-friendly 4-operator FM synthesizer instrument as part of its 13th anniversary promotion. If you think FM Synthesis is complicated, it’s time to think again! BLEAS",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "spire-synthesizer-by-reveal-sound-on-sale-at-60-off",
+      "slug": "spire-synthesizer-by-reveal-sound-on-sale-at-60-off",
+      "name": "Spire Synthesizer by Reveal Sound on sale at 60% OFF",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/spire-synthesizer-by-reveal-sound-on-sale/",
+      "description": "Reveal Sound has launched a limited time Summer Sale on the Spire Synthesizer, offering a 60% discount for the next few days. Spire is a polyphonic software synthesizer that combines powerful sound engine modulation and flexible architecture, and a graphical interface provides un",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "slate-digital-fg-stress-compressor-effect-on-sale-for-at-50-off",
+      "slug": "slate-digital-fg-stress-compressor-effect-on-sale-for-at-50-off",
+      "name": "Slate Digital FG-Stress compressor effect on sale for at 50% OFF",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/slate-digital-fg-stress-compressor-effect-sale/",
+      "description": "AudioDeluxe has announced a limited time promotion on Slate Digital’s FG-Stress compressor effect, offering a 50% discount as part of a Summer Sale. The FG-Stress is a digital replication of one of the industry’s most highly coveted analog compressors, the Empirical Labs Distress",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "flash-sale-save-60-on-ethereal-echoes-by-samplescience",
+      "slug": "flash-sale-save-60-on-ethereal-echoes-by-samplescience",
+      "name": "Flash Sale: Save 60% on Ethereal Echoes by SampleScience",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ethereal-echoes-by-samplescience-sale/",
+      "description": "SampleScience has launched a flash sale on its virtual instrument featuring 60 atmospheric ambient pads. For 24 hours only, Ethereal Echoes is offered at a 60% discount, priced only $12 USD with coupon code AMBIENT at the checkout. Shape your sound with four effects: distortion, ",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "save-20-on-klangmacht-drums-midi-pack-bundle-by-ugritone",
+      "slug": "save-20-on-klangmacht-drums-midi-pack-bundle-by-ugritone",
+      "name": "Save 20% on Klangmacht Drums Midi Pack Bundle by Ugritone",
+      "developer": "rekkerd.org",
+      "category": "midi_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ugritone-klangmacht-drums-midi-pack-bundle-sale/",
+      "description": "As part of its “Aces High in July” promotion, Ugritone is offering a 20% discount on its Klangmacht Drums MIDI Pack Bundle, a collection of 4 MIDI packs with a total of 1,822 MIDI files. The Klangmacht Drums MIDI Pack Bundle covers serious ground. Metal, punk, hard rock – and yes",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "korg-launches-nts-4-build-it-yourself-analog-performance-mixer-for-hardware-setu",
+      "slug": "korg-launches-nts-4-build-it-yourself-analog-performance-mixer-for-hardware-setu",
+      "name": "KORG launches NTS-4 build-it-yourself analog performance mixer for hardware setu",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/korg-launches-nts-4-build-it-yourself-analog-performance-mixer-for-hardware-setups/",
+      "description": "KORG has announced a compact analog performance mixer kit designed for hardware setups built around the volca series, NTS instruments, Eurorack modular gear and desktop synths. The NTS-4 is the fourth edition in the Nu:Tekt series. Like those before it, NTS-4 requires self-assemb",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "save-40-on-syntorial-2-and-building-blocks-by-audible-genius",
+      "slug": "save-40-on-syntorial-2-and-building-blocks-by-audible-genius",
+      "name": "Save 40% on Syntorial 2 and Building Blocks by Audible Genius",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audible-genius-syntorial-2-building-blocks-tutorial-sale/",
+      "description": "Audible Genius has launched a Summer Sale on its modern music production tools. Musicians and producers can get a discount on two hands-on tools that turn synth programming and music theory into practical, real-world skills. Over the past year, Audible Genius has worked to put ha",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "w-a-production-instacomposer-3-expansions-on-sale-for-39-90-usd",
+      "slug": "w-a-production-instacomposer-3-expansions-on-sale-for-39-90-usd",
+      "name": "W.A. Production InstaComposer 3 & Expansions on sale for $39.90 USD",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/w-a-production-instacomposer-3-expansions-bundle-on-sale/",
+      "description": "W.A. Production has launched a new value bundle aimed at producers, composers, and beatmakers who want instant inspiration, powerful MIDI generation, and an ever-growing library of musical ideas. The InstaComposer 3 & Expansions Bundle is offered at an 84% discount through the en",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "harrison-releases-mixbus-12-analog-console-inspired-daw",
+      "slug": "harrison-releases-mixbus-12-analog-console-inspired-daw",
+      "name": "Harrison releases Mixbus 12 analog console inspired DAW",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/harrison-releases-mixbus-12-analog-console-inspired-daw/",
+      "description": "Harrison has recently launch a major update to its digital audio workstation software which delivers the legendary analog-inspired sound, intuitive workflow, and powerful signature production tools that producers, engineers, and musicians love. Mixbus 12 channels Harrison’s 50-ye",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "arturia-launches-keylab-mk3-ultra-with-orange-finish",
+      "slug": "arturia-launches-keylab-mk3-ultra-with-orange-finish",
+      "name": "Arturia launches KeyLab mk3 Ultra with orange finish",
+      "developer": "rekkerd.org",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/arturia-launches-keylab-mk3-ultra-with-orange-finish/",
+      "description": "Arturia has introduced a special edition of its premium MIDI controller, now available in a bold ultra orange finish. Designed as a full-spec creative centerpiece for music production and live performance, KeyLab mk3 ULTRA combines expressive semi-weighted keys, aftertouch playab",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "free-nanomix-humanizer-plugin-by-fkfx-audio",
+      "slug": "free-nanomix-humanizer-plugin-by-fkfx-audio",
+      "name": "FREE: NanoMix humanizer plugin by FKFX Audio",
+      "developer": "rekkerd.org",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-nanomix-humanizer-plugin-by-fkfx-audio/",
+      "description": "FKFX Audio has introduced a humanizer and mix utility plugin designed to add subtle movement to otherwise static tracks. Part of this year’s Developer Challenge at KVR Audio, NanoMix creates slow, smooth, repeatable micro-variations in level, pan, and MIDI parameters to make stat",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "uvi-bastille-day-deal-save-up-to-50-usd-on-virtual-instruments-and-plugins",
+      "slug": "uvi-bastille-day-deal-save-up-to-50-usd-on-virtual-instruments-and-plugins",
+      "name": "UVI Bastille Day Deal: Save up to $50 USD on virtual instruments and plugins",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/uvi-bastille-day-deal-on-virtual-instruments-and-plugins/",
+      "description": "UVI has announced the launch of its annual sale in celebration of the upcoming Bastille Day, offering up to $50 USD / 50 EUR off on a purchase for a few days only. The promotion is valid on all products including the flagship Falcon creative hybrid instrument, and the newly relea",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "free-reverie-resonator-and-audio-reactive-sampler-plugin-by-quiet-music",
+      "slug": "free-reverie-resonator-and-audio-reactive-sampler-plugin-by-quiet-music",
+      "name": "FREE: Reverie resonator and audio-reactive sampler plugin by Quiet Music",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-reverie-resonator-and-audio-reactive-sampler-plugin-by-quiet-music/",
+      "description": "Quiet Music has released a new audio plugin which combines a sympathetic string resonator modeled with Karplus-Strong synthesis and an audio-reactive sampler with trigger and flow modes. Driven by incoming audio, Reverie is capable of everything from pure string voicings and melo",
+      "discoveredAt": "2026-07-13",
+      "source": "rss"
+    },
+    {
+      "id": "nuke-multiband-dynamic-by-side-key-system",
+      "slug": "nuke-multiband-dynamic-by-side-key-system",
+      "name": "Nuke Multiband Dynamic by Side Key System",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/nuke-multiband-by-side-key-system",
+      "description": "Nuke Multiband Dynamic by Side Key System — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "iron-deck-tape-saturation-by-m-media-audio",
+      "slug": "iron-deck-tape-saturation-by-m-media-audio",
+      "name": "Iron Deck Tape Saturation by M Media Audio",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/iron-deck-by-m-media-audio",
+      "description": "Iron Deck Tape Saturation by M Media Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "montagem-punch-dynamics-by-montagem",
+      "slug": "montagem-punch-dynamics-by-montagem",
+      "name": "Montagem Punch Dynamics by Montagem",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/montagem-punch-by-montagem",
+      "description": "Montagem Punch Dynamics by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "montagem-widener-stereo-imaging-by-montagem",
+      "slug": "montagem-widener-stereo-imaging-by-montagem",
+      "name": "Montagem Widener Stereo Imaging by Montagem",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/montagem-widener-by-montagem",
+      "description": "Montagem Widener Stereo Imaging by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "montagem-finisher-saturation-by-montagem",
+      "slug": "montagem-finisher-saturation-by-montagem",
+      "name": "Montagem Finisher Saturation by Montagem",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/montagem-finisher-by-montagem",
+      "description": "Montagem Finisher Saturation by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "vla-one-voice-levelling-amplifier-vocal-effects-by-studio9-plugins",
+      "slug": "vla-one-voice-levelling-amplifier-vocal-effects-by-studio9-plugins",
+      "name": "VLA-One – Voice Levelling Amplifier Vocal Effects by Studio9 Plugins",
+      "developer": "KVR Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/vla-one-voice-levelling-amplifier-by-studio9-plugins",
+      "description": "VLA-One – Voice Levelling Amplifier Vocal Effects by Studio9 Plugins — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "dj-filter-control-max-for-live-effect-by-killihu",
+      "slug": "dj-filter-control-max-for-live-effect-by-killihu",
+      "name": "DJ Filter Control Max For Live Effect by killihu",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/dj-filter-control-by-killihu",
+      "description": "DJ Filter Control Max For Live Effect by killihu — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "kill-filter-filter-by-reyes-amps",
+      "slug": "kill-filter-filter-by-reyes-amps",
+      "name": "Kill Filter Filter by Reyes Amps",
+      "developer": "KVR Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/kill-filter-by-reyes-amps",
+      "description": "Kill Filter Filter by Reyes Amps — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "reyes-303-amp-model-by-reyes-amps",
+      "slug": "reyes-303-amp-model-by-reyes-amps",
+      "name": "Reyes 303 Amp Model by Reyes Amps",
+      "developer": "KVR Audio",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/reyes-303-by-reyes-amps",
+      "description": "Reyes 303 Amp Model by Reyes Amps — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "bassshape-bass-by-plugin-nation",
+      "slug": "bassshape-bass-by-plugin-nation",
+      "name": "BassShape Bass by Plugin Nation",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/bassshape-by-plugin-nation",
+      "description": "BassShape Bass by Plugin Nation — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "harmonic-dna-reconstruction-core-sat-free-saturator-by-rawl",
+      "slug": "harmonic-dna-reconstruction-core-sat-free-saturator-by-rawl",
+      "name": "Harmonic DNA Reconstruction CORE SAT Free Saturator by RAWL",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/harmonic-dna-reconstruction-core-sat-free-by-rawl",
+      "description": "Harmonic DNA Reconstruction CORE SAT Free Saturator by RAWL — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "borealis-le-reverb-by-mntra",
+      "slug": "borealis-le-reverb-by-mntra",
+      "name": "BOREALIS-LE Reverb by MNTRA",
+      "developer": "KVR Audio",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/borealis-le-by-mntra",
+      "description": "BOREALIS-LE Reverb by MNTRA — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "tatreenoiseremover-vocals-by-yuay-sound-record",
+      "slug": "tatreenoiseremover-vocals-by-yuay-sound-record",
+      "name": "TatreeNoiseRemover Vocals by Yuay Sound Record",
+      "developer": "KVR Audio",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/tatreenoiseremover-by-yuay-sound-record",
+      "description": "TatreeNoiseRemover Vocals by Yuay Sound Record — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "harsher-reality-multi-fx-by-piruz-labs",
+      "slug": "harsher-reality-multi-fx-by-piruz-labs",
+      "name": "Harsher Reality Multi FX by Piruz Labs",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/harsher-reality-by-piruz-labs",
+      "description": "Harsher Reality Multi FX by Piruz Labs — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "cybervox-playbeat-expansion-playbeat-expansion-pack-by-audiomodern",
+      "slug": "cybervox-playbeat-expansion-playbeat-expansion-pack-by-audiomodern",
+      "name": "Cybervox - Playbeat expansion Playbeat Expansion Pack by Audiomodern",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/cybervox---playbeat-expansion-by-audiomodern",
+      "description": "Cybervox - Playbeat expansion Playbeat Expansion Pack by Audiomodern — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "stepstrum-midi-processor-by-notewerks",
+      "slug": "stepstrum-midi-processor-by-notewerks",
+      "name": "StepStrum MIDI Processor by Notewerks",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/stepstrum-by-notewerks",
+      "description": "StepStrum MIDI Processor by Notewerks — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "doobie-delay-reverb-by-datanoisetv",
+      "slug": "doobie-delay-reverb-by-datanoisetv",
+      "name": "Doobie Delay / Reverb by DatanoiseTV",
+      "developer": "KVR Audio",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/doobie-by-datanoisetv",
+      "description": "Doobie Delay / Reverb by DatanoiseTV — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "gristleizer-modulation-flanger-phaser-chorus-tremolo-by-studio-kozak",
+      "slug": "gristleizer-modulation-flanger-phaser-chorus-tremolo-by-studio-kozak",
+      "name": "GRISTLEIZER Modulation (Flanger / Phaser / Chorus / Tremolo) by Studio Kozak",
+      "developer": "KVR Audio",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/gristleizer-by-studio-kozak",
+      "description": "GRISTLEIZER Modulation (Flanger / Phaser / Chorus / Tremolo) by Studio Kozak — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "semedo-compressor-compressor-by-semedo-audio",
+      "slug": "semedo-compressor-compressor-by-semedo-audio",
+      "name": "Semedo Compressor Compressor by Semedo Audio",
+      "developer": "KVR Audio",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/semedo-compressor-by-semedo-audio",
+      "description": "Semedo Compressor Compressor by Semedo Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
+    },
+    {
+      "id": "spectrumnation-spectrum-analyzer-by-plugin-nation",
+      "slug": "spectrumnation-spectrum-analyzer-by-plugin-nation",
+      "name": "SpectrumNation Spectrum Analyzer by Plugin Nation",
+      "developer": "KVR Audio",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/spectrumnation-by-plugin-nation",
+      "description": "SpectrumNation Spectrum Analyzer by Plugin Nation — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-13",
+      "source": "kvr"
     }
   ]
 }
