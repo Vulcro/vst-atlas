@@ -11,7 +11,7 @@ Guide pour activer **Google AdSense** et **Plugin Boutique Affiliates**.
 | AdSense demande | ✅ Soumise |
 | ID éditeur | `ca-pub-5124693825307043` |
 | `ads.txt` | ✅ Configuré |
-| Plugin Boutique | ⏳ En attente d'approbation |
+| Plugin Boutique / Beatport | ✅ Approuvé — ID `g0y2oqcwuq11t` |
 | Thomann affiliation | ❌ Programme fermé |
 
 ---
@@ -44,21 +44,23 @@ Après approbation AdSense :
 
 ---
 
-## Étape 2 — Affiliation Plugin Boutique
+## Étape 2 — Affiliation Plugin Boutique / Beatport
 
-### Inscription
+**Statut : approuvé** — ID affilié : `g0y2oqcwuq11t`
 
-1. [pluginboutique.com/affiliates](https://www.pluginboutique.com/affiliates)
-2. Site : *« Catalogue français de plugins VST — vstatlas.fr »*
-3. Une fois approuvé → récupérez votre **Affiliate ID** (`a=XXXXX`)
+Liens généraux :
+- Plugin Boutique : `https://www.pluginboutique.com/?a_aid=g0y2oqcwuq11t`
+- Beatport : `https://www.beatport.com/?a_aid=g0y2oqcwuq11t`
 
 ### Configuration Vercel
 
 | Variable | Valeur |
 |----------|--------|
-| `NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE` | votre ID |
+| `NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE` | `g0y2oqcwuq11t` |
 
-→ Les liens `pluginboutique.com` incluront automatiquement `?a=XXXXX`.
+→ Les liens vers `pluginboutique.com` et `beatport.com` incluent automatiquement `?a_aid=g0y2oqcwuq11t`.
+
+Dashboard : [pluginboutique.postaffiliatepro.com](https://pluginboutique.postaffiliatepro.com)
 
 Commission typique : **15–30 %** par vente.
 
@@ -78,7 +80,8 @@ Dès les premiers revenus :
 - [x] `ads.txt` configuré
 - [ ] Variable `NEXT_PUBLIC_ADSENSE_CLIENT` dans Vercel
 - [ ] Unité pub créée + `NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT`
-- [ ] Plugin Boutique approuvé + ID affilié dans Vercel
+- [x] Plugin Boutique / Beatport approuvé (ID `g0y2oqcwuq11t`)
+- [ ] Variable `NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE` dans Vercel
 - [ ] Micro-entreprise si revenus réguliers
 
 ---
@@ -89,5 +92,5 @@ Dès les premiers revenus :
 NEXT_PUBLIC_SITE_URL=https://vstatlas.fr
 NEXT_PUBLIC_ADSENSE_CLIENT=ca-pub-5124693825307043
 NEXT_PUBLIC_ADSENSE_SLOT_DEFAULT=1234567890
-NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE=12345
+NEXT_PUBLIC_AFFILIATE_PLUGIN_BOUTIQUE=g0y2oqcwuq11t
 ```

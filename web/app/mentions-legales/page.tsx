@@ -40,7 +40,7 @@ export default function LegalPage() {
           <h2 className="text-xl font-semibold text-foreground">Publicité et affiliation</h2>
           <p>
             Ce site peut afficher des publicités via Google AdSense. Certains liens
-            vers Plugin Boutique et d&apos;autres boutiques sont des liens
+            vers Plugin Boutique, Beatport et d&apos;autres boutiques sont des liens
             affiliés : nous pouvons percevoir une commission sans surcoût pour
             l&apos;utilisateur. Ces revenus financent la maintenance du catalogue.
           </p>
