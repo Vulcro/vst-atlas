@@ -3,7 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { CategoryBadge } from "@/components/CategoryBadge";
-import { getOutboundLabel, getOutboundUrl } from "@/lib/affiliates";
+import {
+  getOfficialLabel,
+  getOutboundLabel,
+  getPluginLinks,
+  shouldShowOfficialButton,
+} from "@/lib/affiliates";
 import { getAllPlugins, getPluginBySlug, formatPrice } from "@/lib/plugins";
 import { SITE_URL } from "@/lib/constants";
 
@@ -36,8 +41,8 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
   const plugin = getPluginBySlug(slug);
   if (!plugin) notFound();
 
-  const outbound = getOutboundUrl(plugin.officialUrl);
-  const outboundLabel = getOutboundLabel(outbound);
+  const links = getPluginLinks(plugin);
+  const primaryUrl = links.store?.url ?? links.official.url;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -49,7 +54,7 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
       "@type": "Offer",
       price: plugin.isFree ? 0 : plugin.priceEur ?? 0,
       priceCurrency: "EUR",
-      url: outbound.url,
+      url: primaryUrl,
     },
     author: {
       "@type": "Organization",
@@ -118,18 +123,40 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
             </div>
           </div>
 
-          <a
-            href={outbound.url}
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="mt-8 inline-flex rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white hover:bg-accent-soft"
-          >
-            {outboundLabel}
-          </a>
-          {outbound.isAffiliate && (
+          <div className="mt-8 flex flex-wrap gap-3">
+            {links.store && (
+              <a
+                href={links.store.url}
+                target="_blank"
+                rel="noopener noreferrer sponsored"
+                className="inline-flex rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white hover:bg-accent-soft"
+              >
+                {getOutboundLabel(links.store)}
+              </a>
+            )}
+            {shouldShowOfficialButton(plugin, links) && (
+              <a
+                href={links.official.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`inline-flex rounded-full px-6 py-3 text-sm font-semibold ${
+                  links.store
+                    ? "border border-border text-foreground hover:border-accent/40"
+                    : "bg-accent text-white hover:bg-accent-soft"
+                }`}
+              >
+                {getOfficialLabel(plugin)}
+              </a>
+            )}
+          </div>
+
+          {links.store?.isAffiliate && (
             <p className="mt-3 text-xs text-muted">
-              Lien affilié — nous pouvons percevoir une commission sans surcoût pour
-              vous.
+              Le bouton {links.store.partner} est un lien affilié — commission possible
+              sans surcoût pour vous.
+              {shouldShowOfficialButton(plugin, links)
+                ? " Le site éditeur reste un lien direct."
+                : ""}
             </p>
           )}
         </article>
@@ -137,10 +164,11 @@ export default async function PluginDetailPage({ params }: PluginPageProps) {
         <aside className="space-y-6">
           <AdSlot />
           <div className="rounded-2xl border border-border bg-card p-5 text-sm text-muted">
-            <p className="font-medium text-foreground">Lien vérifié</p>
+            <p className="font-medium text-foreground">Liens vérifiés</p>
             <p className="mt-2 leading-relaxed">
-              Ce lien pointe vers une source officielle de l&apos;éditeur ou une
-              boutique reconnue. Nous ne référençons jamais de sites de piratage.
+              Site éditeur et, quand le produit est dispo chez nos partenaires,
+              lien boutique affilié (Plugin Boutique / Beatport). Aucun lien de
+              piratage.
             </p>
           </div>
         </aside>

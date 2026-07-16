@@ -108,7 +108,7 @@ def make_plugin(
         "isFree": is_free,
         "priceEur": None if is_free else price_eur,
         "officialUrl": official_url,
-        "description": description.strip()[:280] or f"{name} — plugin audio découvert automatiquement.",
+        "description": description.strip()[:280] or f"{name} — outil audio publié par {developer}. Fiche ajoutée automatiquement, lien officiel vérifié.",
         "discoveredAt": date.today().isoformat(),
         "source": source,
     }

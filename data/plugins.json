@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-13",
+  "updatedAt": "2026-07-16",
   "plugins": [
     {
       "id": "vital",
@@ -20,9 +20,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://vital.audio/",
-      "description": "Synthé wavetable gratuit et puissant, idéal pour la production moderne.",
+      "description": "Vital s'est imposé comme le synthé wavetable gratuit de référence. Modulation visuelle, filtres expressifs et un moteur qui tient face à des outils payants — idéal pour apprendre et produire sans plafond.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Vital",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "surge-xt",
@@ -42,9 +44,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://surge-synthesizer.github.io/",
-      "description": "Synthé open-source hybride avec une bibliothèque de presets immense.",
+      "description": "Surge XT est un synthé hybride open-source très complet : wavetable, FM, effets intégrés et une bibliothèque de presets immense. Gratuit, multiplateforme, et sérieusement pro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Surge+XT",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "helm",
@@ -64,9 +68,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://tytel.org/helm",
-      "description": "Synthé polyphonique gratuit au son clair et polyvalent.",
+      "description": "Helm propose un synthé polyphonique clair, avec une interface lisible et un son propre. Parfait pour démarrer la synthèse sans se perdre dans des menus.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "odin-2",
@@ -85,9 +91,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.thewavewarden.com/product/odin2/",
-      "description": "Synthé analogique virtuel gratuit avec trois oscillateurs.",
+      "description": "Odin 2 reconstitue un analogique virtuel généreux : trois oscillateurs, filtres classiques et une vibe vintage accessible gratuitement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "dexed",
@@ -107,9 +115,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://asb2m10.github.io/dexed/",
-      "description": "Émulation gratuite du légendaire synthé Yamaha DX7.",
+      "description": "Dexed recrée le Yamaha DX7 en open-source. Si vous cherchez le grain FM des années 80 — cloches, basses électriques, pads cristallins — c'est l'outil gratuit incontournable.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tal-noisemaker",
@@ -128,9 +138,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://tal-software.com/products/tal-noisemaker",
-      "description": "Synthé virtuel analogique gratuit de TAL.",
+      "description": "TAL-NoiseMaker est un analogique soft simple et musical. Peu de fioritures, beaucoup de son : leads, pads et basses sans friction.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "komplete-start",
@@ -149,9 +161,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/",
-      "description": "Bundle gratuit avec Kontakt Player, synthés et effets NI.",
+      "description": "Komplete Start ouvre la porte à l'écosystème Native Instruments : Kontakt Player, quelques instruments et effets pour composer sans investissement initial.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spitfire-labs",
@@ -170,9 +184,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Instruments orchestraux et textures gratuits en qualité studio.",
+      "description": "LABS de Spitfire Audio regroupe des instruments gratuits enregistrés en studio — cordes, pianos, textures. Une base orchestrale et cinématique solide pour démarrer.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "decent-sampler",
@@ -191,9 +207,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.decentsamples.com/product/decent-sampler-plugin/",
-      "description": "Sampler gratuit compatible avec la bibliothèque Decent Sampler.",
+      "description": "Decent Sampler lit les banques Decent Samples (et plus). Léger, gratuit, et très utilisé pour les pianos et instruments communautaires.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "ample-guitar-m-lite-ii",
@@ -212,9 +230,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.amplesound.net/en/pro-pd.asp?id=7",
-      "description": "Guitare acoustique Martin D-41 en version lite gratuite.",
+      "description": "Version lite de la Martin D-41 Ample Sound : une guitare acoustique jouable gratuitement, suffisante pour maquettes et arrangements folk/pop.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "sforzando",
@@ -233,9 +253,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.plogue.com/products/sforzando.html",
-      "description": "Lecteur SFZ gratuit pour instruments orchestraux.",
+      "description": "Sforzando charge les instruments au format SFZ. Discret mais indispensable si vous travaillez avec des banques orchestrales légères.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "valhalla-supermassive",
@@ -254,9 +276,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
-      "description": "Réverb et delay cosmiques gratuits, très appréciés en production.",
+      "description": "Supermassive transforme n'importe quelle source en nappe spatiale. Réverb et delays « cosmos » gratuits — un classique des producteurs ambient et électronique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Supermassive",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "valhalla-space-modulator",
@@ -275,9 +299,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
-      "description": "Modulateur de flanger gratuit au caractère unique.",
+      "description": "Un flanger/modulateur gratuit au caractère très Valhalla : musical, un peu étrange, parfait pour animer leads et pads.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tdr-nova",
@@ -296,9 +322,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tokyodawn.net/tdr-nova/",
-      "description": "Égaliseur dynamique paramétrique gratuit très complet.",
+      "description": "Nova est un EQ dynamique paramétrique d'une précision rare pour un freeware. Idéal pour nettoyer un mix sans colorer trop fort.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tdr-kotelnikov",
@@ -317,9 +345,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tokyodawn.net/tdr-kotelnikov/",
-      "description": "Compresseur transparent gratuit pour le mixage.",
+      "description": "Kotelnikov compresse avec transparence. Quand vous voulez coller le mix sans « signature » audible, c'est souvent le premier choix gratuit.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tdr-vos-slickeq",
@@ -338,9 +368,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tokyodawn.net/tdr-vos-slickeq/",
-      "description": "Égaliseur musical gratuit inspiré des consoles vintage.",
+      "description": "SlickEQ apporte une égalisation musicale façon console. Trois modèles de courbe pour sculpter rapidement un bus ou une piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tdr-molotok",
@@ -359,9 +391,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tokyodawn.net/tdr-molotok/",
-      "description": "Compresseur coloré gratuit pour donner du caractère.",
+      "description": "Molotok colore volontairement. Compresseur « caractère » pour coller batterie, voix ou bus avec une empreinte audible.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tal-reverb-4",
@@ -380,9 +414,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://tal-software.com/products/tal-reverb-4",
-      "description": "Réverbération algorithmique gratuite simple et efficace.",
+      "description": "Réverb algorithmique simple : peu de réglages, un résultat propre. Utile sur voix, snare et instruments solo.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tal-chorus-lx",
@@ -401,9 +437,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://tal-software.com/products/tal-chorus-lx",
-      "description": "Chorus gratuit inspiré du Roland Juno-60.",
+      "description": "Chorus inspiré du Juno-60. Une touche stéréo vintage en un clic — très efficace sur pads et synthés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "ott",
@@ -422,9 +460,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://xferrecords.com/freeware",
-      "description": "Compresseur multibande gratuit iconique en EDM.",
+      "description": "OTT est le multibande « squash » devenu standard en EDM. Gratuit chez Xfer : écrase, remonte, et donne ce punch radio immédiat.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=OTT+Xfer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "krush",
@@ -443,9 +483,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://kilohearts.com/products/krush",
-      "description": "Distorsion bitcrush gratuite pour des textures lo-fi.",
+      "description": "Krush casse le signal en bits et sample rate. Pour lo-fi, glitch et textures sales sans installer une suite entière.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Krush+Kilohearts",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "chowmatrix",
@@ -465,9 +507,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://chowdsp.com/products/",
-      "description": "Delay modulaire gratuit open-source aux possibilités étendues.",
+      "description": "Delay open-source modulaire : vous câblez vos propres trajectoires. Expérimental, mais très puissant une fois pris en main.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "chowtape",
@@ -486,9 +530,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://chowdsp.com/products/",
-      "description": "Émulation de bande magnétique gratuite open-source.",
+      "description": "Émulation de bande magnétique gratuite : saturation douce, wow/flutter et chaleur analogique sans budget.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "meldaproduction-free-bundle",
@@ -507,9 +553,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.meldaproduction.com/MFreeFXBundle",
-      "description": "Suite de plus de 30 plugins gratuits pour le mixage et le mastering.",
+      "description": "Plus de 30 effets Melda en gratuit. Une boîte à outils complète pour le mixage et le mastering quand le budget est serré.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "airwindows-consolidated",
@@ -528,9 +576,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://airwindows.com/",
-      "description": "Collection massive de plugins gratuits pour le mixage analogique.",
+      "description": "Airwindows livre des dizaines d'algorithmes de mix « analog-ish » sans interface flashy. Pour ingénieurs qui veulent du grain, pas du marketing.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "analog-obsession-lala",
@@ -549,9 +599,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://analogobsession.com/",
-      "description": "Compresseur LA-2A gratuit de la collection Analog Obsession.",
+      "description": "LALA s'inspire du LA-2A : compression optique douce, idéale sur voix et basse. Gratuit et étonnamment musical.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "analog-obsession-rare",
@@ -570,9 +622,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://analogobsession.com/",
-      "description": "Égaliseur Pultec gratuit de style vintage.",
+      "description": "Rare évoque le Pultec : boosts larges et musicalité vintage. Un EQ gratuit pour donner de la présence sans chirurgie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "ignite-amps-emissary",
@@ -591,9 +645,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.igniteamps.com/",
-      "description": "Simulateur de tête d'ampli guitare gratuite très populaire.",
+      "description": "Emissary est une tête d'ampli gratuite très populaire chez les guitaristes metal et rock. Directe, agressive, sans fioritures.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "neural-amp-modeler",
@@ -612,9 +668,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.neuralampmodeler.com/",
-      "description": "Plateforme gratuite de modélisation d'amplis par IA.",
+      "description": "NAM charge des modèles d'amplis capturés par IA. Gratuit, open-source, et au cœur d'une communauté de captures très active.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spitfire-bbc-symphony-orchestra-discover",
@@ -633,9 +691,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/bbc-so-discover",
-      "description": "Orchestre symphonique BBC gratuit pour la composition.",
+      "description": "Découverte gratuite de l'orchestre BBC Spitfire : assez d'articulations pour esquisser des maquettes orchestrales crédibles.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "pianoteq-8-trial",
@@ -654,9 +714,11 @@
       "isFree": false,
       "priceEur": 159.0,
       "officialUrl": "https://www.pianoteq.com/",
-      "description": "Piano acoustique modélisé physiquement, référence du marché.",
+      "description": "Pianoteq modélise le piano physiquement : faible poids disque, expression réaliste. La démo/trial pour tester avant d'acheter.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pianoteq",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "serum",
@@ -675,9 +737,11 @@
       "isFree": false,
       "priceEur": 189.0,
       "officialUrl": "https://xferrecords.com/products/serum",
-      "description": "Synthé wavetable leader pour la production électronique.",
+      "description": "Serum reste une référence wavetable : édition visuelle des tables, warp puissant et écosystème de presets énorme. Le choix « sûr » en électronique moderne.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Serum+Xfer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "fabfilter-pro-q-3",
@@ -696,9 +760,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in",
-      "description": "Égaliseur dynamique de référence pour le mixage professionnel.",
+      "description": "Pro-Q 3 est l'EQ dynamique que beaucoup considèrent comme un standard de studio. Précis, musical, avec une interface qui accélère vraiment le mix.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pro-Q+3",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "fabfilter-pro-c-2",
@@ -717,9 +783,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://www.fabfilter.com/products/pro-c-2-compressor-plug-in",
-      "description": "Compresseur polyvalent avec modes VCA, FET et opto.",
+      "description": "Pro-C 2 enchaîne des modes de compression (VCA, FET, Opto…) dans une UI claire. Polyvalent du bus drum à la voix lead.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pro-C+2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "fabfilter-pro-l-2",
@@ -738,9 +806,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.fabfilter.com/products/pro-l-2-limiter-plug-in",
-      "description": "Limiteur transparent de référence pour le mastering.",
+      "description": "Pro-L 2 limite pour le mastering avec transparence et metering sérieux. Un limiteur « confiance » avant export.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pro-L+2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "valhalla-vintageverb",
@@ -759,9 +829,11 @@
       "isFree": false,
       "priceEur": 50.0,
       "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-vintageverb/",
-      "description": "Réverbération vintage inspirée des années 70 et 80.",
+      "description": "VintageVerb revisite les réverbs 70s/80s avec un grain chaleureux. Peu cher, énorme personnalité — un investissement souvent cité comme indispensable.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=VintageVerb",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "valhalla-room",
@@ -780,9 +852,11 @@
       "isFree": false,
       "priceEur": 50.0,
       "officialUrl": "https://valhalladsp.com/shop/reverb/valhalla-room/",
-      "description": "Réverbération algorithmique claire et flexible.",
+      "description": "Room est plus « pièce naturelle » que cosmique. Pour drums, voix et instruments acoustiques qui ont besoin d'espace crédible.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Valhalla+Room",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "soundtoys-decapitator",
@@ -801,9 +875,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.soundtoys.com/product/decapitator/",
-      "description": "Saturation analogique au caractère affirmé.",
+      "description": "Decapitator sature comme du hardware : cinq styles, drive musical, et ce caractère Soundtoys qui colle bien aux bus et aux leads.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Decapitator",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "soundtoys-echoboy",
@@ -822,9 +898,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.soundtoys.com/product/echoboy/",
-      "description": "Delay vintage avec émulation de bandes et de pédales.",
+      "description": "EchoBoy est un delay caméléon — bande, pédale, digital. Un outil de production autant que d'effet spécial.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=EchoBoy",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "omnisphere",
@@ -843,9 +921,11 @@
       "isFree": false,
       "priceEur": 479.0,
       "officialUrl": "https://www.spectrasonics.net/products/omnisphere/",
-      "description": "Synthé hybride premium avec une bibliothèque sonore immense.",
+      "description": "Omnisphere est moins un synthé qu'un univers sonore : cinématique, électronique, hybrid. La référence premium Spectrasonics.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Omnisphere",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "kontakt-7",
@@ -864,9 +944,11 @@
       "isFree": false,
       "priceEur": 299.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/",
-      "description": "Sampler industriel compatible avec des milliers de bibliothèques.",
+      "description": "Kontakt 7 est le standard des sample libraries. Si une bibliothèque « marche sur Kontakt », c'est celle-ci.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Kontakt+7",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "massive-x",
@@ -885,9 +967,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/synths/massive-x/",
-      "description": "Synthé wavetable moderne successeur du légendaire Massive.",
+      "description": "Successeur moderne de Massive : wavetables, routing flexible et son NI contemporain pour leads et basses électroniques.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Massive+X",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "arturia-v-collection",
@@ -906,9 +990,11 @@
       "isFree": false,
       "priceEur": 599.0,
       "officialUrl": "https://www.arturia.com/products/software-instruments/v-collection/",
-      "description": "Collection d'émulations de synthés et pianos classiques.",
+      "description": "La V Collection regroupe les émulations Arturia des grands synthés et claviers. Un studio d'histoire de la synthèse dans une licence.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=V+Collection",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "u-he-diva",
@@ -927,9 +1013,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://u-he.com/products/diva/",
-      "description": "Synthé analogique virtuel au son chaud et authentique.",
+      "description": "Diva est réputé pour sa chaleur analogique ultra réaliste. CPU gourmand, mais le son « console » en vaut souvent la peine.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Diva+u-he",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "u-he-hive-2",
@@ -948,9 +1036,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://u-he.com/products/hive/",
-      "description": "Synthé moderne compact avec tables d'ondes et filtres flexibles.",
+      "description": "Hive 2 est plus léger et moderne que Diva : wavetables, XY pads, et une approche rapide pour l'électronique contemporaine.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Hive+2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sylenth1",
@@ -969,9 +1059,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://www.lennardigital.com/",
-      "description": "Synthé analogique virtuel iconique en house et trance.",
+      "description": "Sylenth1 a marqué house et trance pendant des années. Analogique virtuel simple, presets mythiques, toujours pertinent.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Sylenth1",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "phase-plant",
@@ -990,9 +1082,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://kilohearts.com/products/phase_plant",
-      "description": "Synthé modulaire semi-modulaire très flexible.",
+      "description": "Phase Plant est un synthé semi-modulaire : oscillateurs, noise, sampling et effets dans un rack ultra flexible.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Phase+Plant",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "scaler-2",
@@ -1011,9 +1105,11 @@
       "isFree": false,
       "priceEur": 59.0,
       "officialUrl": "https://www.pluginboutique.com/products/2-Scaler-2",
-      "description": "Assistant d'accords et de composition pour producteurs.",
+      "description": "Scaler 2 suggère accords, progressions et voicings. Un assistant d'harmonie pour composer plus vite sans theory paralysis.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/products/2-Scaler-2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "izotope-ozone-11-elements",
@@ -1032,9 +1128,11 @@
       "isFree": false,
       "priceEur": 129.0,
       "officialUrl": "https://www.izotope.com/en/shop/ozone-elements",
-      "description": "Suite de mastering assistée par IA en version Elements.",
+      "description": "Ozone Elements aide à masteriser avec des suggestions IA. Une entrée accessible dans la suite Ozone pour finaliser des tracks.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Ozone+Elements",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "izotope-neutron-4",
@@ -1053,9 +1151,11 @@
       "isFree": false,
       "priceEur": 249.0,
       "officialUrl": "https://www.izotope.com/en/shop/neutron",
-      "description": "Assistant de mixage intelligent avec analyse spectrale.",
+      "description": "Neutron assiste le mixage piste par piste : EQ, compression, transient. Utile pour débloquer un mix qui sonne « plat ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Neutron",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "izotope-rx-11-elements",
@@ -1074,9 +1174,11 @@
       "isFree": false,
       "priceEur": 129.0,
       "officialUrl": "https://www.izotope.com/en/shop/rx-elements",
-      "description": "Réparation audio pour voix, podcasts et enregistrements.",
+      "description": "RX Elements répare voix, plosives et bruits. Essentiel podcast / home studio quand l'enregistrement n'est pas parfait.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=RX+Elements",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "soothe2",
@@ -1095,9 +1197,11 @@
       "isFree": false,
       "priceEur": 219.0,
       "officialUrl": "https://oeksound.com/plugins/soothe2/",
-      "description": "Suppresseur de résonances dynamique très populaire.",
+      "description": "Soothe2 chasse les résonances dures automatiquement. Sur voix, guitares et bus — un gain de temps énorme en mix.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Soothe2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "spiff",
@@ -1116,9 +1220,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://oeksound.com/plugins/spiff/",
-      "description": "Outil de contrôle des transitoires haute fréquence.",
+      "description": "Spiff contrôle les transitoires aigus. Pour adoucir cymbales, sifflantes ou attaques trop agressives sans tout écraser.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Spiff+oeksound",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "gullfoss",
@@ -1137,9 +1243,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.soundtheory.com/gullfoss",
-      "description": "Égaliseur intelligent qui adapte le spectre automatiquement.",
+      "description": "Gullfoss rééquilibre le spectre en temps réel. Un EQ « intelligent » qui clarifie rapidement un mix encombré.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Gullfoss",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sonible-smart-eq-4",
@@ -1158,9 +1266,11 @@
       "isFree": false,
       "priceEur": 129.0,
       "officialUrl": "https://www.sonible.com/smarteq4/",
-      "description": "Égaliseur assisté par IA pour un équilibre rapide.",
+      "description": "smart:EQ 4 propose des courbes assistées par IA. Pratique pour démarrer un équilibre tonal avant le fine-tuning manuel.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=smart%3AEQ",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sonible-pure-unmask",
@@ -1179,9 +1289,11 @@
       "isFree": false,
       "priceEur": 89.0,
       "officialUrl": "https://www.sonible.com/pureunmask/",
-      "description": "Outil de séparation spectrale pour clarifier le mix.",
+      "description": "pure:unmask dégage de l'espace spectral entre deux pistes concurrentes — voix vs guitare, kick vs basse, etc.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=pure%3Aunmask",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "eventide-blackhole",
@@ -1200,9 +1312,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.eventideaudio.com/plug-ins/blackhole/",
-      "description": "Réverbération spatiale immense pour textures atmosphériques.",
+      "description": "Blackhole crée des espaces immenses et irréels. Réverb signature pour ambient, film et sound design.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Blackhole+Eventide",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "eventide-h910-harmonizer",
@@ -1221,9 +1335,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.eventideaudio.com/plug-ins/h910-harmonizer/",
-      "description": "Harmonizer vintage légendaire des années 70.",
+      "description": "Le H910 virtuel recrée l'harmonizer légendaire : pitch, delay et ce grain Eventide des studios 70s.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=H910",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "softube-tape",
@@ -1242,9 +1358,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.softube.com/tape",
-      "description": "Émulation de bande magnétique pour chaleur analogique.",
+      "description": "Tape ajoute saturation et compression de bande. Subtil ou assumé : idéal pour coller un mix trop numérique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Softube+Tape",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "softube-console-1",
@@ -1263,9 +1381,11 @@
       "isFree": false,
       "priceEur": 449.0,
       "officialUrl": "https://www.softube.com/console1",
-      "description": "Écosystème de mixage hardware + software avec émulations SSL.",
+      "description": "Softube Console 1 est un utilitaire de production (Softube). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "waves-cla-2a",
@@ -1284,9 +1404,11 @@
       "isFree": false,
       "priceEur": 35.0,
       "officialUrl": "https://www.waves.com/plugins/cla-2a-compressor-limiter",
-      "description": "Compresseur opto LA-2A émulé par Chris Lord-Alge.",
+      "description": "CLA-2A transpose le LA-2A façon Chris Lord-Alge. Compression optique colorée, souvent en promo Waves.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=CLA-2A",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "waves-h-reverb",
@@ -1305,9 +1427,11 @@
       "isFree": false,
       "priceEur": 35.0,
       "officialUrl": "https://www.waves.com/plugins/h-reverb-hybrid-reverb",
-      "description": "Réverbération hybride avec algorithmes et impulses.",
+      "description": "H-Reverb mélange algo et impulse. Flexible du hall naturel à l'effet créatif.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=H-Reverb",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "slate-digital-virtual-mix-rack",
@@ -1326,9 +1450,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://slatedigital.com/virtual-mix-rack/",
-      "description": "Chaîne de modules de mixage modulaire Slate Digital.",
+      "description": "Slate Digital Virtual Mix Rack est un utilitaire de production (Slate Digital). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Virtual+Mix+Rack",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "slate-digital-fg-x",
@@ -1347,9 +1473,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://slatedigital.com/fg-x/",
-      "description": "Limiteur de mastering avec détection intelligente.",
+      "description": "Slate Digital FG-X intervient en fin de chaîne. Limiteur, loudness ou suite de mastering signée Slate Digital.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=FG-X",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "output-portal",
@@ -1368,9 +1496,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://output.com/products/portal",
-      "description": "Effet de grain et de manipulation spectrale créatif.",
+      "description": "Portal granulaire le son jusqu'à le rendre méconnaissable. Sound design expérimental et textures « wow ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Portal+Output",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "output-arcade",
@@ -1389,9 +1519,11 @@
       "isFree": false,
       "priceEur": 10.0,
       "officialUrl": "https://output.com/products/arcade",
-      "description": "Sampler loop cloud avec contenu renouvelé mensuellement.",
+      "description": "Arcade livre des loops et instruments cloud renouvelés. Abonnement : pratique pour explorer des idées rapidement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Arcade+Output",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "unfiltered-audio-byome",
@@ -1410,9 +1542,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.unfilteredaudio.com/byome",
-      "description": "Multi-effet modulaire programmable pour le sound design.",
+      "description": "BYOME est un multi-effet modulaire programmable. Pour construire ses propres chaînes de destruction sonore.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=BYOME",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "unfiltered-audio-sandman-pro",
@@ -1431,9 +1565,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.unfilteredaudio.com/sandman-pro",
-      "description": "Delay granulaire pour textures rythmiques et glitch.",
+      "description": "Sandman Pro joue avec le delay granulaire et le glitch rythmique. Parfait pour IDM et électronique expérimentale.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Sandman+Pro",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "baby-audio-ba-1",
@@ -1452,9 +1588,11 @@
       "isFree": false,
       "priceEur": 79.0,
       "officialUrl": "https://babyaud.io/ba-1",
-      "description": "Synthé inspiré du Yamaha CS-01 au caractère lo-fi.",
+      "description": "BA-1 revisite un petit analogique lo-fi. Character synth pour leads croustillants et basses sales.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=BA-1+Baby+Audio",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "baby-audio-super-vhs",
@@ -1473,9 +1611,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://babyaud.io/super-vhs",
-      "description": "Effet lo-fi multi-bandes pour ambiance cassette rétro.",
+      "description": "Super VHS empile noise, wow et saturation VHS. Un one-stop lo-fi pour moderniser (ou « détériorer ») un son trop clean.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Super+VHS",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "denise-audio-perfect-room-2",
@@ -1494,9 +1634,11 @@
       "isFree": false,
       "priceEur": 79.0,
       "officialUrl": "https://www.denise.io/perfect-room-2",
-      "description": "Réverbération avec contrôle spatial précis.",
+      "description": "Denise Audio Perfect Room 2 place le son dans un espace. Chez Denise Audio, l'accent est mis sur une signature réverb identifiable plutôt qu'un preset fourre-tout.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Perfect+Room",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "denise-audio-bass-xl",
@@ -1515,9 +1657,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.denise.io/bass-xl",
-      "description": "Enhancer de basses pour des low-end percutants.",
+      "description": "Denise Audio Bass XL est un utilitaire de production (Denise Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Bass+XL",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "klevgrand-brusfri",
@@ -1536,9 +1680,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://klevgrand.se/products/brusfri",
-      "description": "Réducteur de bruit simple et efficace pour l'enregistrement.",
+      "description": "Klevgrand Brusfri est un utilitaire de production (Klevgrand). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Brusfri",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "klevgrand-pana",
@@ -1557,9 +1703,11 @@
       "isFree": false,
       "priceEur": 29.0,
       "officialUrl": "https://klevgrand.se/products/pana",
-      "description": "Outil de placement stéréo et de panoramique avancé.",
+      "description": "Klevgrand Pana est un utilitaire de production (Klevgrand). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pana+Klevgrand",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "goodhertz-dc19",
@@ -1578,9 +1726,11 @@
       "isFree": false,
       "priceEur": 29.0,
       "officialUrl": "https://goodhertz.co/dc19/",
-      "description": "Chorus et vibrato au grain vintage.",
+      "description": "Goodhertz DC19 anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=DC19",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "goodhertz-tupe",
@@ -1599,9 +1749,11 @@
       "isFree": false,
       "priceEur": 29.0,
       "officialUrl": "https://goodhertz.co/tupe/",
-      "description": "Saturation de tubes subtile pour le mixage.",
+      "description": "Goodhertz Tupe ajoute saturation ou destruction contrôlée. L'outil Goodhertz quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Tupe",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "audiothing-dials",
@@ -1620,9 +1772,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.audiothing.net/effects/dials/",
-      "description": "Distorsion inspirée des pédales de guitare vintage.",
+      "description": "AudioThing Dials ajoute saturation ou destruction contrôlée. L'outil AudioThing quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Dials+AudioThing",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "audiothing-speakers",
@@ -1641,9 +1795,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.audiothing.net/effects/speakers/",
-      "description": "Émulation de haut-parleurs pour des textures lo-fi.",
+      "description": "AudioThing Speakers est un utilitaire de production (AudioThing). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Speakers+AudioThing",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "audiomodern-riffer",
@@ -1662,9 +1818,11 @@
       "isFree": false,
       "priceEur": 59.0,
       "officialUrl": "https://audiomodern.com/shop/plugins/riffer/",
-      "description": "Générateur de riffs et mélodies MIDI aléatoires.",
+      "description": "AudioModern Riffer est un utilitaire de production (AudioModern). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Riffer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "wave-alchemy-pulse",
@@ -1683,9 +1841,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.wavealchemy.co.uk/pulse/",
-      "description": "Machine à rythmes avec échantillons de boîtes vintage.",
+      "description": "Wave Alchemy Pulse s'occupe du rythme et des hits. Une option Wave Alchemy pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "wave-alchemy-triaz",
@@ -1704,9 +1864,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.wavealchemy.co.uk/triaz/",
-      "description": "Plugin de drums avec des kits modernes et vintage.",
+      "description": "Wave Alchemy Triaz s'occupe du rythme et des hits. Une option Wave Alchemy pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "xln-audio-addictive-drums-2",
@@ -1725,9 +1887,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.xlnaudio.com/products/addictive_drums_2",
-      "description": "Batterie acoustique échantillonnée très réaliste.",
+      "description": "XLN Audio Addictive Drums 2 s'occupe du rythme et des hits. Une option XLN Audio pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Addictive+Drums",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "xln-audio-addictive-keys",
@@ -1746,9 +1910,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.xlnaudio.com/products/addictive_keys",
-      "description": "Pianos échantillonnés avec options de micros multiples.",
+      "description": "XLN Audio Addictive Keys est un piano / clavier XLN Audio. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Addictive+Keys",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "toontrack-ezdrummer-3",
@@ -1767,9 +1933,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.toontrack.com/product/ezdrummer-3/",
-      "description": "Batterie virtuelle simple et rapide pour la composition.",
+      "description": "Toontrack EZdrummer 3 s'occupe du rythme et des hits. Une option Toontrack pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=EZdrummer+3",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "toontrack-superior-drummer-3",
@@ -1788,9 +1956,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://www.toontrack.com/product/superior-drummer-3/",
-      "description": "Batterie acoustique haut de gamme pour production pro.",
+      "description": "Toontrack Superior Drummer 3 s'occupe du rythme et des hits. Une option Toontrack pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Superior+Drummer+3",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "steven-slate-drums-5",
@@ -1809,9 +1979,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://stevenslatedrums.com/ssd5/",
-      "description": "Batterie avec échantillons de kits enregistrés en studio.",
+      "description": "Steven Slate Drums 5 s'occupe du rythme et des hits. Une option Steven Slate Drums pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Steven+Slate+Drums",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "bfd3",
@@ -1830,9 +2002,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.fxpansion.com/products/bfd3",
-      "description": "Moteur de batterie acoustique détaillé et personnalisable.",
+      "description": "BFD3 s'occupe du rythme et des hits. Une option FXpansion pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "shreddage-3-stratus",
@@ -1851,9 +2025,11 @@
       "isFree": false,
       "priceEur": 159.0,
       "officialUrl": "https://impactsoundworks.com/shreddage-3-stratus",
-      "description": "Guitare électrique échantillonnée pour rock et metal.",
+      "description": "Shreddage 3 Stratus cible guitare (amp, cab ou instrument). La proposition Impact Soundworks pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "neural-dsp-archetype-plini",
@@ -1872,9 +2048,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://neuraldsp.com/plugins/archetype-plini",
-      "description": "Suite d'amplis et d'effets guitare signée Plini.",
+      "description": "Archetype Plini livre une chaîne guitare signature : amplis, cab et effets calibrés pour lead progressif et clarté.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Archetype+Plini",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "neural-dsp-archetype-gojira",
@@ -1893,9 +2071,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://neuraldsp.com/plugins/archetype-gojira",
-      "description": "Amplis et pédales pour metal moderne signés Gojira.",
+      "description": "Archetype Gojira vise le metal moderne : saturation dense, tight low-end, et presets prêts pour riffs agressifs.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Archetype+Gojira",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "positive-grid-bias-fx-2",
@@ -1914,9 +2094,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.positivegrid.com/bias-fx",
-      "description": "Plateforme d'amplis et d'effets guitare modulaire.",
+      "description": "BIAS FX assemble amplis et pédales en chaines modulaires. Polyvalent du clean jazz au high-gain.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=BIAS+FX",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "overloud-th-u",
@@ -1935,9 +2117,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://www.overloud.com/products/th-u",
-      "description": "Simulateur d'amplis avec modélisation Rig Player.",
+      "description": "TH-U mise sur la modélisation Rig Player. Bon compromis réalisme / CPU pour enregistrement guitare.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=TH-U",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "ik-multimedia-amplitube-5",
@@ -1956,9 +2140,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.ikmultimedia.com/products/amplitube5/",
-      "description": "Suite complète de simulation d'amplis et d'effets guitare.",
+      "description": "AmpliTube 5 est une suite guitare complète : amps, stompboxes, cab sim. Un studio guitare logiciel historique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=AmpliTube+5",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "nectar-3-plus",
@@ -1977,9 +2163,11 @@
       "isFree": false,
       "priceEur": 249.0,
       "officialUrl": "https://www.izotope.com/en/shop/nectar",
-      "description": "Chaîne de traitement vocale complète pour le mixage.",
+      "description": "Nectar propose une chaîne vocale complète (EQ, comp, de-esser…). Un point de départ solide pour mixer une voix lead.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Nectar",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "auto-tune-pro",
@@ -1998,9 +2186,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://www.antarestech.com/products/auto-tune",
-      "description": "Correction de hauteur et effet vocal de référence.",
+      "description": "Auto-Tune Pro reste la référence correction de pitch et effet vocal pop/rap. Studio et scène.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Auto-Tune+Pro",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "synchro-arts-revoice-pro-5",
@@ -2019,9 +2209,11 @@
       "isFree": false,
       "priceEur": 599.0,
       "officialUrl": "https://www.synchroarts.com/revoice-pro",
-      "description": "Alignement vocal et harmonisation professionnelle.",
+      "description": "Synchro Arts ReVoice Pro 5 traite ou produit la voix. Un outil Synchro Arts pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "accusonus-era-bundle-6",
@@ -2040,9 +2232,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://accusonus.com/products/era-bundle",
-      "description": "Outils de nettoyage audio pour voix et podcasts.",
+      "description": "Accusonus ERA Bundle 6 traite ou produit la voix. Un outil Accusonus pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "sonarworks-soundid-reference",
@@ -2061,9 +2255,11 @@
       "isFree": false,
       "priceEur": 249.0,
       "officialUrl": "https://www.sonarworks.com/soundid-reference",
-      "description": "Calibration de monitoring pour un mixage plus précis.",
+      "description": "Sonarworks SoundID Reference mesure au lieu de colorer. Un utilitaire Sonarworks pour décider avec des chiffres (et vos oreilles).",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "plugin-doctor",
@@ -2082,9 +2278,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://ddmf.eu/plugin-doctor/",
-      "description": "Analyseur de courbes et de phase pour plugins et hardware.",
+      "description": "Plugin Doctor mesure au lieu de colorer. Un utilitaire DDMF pour décider avec des chiffres (et vos oreilles).",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "voxengo-span",
@@ -2103,9 +2301,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.voxengo.com/product/span/",
-      "description": "Analyseur spectral gratuit très utilisé en mastering.",
+      "description": "SPAN est l'analyseur spectral gratuit que tout le monde connaît. Pour voir ce que vos oreilles entendent.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "youlean-loudness-meter-2",
@@ -2124,9 +2324,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://youlean.co/youlean-loudness-meter/",
-      "description": "Mesure de loudness LUFS gratuite conforme aux standards broadcast.",
+      "description": "Youlean mesure le loudness LUFS selon les standards streaming/broadcast. Gratuit et indispensable avant upload.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tb-pro-audio-mvmeter2",
@@ -2145,9 +2347,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tbproaudio.de/products/mvmeter2",
-      "description": "VU-mètre gratuit pour surveiller les niveaux.",
+      "description": "TB Pro Audio mvMeter2 mesure au lieu de colorer. Un utilitaire TB Pro Audio pour décider avec des chiffres (et vos oreilles).",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "orilriver",
@@ -2166,9 +2370,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tokyodawn.net/other/",
-      "description": "Réverbération algorithmique gratuite à convolution modulable.",
+      "description": "OrilRiver place le son dans un espace. Chez Denis Tihanov, l'accent est mis sur une signature réverb identifiable plutôt qu'un preset fourre-tout.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "loudmax",
@@ -2187,9 +2393,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://loudmax.blogspot.com/",
-      "description": "Limiteur brickwall gratuit simple et transparent.",
+      "description": "LoudMax est un limiteur brickwall simple et transparent. Gratuit pour caler un plafond sans usine à gaz.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "glitch2",
@@ -2208,9 +2416,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.illformed.com/",
-      "description": "Sampler glitch pour productions IDM et expérimentales.",
+      "description": "Glitch2 lit ou joue des samples. Chez Illformed, l'enjeu est la bibliothèque et la jouabilité plus que le marketing.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cable-guys-shaperbox-3",
@@ -2229,9 +2439,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.cableguys.com/shaperbox.html",
-      "description": "Suite de modulation rythmique pour tous les paramètres.",
+      "description": "ShaperBox module volume, filtre, pan et plus en rythme. Sidechain, stutter et grooves sans dessiner 40 automations.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=ShaperBox",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "cable-guys-pancake-2",
@@ -2250,9 +2462,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.cableguys.com/pancake.html",
-      "description": "Auto-pan gratuit avec formes de modulation créatives.",
+      "description": "Pancake auto-panne le signal avec des formes créatives. Gratuit et étonnamment utile en sound design.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pancake",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "instacomposer-3",
@@ -2271,9 +2485,11 @@
       "isFree": false,
       "priceEur": 59.0,
       "officialUrl": "https://www.waproduction.com/plugins/instacomposer-3",
-      "description": "Générateur de compositions MIDI par IA.",
+      "description": "InstaComposer 3 est un utilitaire de production (W.A. Production). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=InstaComposer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "tracktion-waveform-free",
@@ -2292,9 +2508,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.tracktion.com/products/waveform-free",
-      "description": "DAW complète gratuite avec suite d'effets intégrée.",
+      "description": "Tracktion Waveform Free est un utilitaire de production (Tracktion). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "reaper",
@@ -2313,9 +2531,11 @@
       "isFree": false,
       "priceEur": 60.0,
       "officialUrl": "https://www.reaper.fm/",
-      "description": "DAW légère et puissante avec licence abordable.",
+      "description": "REAPER est une DAW légère, scriptable et abordable. Licence honnête, performances solides, communauté énorme.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=REAPER",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "ableton-live-12-intro",
@@ -2334,9 +2554,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.ableton.com/en/live/",
-      "description": "DAW iconique pour la production électronique live.",
+      "description": "Live Intro ouvre l'écosystème Ableton : session view, warping, et le workflow clip qui a changé la prod électronique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "fl-studio-fruity-edition",
@@ -2355,9 +2577,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.image-line.com/fl-studio",
-      "description": "DAW populaire pour beatmaking et production hip-hop.",
+      "description": "FL Fruity Edition cible beatmaking et pattern sequencing. L'entrée dans FL Studio pour hip-hop et électronique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "reason-rack-plugin",
@@ -2376,9 +2600,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.reasonstudios.com/reason-rack-plugin",
-      "description": "Rack Reason utilisable comme plugin dans votre DAW.",
+      "description": "Reason Rack Plugin est un utilitaire de production (Reason Studios). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spire",
@@ -2397,9 +2623,11 @@
       "isFree": false,
       "priceEur": 189.0,
       "officialUrl": "https://reveal-sound.com/",
-      "description": "Synthé EDM puissant pour leads et basses modernes.",
+      "description": "Spire brille sur leads et supersaws EDM. Un son « club-ready » avec une UI orientée performance.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Spire+Reveal",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "pigments",
@@ -2418,9 +2646,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.arturia.com/products/software-instruments/pigments/",
-      "description": "Synthé wavetable et analogique avec interface visuelle.",
+      "description": "Pigments combine wavetable, analogique virtuel et sampling avec une UI Arturia très visuelle. Excellent pour apprendre en voyant le son.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pigments+Arturia",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "analog-lab-v",
@@ -2439,9 +2669,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.arturia.com/products/software-instruments/analoglab/",
-      "description": "Collection de presets des synthés Arturia en un seul plugin.",
+      "description": "Analog Lab concentre des milliers de presets Arturia. Idéal pour jouer des sons mythiques sans ouvrir chaque instrument séparément.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Analog+Lab",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "rc-20-retro-color",
@@ -2460,9 +2692,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://www.xlnaudio.com/products/rc-20_retro_color",
-      "description": "Effet lo-fi rétro pour textures vintage et usées.",
+      "description": "RC-20 envoie le signal dans une esthétique cassette / vinyl. Lo-fi contrôlé pour beats et indie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=RC-20",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "portal",
@@ -2481,9 +2715,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://output.com/products/portal",
-      "description": "Effet granulaire pour sound design expérimental.",
+      "description": "Portal (Output) transforme n'importe quelle source en matière granulaire. Un effet créatif plus qu'un outil de mix classique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Portal+Output",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sublab-xl",
@@ -2502,9 +2738,11 @@
       "isFree": false,
       "priceEur": 59.0,
       "officialUrl": "https://sublabxl.com/",
-      "description": "Synthé de sub-basses pour trap et hip-hop.",
+      "description": "SubLab XL (Future Audio Workshop) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=SubLab+XL",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "initial-audio-sektor",
@@ -2523,9 +2761,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://initialaudio.com/sektor/",
-      "description": "Synthé wavetable moderne avec interface 3D.",
+      "description": "Initial Audio Sektor (Initial Audio) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Sektor+Initial",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "d16-lush-2",
@@ -2544,9 +2784,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://d16.pl/lush2",
-      "description": "Synthé pad lush pour ambient et soundscapes.",
+      "description": "D16 Lush 2 (D16 Group) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Lush+2+D16",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sugar-bytes-effectrix",
@@ -2565,9 +2807,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://sugar-bytes.de/products/effectrix",
-      "description": "Effet multi-tranches pour séquençage rythmique créatif.",
+      "description": "Sugar Bytes Effectrix anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Effectrix",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sugar-bytes-looperator",
@@ -2586,9 +2830,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://sugar-bytes.de/products/looperator",
-      "description": "Effet looper et modulateur pour performances live.",
+      "description": "Sugar Bytes Looperator anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Looperator",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "audiority-l12x",
@@ -2607,9 +2853,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.audiority.com/l12x",
-      "description": "Amplificateur Solid State Logic pour guitare et bass.",
+      "description": "Audiority L12X cible guitare (amp, cab ou instrument). La proposition Audiority pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "mercuriall-u530",
@@ -2628,9 +2876,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://mercuriall.com/",
-      "description": "Simulateur de préampli Friedman BE-100 gratuit.",
+      "description": "Mercuriall U530 cible guitare (amp, cab ou instrument). La proposition Mercuriall pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "stl-tones-amphub",
@@ -2649,9 +2899,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://stltones.com/",
-      "description": "Plateforme d'amplis guitare avec packs d'artistes.",
+      "description": "STL Tones AmpHub cible guitare (amp, cab ou instrument). La proposition STL Tones pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "swam-saxophones",
@@ -2670,9 +2922,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.swamitaly.it/products/swam-saxophones/",
-      "description": "Saxophones modélisés physiquement pour expression MIDI.",
+      "description": "Swam Saxophones apporte une couleur orchestrale / cinématique. Une banque Audio Modeling pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "swam-violin",
@@ -2691,9 +2945,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.swamitaly.it/products/swam-violin/",
-      "description": "Violon solo modélisé avec contrôle expressif continu.",
+      "description": "SWAM Violin apporte une couleur orchestrale / cinématique. Une banque Audio Modeling pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "eastwest-hollywood-orchestra",
@@ -2712,9 +2968,11 @@
       "isFree": false,
       "priceEur": 499.0,
       "officialUrl": "https://www.soundsonline.com/Hollywood-Orchestra",
-      "description": "Orchestre symphonique Hollywood pour la composition ciné.",
+      "description": "EastWest Hollywood Orchestra apporte une couleur orchestrale / cinématique. Une banque EastWest pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "orchestral-tools-berlin-strings",
@@ -2733,9 +2991,11 @@
       "isFree": false,
       "priceEur": 849.0,
       "officialUrl": "https://www.orchestraltools.com/",
-      "description": "Cordes orchestrales enregistrées à Berlin pour le cinéma.",
+      "description": "Orchestral Tools Berlin Strings apporte une couleur orchestrale / cinématique. Une banque Orchestral Tools pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "8dio-century",
@@ -2754,9 +3014,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://8dio.com/",
-      "description": "Orchestre complet pour compositions épiques.",
+      "description": "8DIO Century apporte une couleur orchestrale / cinématique. Une banque 8DIO pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cinesamples-cinestrings-solo",
@@ -2775,9 +3037,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://cinesamples.com/",
-      "description": "Cordes solo cinématiques enregistrées à MGM Scoring Stage.",
+      "description": "Cinesamples CineStrings SOLO apporte une couleur orchestrale / cinématique. Une banque Cinesamples pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "fractal-audio-axe-fx-iii",
@@ -2796,9 +3060,11 @@
       "isFree": false,
       "priceEur": 2799.0,
       "officialUrl": "https://www.fractalaudio.com/axe-fx-iii/",
-      "description": "Processeur guitare hardware de référence avec éditeur logiciel.",
+      "description": "Fractal Audio Axe-Fx III cible guitare (amp, cab ou instrument). La proposition Fractal Audio pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "line-6-helix-native",
@@ -2817,9 +3083,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://line6.com/helix/helixnative.html",
-      "description": "Plugin de la suite Helix avec modélisation d'amplis et d'effets.",
+      "description": "Line 6 Helix Native cible guitare (amp, cab ou instrument). La proposition Line 6 pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "korg-m1",
@@ -2838,9 +3106,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.korg.com/",
-      "description": "Émulation du synthé/workstation Korg M1 des années 90.",
+      "description": "Korg M1 (Korg) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "roland-cloud-jupiter-8",
@@ -2859,9 +3129,11 @@
       "isFree": false,
       "priceEur": 20.0,
       "officialUrl": "https://roland.com/roland-cloud/",
-      "description": "Émulation du légendaire Jupiter-8 en abonnement Roland Cloud.",
+      "description": "Roland Cloud Jupiter-8 (Roland) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "waldorf-largo-2",
@@ -2880,9 +3152,11 @@
       "isFree": false,
       "priceEur": 179.0,
       "officialUrl": "https://www.waldorf-music.com/largo2",
-      "description": "Synthé wavetable polyphonique au son riche.",
+      "description": "Waldorf Largo 2 (Waldorf Music) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "applied-acoustics-lounge-lizard-ep-4",
@@ -2901,9 +3175,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.applied-acoustics.com/lounge-lizard-ep-4/",
-      "description": "Piano électrique Rhodes et Wurlitzer modélisé.",
+      "description": "Applied Acoustics Lounge Lizard EP-4 est un piano / clavier Applied Acoustics. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "modartt-pianoteq-8-standard",
@@ -2922,9 +3198,11 @@
       "isFree": false,
       "priceEur": 159.0,
       "officialUrl": "https://www.pianoteq.com/pianoteq-8",
-      "description": "Piano acoustique modélisé avec faible empreinte disque.",
+      "description": "Pianoteq Standard offre la modélisation piano Modartt complète. Réactif, léger, et très prisé en composition portable.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Pianoteq",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "keyscape",
@@ -2943,9 +3221,11 @@
       "isFree": false,
       "priceEur": 379.0,
       "officialUrl": "https://www.spectrasonics.net/products/keyscape/",
-      "description": "Collection de pianos et claviers rares échantillonnés.",
+      "description": "Keyscape capture des claviers rares et prestigieux. Une collection Spectrasonics pour ballades, film et pop haut de gamme.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Keyscape",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "vienna-symphonic-library-synchron",
@@ -2964,9 +3244,11 @@
       "isFree": false,
       "priceEur": 299.0,
       "officialUrl": "https://www.vsl.co.at/",
-      "description": "Bibliothèque orchestrale viennoise haute qualité.",
+      "description": "Vienna Symphonic Library Synchron apporte une couleur orchestrale / cinématique. Une banque VSL pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "projectsam-symphobia",
@@ -2985,9 +3267,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://projectsam.com/",
-      "description": "Orchestre cinématique avec articulations dramatiques.",
+      "description": "ProjectSAM Symphobia apporte une couleur orchestrale / cinématique. Une banque ProjectSAM pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "heavyocity-mosaic-keys",
@@ -3006,9 +3290,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://heavyocity.com/product/mosaic-keys/",
-      "description": "Textures de claviers hybrides pour compositions modernes.",
+      "description": "Heavyocity Mosaic Keys est un piano / clavier Heavyocity. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "sonic-academy-kick-2",
@@ -3027,9 +3313,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://sonicacademy.com/products/kick-2",
-      "description": "Synthé de kick dédié pour musiques électroniques.",
+      "description": "Sonic Academy KICK 2 s'occupe du rythme et des hits. Une option Sonic Academy pour programmer ou remplacer une batterie.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=KICK+2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "sonic-academy-ana-2",
@@ -3048,9 +3336,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://sonicacademy.com/products/ana-2",
-      "description": "Synthé polyphonique pour EDM et house.",
+      "description": "Sonic Academy ANA 2 (Sonic Academy) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=ANA+2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "xfer-records-cthulhu",
@@ -3069,9 +3359,11 @@
       "isFree": false,
       "priceEur": 39.0,
       "officialUrl": "https://xferrecords.com/products/cthulhu",
-      "description": "Générateur d'accords et arpégiateur MIDI créatif.",
+      "description": "Cthulhu (Xfer) transforme une note en voicings et arpèges. Très populaire pour trouver des idées d'accords vite.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Cthulhu+Xfer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "xfer-records-nerve",
@@ -3090,9 +3382,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://xferrecords.com/products/nerve",
-      "description": "Sampler de drums avec édition et resynthèse intégrées.",
+      "description": "Nerve est un sampler de drums avec resynthèse. Pour designer kits et one-shots au-delà du simple lecteur.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Nerve+Xfer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "loopcloud",
@@ -3111,9 +3405,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.loopcloud.com/",
-      "description": "Gestionnaire de samples cloud avec plugin gratuit.",
+      "description": "Loopcloud gère et preview des packs Loopmasters dans un plugin. Crédits mensuels pour alimenter vos projets.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "landr-samples",
@@ -3132,9 +3428,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.landr.com/",
-      "description": "Plugin gratuit d'accès aux samples et presets LANDR.",
+      "description": "LANDR Samples connecte une bibliothèque de samples à votre DAW. Entrée gratuite dans l'écosystème LANDR.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "komplete-15-select",
@@ -3153,9 +3451,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-select/",
-      "description": "Bundle NI avec synthés, effets et instruments sélectionnés.",
+      "description": "Select est l'entrée Komplete 15 : moins d'instruments, mais déjà de quoi produire sérieusement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Komplete+15+Select",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "guitar-rig-7-pro",
@@ -3174,9 +3474,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/",
-      "description": "Chaîne d'effets guitare complète avec modélisation d'amplis.",
+      "description": "Guitar Rig 7 Pro cible guitare (amp, cab ou instrument). La proposition Native Instruments pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Guitar+Rig",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "raum",
@@ -3195,9 +3497,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/raum/",
-      "description": "Réverbération NI gratuite spacieuse et musicale.",
+      "description": "Raum place le son dans un espace. Chez Native Instruments, l'accent est mis sur une signature réverb identifiable plutôt qu'un preset fourre-tout.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "supercharger",
@@ -3216,9 +3520,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/supercharger/",
-      "description": "Compresseur vari-mu gratuit au son chaud.",
+      "description": "Supercharger gère la dynamique à la manière Native Instruments. Utile pour coller, contrôler ou colorer — selon le caractère du plugin.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "phasis",
@@ -3237,9 +3543,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/phasis/",
-      "description": "Phaser gratuit avec modulation flexible.",
+      "description": "Phasis anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "bite",
@@ -3258,9 +3566,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/bite/",
-      "description": "Saturateur bitcrush gratuit pour textures agressives.",
+      "description": "Bite ajoute saturation ou destruction contrôlée. L'outil Native Instruments quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "dirt",
@@ -3279,9 +3589,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/dirt/",
-      "description": "Distorsion gratuite simple et efficace.",
+      "description": "Dirt ajoute saturation ou destruction contrôlée. L'outil Native Instruments quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "flair",
@@ -3300,9 +3612,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/flair/",
-      "description": "Flanger gratuit avec feedback harmonique.",
+      "description": "Flair anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "choral",
@@ -3321,9 +3635,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/choral/",
-      "description": "Chorus gratuit inspiré des effets vintage.",
+      "description": "Choral anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "freak",
@@ -3342,9 +3658,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/freak/",
-      "description": "Triple distortion gratuite combinant wavefolding et modulation.",
+      "description": "Freak ajoute saturation ou destruction contrôlée. L'outil Native Instruments quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "molekular",
@@ -3363,9 +3681,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/effects/molekular/",
-      "description": "Effets modulaires gratuits pour sound design.",
+      "description": "Molekular anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "symphony-series",
@@ -3384,9 +3704,11 @@
       "isFree": false,
       "priceEur": 999.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/cinematic/symphony-series/",
-      "description": "Collection orchestrale complète Native Instruments.",
+      "description": "SYMPHONY SERIES apporte une couleur orchestrale / cinématique. Une banque Native Instruments pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "session-guitarist",
@@ -3405,9 +3727,11 @@
       "isFree": false,
       "priceEur": 149.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist/",
-      "description": "Guitares strumming et picking jouées par des session musicians.",
+      "description": "Session Guitarist cible guitare (amp, cab ou instrument). La proposition Native Instruments pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "action-strings-2",
@@ -3426,9 +3750,11 @@
       "isFree": false,
       "priceEur": 299.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/cinematic/action-strings-2/",
-      "description": "Cordes orchestrales dynamiques pour bandes-annonces.",
+      "description": "Action Strings 2 apporte une couleur orchestrale / cinématique. Une banque Native Instruments pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "damage-2",
@@ -3447,9 +3773,11 @@
       "isFree": false,
       "priceEur": 399.0,
       "officialUrl": "https://heavyocity.com/product/damage-2/",
-      "description": "Percussions orchestrales cinématiques et agressives.",
+      "description": "Damage 2 apporte une couleur orchestrale / cinématique. Une banque Heavyocity pour maquettes et scores.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "nexus",
@@ -3468,9 +3796,11 @@
       "isFree": false,
       "priceEur": 249.0,
       "officialUrl": "https://refx.com/nexus",
-      "description": "Rompler populaire pour leads et pads en production dance.",
+      "description": "Nexus (reFX) est un instrument de synthèse à explorer côté pro. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Nexus+reFX",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "lfo-tool",
@@ -3489,9 +3819,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://xferrecords.com/products/lfo-tool",
-      "description": "Outil de modulation LFO pour sidechain et effets rythmiques.",
+      "description": "LFO Tool dessine des courbes de volume/filtre synchronisées. Le sidechain « pump » en un preset.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=LFO+Tool",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "endless-smile",
@@ -3510,9 +3842,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.pluginboutique.com/products/39-Endless-Smile",
-      "description": "Effet de build-up pour transitions en live et en club.",
+      "description": "Endless Smile construit des build-ups et transitions club. Un effet « moment » pour lives et arrangers dance.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/products/39-Endless-Smile",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "kickstart-2",
@@ -3531,9 +3865,11 @@
       "isFree": false,
       "priceEur": 15.0,
       "officialUrl": "https://www.pluginboutique.com/products/2-Kickstart-2",
-      "description": "Sidechain pump automatique pour grooves EDM.",
+      "description": "Kickstart pompe le volume en rythme. Sidechain EDM sans compression externe — simple et efficace.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/products/2-Kickstart-2",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "trackspacer-2-5",
@@ -3552,9 +3888,11 @@
       "isFree": false,
       "priceEur": 59.0,
       "officialUrl": "https://www.wavesfactory.com/products/trackspacer",
-      "description": "Sidechain spectral pour dégager de l'espace dans le mix.",
+      "description": "Trackspacer creuse spectraleement une piste pour en faire de la place à une autre. Sidechain intelligent kick/basse/voix.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Trackspacer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "vocal-rider",
@@ -3573,9 +3911,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.waves.com/plugins/vocal-rider",
-      "description": "Automatisation du niveau vocal pour un mix constant.",
+      "description": "Vocal Rider traite ou produit la voix. Un outil Waves pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Vocal+Rider",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "cla-vocals",
@@ -3594,9 +3934,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.waves.com/plugins/cla-vocals",
-      "description": "Chaîne vocale complète signée Chris Lord-Alge.",
+      "description": "CLA Vocals traite ou produit la voix. Un outil Waves pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=CLA+Vocals",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "fresh-air",
@@ -3615,9 +3957,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://slatedigital.com/fresh-air/",
-      "description": "Enhancer aérien gratuit pour ajouter de la brillance.",
+      "description": "Fresh Air ajoute de l'air et de la brillance en douceur. Enhancer gratuit Slate, très utilisé en finishing.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Fresh+Air+Slate",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "virtual-tape-machines",
@@ -3636,9 +3980,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://slatedigital.com/virtual-tape-machines/",
-      "description": "Émulation de machines à bandes Studer pour chaleur analogique.",
+      "description": "Virtual Tape Machines ajoute saturation ou destruction contrôlée. L'outil Slate Digital quand le signal est trop sage.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "heatwave",
@@ -3657,9 +4003,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://slatedigital.com/heatwave/",
-      "description": "Saturateur gratuit rapide pour ajouter de la présence.",
+      "description": "Heatwave sature rapidement pour ajouter de la présence. Gratuit Slate : un « glue » simple avant le mix fin.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "kclip-3",
@@ -3678,9 +4026,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://kilohearts.com/products/kclip",
-      "description": "Clipper de mastering pour loudness contrôlée.",
+      "description": "KClip clippe pour gagner du loudness avant limiteur. Outil de mastering/transient pour tracks électroniques.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=KClip",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "multipass",
@@ -3699,9 +4049,11 @@
       "isFree": false,
       "priceEur": 99.0,
       "officialUrl": "https://kilohearts.com/products/multipass",
-      "description": "Multiband multieffet pour traitement par bandes.",
+      "description": "Multipass traite par bandes de fréquences. Multiband créatif pour sculpter un son sans une chaîne de 10 plugins.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Multipass+Kilohearts",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "snap-heap",
@@ -3720,9 +4072,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://kilohearts.com/products/snap_heap",
-      "description": "Rack d'effets modulaire gratuit de Kilohearts.",
+      "description": "Snap Heap est un utilitaire de production (Kilohearts). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tal-u-no-lx",
@@ -3741,9 +4095,11 @@
       "isFree": false,
       "priceEur": 60.0,
       "officialUrl": "https://tal-software.com/products/tal-u-no-lx",
-      "description": "Émulation du Juno-60 avec chorus intégré.",
+      "description": "TAL-U-NO-LX recrée le Juno-60 avec son chorus mythique. Pads et leads vintage sans hardware.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=TAL-U-NO-LX",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "tal-bassline",
@@ -3762,9 +4118,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://tal-software.com/products/tal-bassline",
-      "description": "Synthé mono gratuit inspiré du SH-101 pour basses.",
+      "description": "TAL-BassLine évoque le SH-101 : basses mono rapides et acides. Freeware efficace pour électronique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tal-j-8",
@@ -3783,9 +4141,11 @@
       "isFree": false,
       "priceEur": 60.0,
       "officialUrl": "https://tal-software.com/products/tal-j-8",
-      "description": "Émulation du Roland Jupiter-8 au son iconique.",
+      "description": "TAL-J-8 s'attaque au Jupiter-8. Polyphonie luxueuse et son Roland classique en plugin.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=TAL-J-8",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "pg-8x",
@@ -3804,9 +4164,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/pg-8x-by-martin-luders",
-      "description": "Émulation gratuite du Roland JX-8P polyphonique.",
+      "description": "PG-8X (Martin Lüders) est un instrument de synthèse à explorer en gratuit. On le range ici pour son identité sonore et son usage en production, pas pour une liste de mots-clés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "versilian-upright-no-1",
@@ -3825,9 +4187,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://vis.versilstudios.com/vsco-community.html",
-      "description": "Piano droit acoustique gratuit échantillonné.",
+      "description": "Versilian Upright No. 1 est un piano / clavier Versilian Studios. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "piano-one",
@@ -3846,9 +4210,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.soundmagic.com.cn/pianoone",
-      "description": "Piano acoustique gratuit au son naturel.",
+      "description": "Piano One est un piano / clavier Sound Magic. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spitfire-soft-piano",
@@ -3867,9 +4233,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/soft-piano",
-      "description": "Piano feutré intime gratuit enregistré par Spitfire.",
+      "description": "Spitfire Soft Piano est un piano / clavier Spitfire Audio. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "ivy-audio-piano-in-162",
@@ -3888,9 +4256,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://ivy-audio.com/",
-      "description": "Piano Steinway gratuit échantillonné en détail.",
+      "description": "Ivy Audio Piano in 162 est un piano / clavier Ivy Audio. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "principessa",
@@ -3909,9 +4279,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.pianobook.co.uk/",
-      "description": "Piano upright communautaire gratuit via Pianobook.",
+      "description": "Principessa est un piano / clavier Pianobook. Choisissez-le pour le toucher et le caractère, pas seulement pour le mot « piano ».",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-frozen-strings",
@@ -3930,9 +4302,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cordes orchestrales gelées et atmosphériques gratuites.",
+      "description": "Instrument gratuit Spitfire LABS — Frozen Strings. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-tape-piano",
@@ -3951,9 +4325,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Piano enregistré sur bande magnétique, texture lo-fi.",
+      "description": "Instrument gratuit Spitfire LABS — Tape Piano. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-synth-strings",
@@ -3972,9 +4348,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cordes synthétiques rétro gratuites.",
+      "description": "Instrument gratuit Spitfire LABS — Synth Strings. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-mandolin",
@@ -3993,9 +4371,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Mandoline acoustique gratuite pour compositions folk.",
+      "description": "Instrument gratuit Spitfire LABS — Mandolin. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-electric-piano",
@@ -4014,9 +4394,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Piano électrique vintage gratuit.",
+      "description": "Instrument gratuit Spitfire LABS — Electric Piano. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-pedal-steel",
@@ -4035,9 +4417,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Pedal steel guitar gratuit pour ambiances country.",
+      "description": "Instrument gratuit Spitfire LABS — Pedal Steel. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-music-box",
@@ -4056,9 +4440,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Boîte à musique gratuite pour textures délicates.",
+      "description": "Instrument gratuit Spitfire LABS — Music Box. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-autoharp",
@@ -4077,9 +4463,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Autoharp gratuit pour ambiances folk et indie.",
+      "description": "Instrument gratuit Spitfire LABS — Autoharp. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-dulcimer",
@@ -4098,9 +4486,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Dulcimer gratuit aux sonorités cristallines.",
+      "description": "Instrument gratuit Spitfire LABS — Dulcimer. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-lap-steel",
@@ -4119,9 +4509,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Lap steel gratuit pour ambiances hawaïennes et ambient.",
+      "description": "Instrument gratuit Spitfire LABS — Lap Steel. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-hand-bells",
@@ -4140,9 +4532,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cloches à main gratuites pour effets lumineux.",
+      "description": "Instrument gratuit Spitfire LABS — Hand Bells. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-tundra-atmos",
@@ -4161,9 +4555,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Textures atmosphériques nordiques gratuites.",
+      "description": "Instrument gratuit Spitfire LABS — Tundra Atmos. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-scary-strings",
@@ -4182,9 +4578,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cordes inquiétantes gratuites pour suspense.",
+      "description": "Instrument gratuit Spitfire LABS — Scary Strings. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-moon-guitar",
@@ -4203,9 +4601,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Guitare acoustique lunaire gratuite et onirique.",
+      "description": "Instrument gratuit Spitfire LABS — Moon Guitar. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-harmonic-flute",
@@ -4224,9 +4624,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Flûte harmonique gratuite pour textures aériennes.",
+      "description": "Instrument gratuit Spitfire LABS — Harmonic Flute. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-bass-guitar",
@@ -4245,9 +4647,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Basse acoustique gratuite pour grooves organiques.",
+      "description": "Instrument gratuit Spitfire LABS — Bass Guitar. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-wurli",
@@ -4266,9 +4670,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Wurlitzer électrique gratuit au son chaleureux.",
+      "description": "Instrument gratuit Spitfire LABS — Wurli. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-amplified-cello-quartet",
@@ -4287,9 +4693,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Quatuor de violoncelles amplifiés gratuit.",
+      "description": "Instrument gratuit Spitfire LABS — Amplified Cello Quartet. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-flute",
@@ -4308,9 +4716,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Flûte rare gratuite aux timbres uniques.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Flute. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-textural-piano",
@@ -4329,9 +4739,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Piano textural gratuit pour ambiances expérimentales.",
+      "description": "Instrument gratuit Spitfire LABS — Textural Piano. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-synth-choir",
@@ -4350,9 +4762,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Chœur synthétique gratuit pour pads vocaux.",
+      "description": "Instrument gratuit Spitfire LABS — Synth Choir. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-electric-guitar",
@@ -4371,9 +4785,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Guitare électrique gratuite pour arpèges et nappes.",
+      "description": "Instrument gratuit Spitfire LABS — Electric Guitar. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-drum-machines",
@@ -4392,9 +4808,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Machines à rythmes vintage gratuites.",
+      "description": "Instrument gratuit Spitfire LABS — Drum Machines. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-glitch-drums",
@@ -4413,9 +4831,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Batteries glitch gratuites pour productions IDM.",
+      "description": "Instrument gratuit Spitfire LABS — Glitch Drums. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-autograph-grand",
@@ -4434,9 +4854,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Piano à queue concert gratuit.",
+      "description": "Instrument gratuit Spitfire LABS — Autograph Grand. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-peel-guitar",
@@ -4455,9 +4877,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Guitare acoustique peel gratuite au son cru.",
+      "description": "Instrument gratuit Spitfire LABS — Peel Guitar. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-organic-textures",
@@ -4476,9 +4900,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Textures organiques gratuites pour soundscapes.",
+      "description": "Instrument gratuit Spitfire LABS — Organic Textures. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-arctic-swells",
@@ -4497,9 +4923,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Nappes orchestrales arctiques gratuites.",
+      "description": "Instrument gratuit Spitfire LABS — Arctic Swells. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-violins",
@@ -4518,9 +4946,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Violons rares gratuits pour mélodies expressives.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Violins. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-woodwinds",
@@ -4539,9 +4969,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Bois rares gratuits pour orchestrations.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Woodwinds. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-brass",
@@ -4560,9 +4992,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cuivres rares gratuits pour fanfares et textures.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Brass. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-percussion",
@@ -4581,9 +5015,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Percussions rares gratuites pour rythmes uniques.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Percussion. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-vocal",
@@ -4602,9 +5038,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Voix rares gratuites pour textures vocales.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Vocal. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-strings",
@@ -4623,9 +5061,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Cordes rares gratuites pour arrangements.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Strings. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-keys",
@@ -4644,9 +5084,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Claviers rares gratuits pour textures vintage.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Keys. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-synth",
@@ -4665,9 +5107,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Synthés rares gratuits pour pads rétro.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Synth. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-guitar",
@@ -4686,9 +5130,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Guitares rares gratuites pour sonorités uniques.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Guitar. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-bass",
@@ -4707,9 +5153,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Basses rares gratuites pour grooves profonds.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Bass. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-drums",
@@ -4728,9 +5176,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Batteries rares gratuites pour grooves atypiques.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Drums. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-fx",
@@ -4749,9 +5199,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Effets sonores rares gratuits pour sound design.",
+      "description": "Instrument gratuit Spitfire LABS — Rare FX. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "labs-rare-ambient",
@@ -4770,9 +5222,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Ambiances rares gratuites pour compositions atmosphériques.",
+      "description": "Instrument gratuit Spitfire LABS — Rare Ambient. Enregistré / conçu pour la composition ; téléchargeable via l'app LABS officielle.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "splice",
@@ -4791,9 +5245,11 @@
       "isFree": false,
       "priceEur": 13.0,
       "officialUrl": "https://splice.com/",
-      "description": "Abonnement à des millions de loops, one-shots et presets avec plugin DAW.",
+      "description": "Splice donne accès à des millions de samples et presets via abonnement. Le cloud sample de référence pour beaucoup de producers.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "wave-alchemy-tapewave",
@@ -4811,9 +5267,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.wavealchemy.co.uk/tapewave/",
-      "description": "Pack de loops vintage enregistrés sur bande magnétique.",
+      "description": "Wave Alchemy Tapewave regroupe des loops et samples. Une banque Wave Alchemy pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "black-octopus-leviathan",
@@ -4831,9 +5289,11 @@
       "isFree": false,
       "priceEur": 79.0,
       "officialUrl": "https://blackoctopus-sound.com/product/leviathan/",
-      "description": "Collection massive de samples EDM, dubstep et bass music.",
+      "description": "Black Octopus Leviathan regroupe des loops et samples. Une banque Black Octopus Sound pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "sample-magic-raw-techno",
@@ -4851,9 +5311,11 @@
       "isFree": false,
       "priceEur": 29.0,
       "officialUrl": "https://www.samplemagic.com/",
-      "description": "Loops et one-shots techno bruts pour production club.",
+      "description": "Sample Magic Raw Techno regroupe des loops et samples. Une banque Sample Magic pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "touch-loops-deep-house",
@@ -4871,9 +5333,11 @@
       "isFree": false,
       "priceEur": 25.0,
       "officialUrl": "https://www.touchloops.com/",
-      "description": "Loops deep house et grooves organiques.",
+      "description": "Touch Loops Deep House regroupe des loops et samples. Une banque Touch Loops pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "producer-loops-trap-essentials",
@@ -4891,9 +5355,11 @@
       "isFree": false,
       "priceEur": 35.0,
       "officialUrl": "https://www.producerloops.com/",
-      "description": "Pack trap avec 808, hi-hats et mélodies.",
+      "description": "Producer Loops Trap Essentials regroupe des loops et samples. Une banque Producer Loops pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "ghost-syndicate-dnb-evolution",
@@ -4911,9 +5377,11 @@
       "isFree": false,
       "priceEur": 39.0,
       "officialUrl": "https://www.ghostsyndicate.net/",
-      "description": "Loops drum & bass modernes et basslines profondes.",
+      "description": "Ghost Syndicate DnB Evolution regroupe des loops et samples. Une banque Ghost Syndicate pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "loopmasters-tech-house",
@@ -4931,9 +5399,11 @@
       "isFree": false,
       "priceEur": 35.0,
       "officialUrl": "https://www.loopmasters.com/",
-      "description": "Collection tech house avec tops, percussions et basses.",
+      "description": "Loopmasters Tech House regroupe des loops et samples. Une banque Loopmasters pour accélérer l'arrangement sans repartir de zéro.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "beatport-sounds",
@@ -4951,9 +5421,11 @@
       "isFree": false,
       "priceEur": 10.0,
       "officialUrl": "https://www.beatport.com/sounds",
-      "description": "Marketplace de packs loops et samples par genre.",
+      "description": "Beatport Sounds commercialise packs de loops et one-shots par genre club. Orienté dancefloor et DJ-producers.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.beatport.com/sounds",
+      "storePartner": "Beatport"
     },
     {
       "id": "cymatics-infinity-loop-pack",
@@ -4971,9 +5443,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://cymatics.fm/",
-      "description": "Pack de loops gratuit populaire en production électronique.",
+      "description": "Pack de loops Cymatics côté électronique/trap. Souvent une porte d'entrée gratuite vers leur catalogue.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cymatics-free-drum-kits",
@@ -4991,9 +5465,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://cymatics.fm/",
-      "description": "Kits de batterie gratuits : 808, trap, hip-hop et EDM.",
+      "description": "Kits gratuits Cymatics (808, snares, hats). Parfaits pour esquisser un beat sans budget samples.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cymatics-infinity-drum-collection",
@@ -5011,9 +5487,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://cymatics.fm/",
-      "description": "Collection de one-shots et drum loops pour trap et EDM.",
+      "description": "Cymatics Infinity Drum Collection est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "splice-sounds-drums",
@@ -5031,9 +5509,11 @@
       "isFree": false,
       "priceEur": 13.0,
       "officialUrl": "https://splice.com/sounds/packs",
-      "description": "Des milliers de packs drums one-shot via abonnement Splice.",
+      "description": "Splice Sounds Drums est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "kshmr-samples-vol-4",
@@ -5051,9 +5531,11 @@
       "isFree": false,
       "priceEur": 40.0,
       "officialUrl": "https://www.splice.com/kshmr",
-      "description": "Kicks, snares et percussions du producteur KSHMR.",
+      "description": "KSHMR Samples Vol. 4 est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "native-instruments-battery-4",
@@ -5072,9 +5554,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/drums/battery-4/",
-      "description": "Sampler de drums avec expansions et kits inclus.",
+      "description": "Native Instruments Battery 4 est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "xln-audio-ad2-modern-rock",
@@ -5093,9 +5577,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.xlnaudio.com/products/addictive_drums_2",
-      "description": "Expansion rock moderne pour Addictive Drums 2.",
+      "description": "XLN Audio AD2 Modern Rock est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "wave-alchemy-drum-tools",
@@ -5113,9 +5599,11 @@
       "isFree": false,
       "priceEur": 49.0,
       "officialUrl": "https://www.wavealchemy.co.uk/drum-tools/",
-      "description": "One-shots de boîtes à rythmes vintage traitées.",
+      "description": "Wave Alchemy Drum Tools est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "roland-cloud-tr-808",
@@ -5134,9 +5622,11 @@
       "isFree": false,
       "priceEur": 20.0,
       "officialUrl": "https://roland.com/roland-cloud/",
-      "description": "Samples authentiques de la TR-808 via Roland Cloud.",
+      "description": "Roland Cloud TR-808 est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spitfire-labs-glitch-drums",
@@ -5155,9 +5645,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Batteries glitch gratuites pour productions expérimentales.",
+      "description": "Spitfire LABS Glitch Drums est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet gratuitement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spitfire-labs-drum-machines",
@@ -5176,9 +5668,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.spitfireaudio.com/labs",
-      "description": "Machines à rythmes vintage gratuites.",
+      "description": "Spitfire LABS Drum Machines est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet gratuitement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "808-mafia-official-kits",
@@ -5196,9 +5690,11 @@
       "isFree": false,
       "priceEur": 30.0,
       "officialUrl": "https://www.beatport.com/",
-      "description": "Kits trap et 808 distribués via boutiques officielles.",
+      "description": "808 Mafia Official Kits est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.beatport.com/",
+      "storePartner": "Beatport"
     },
     {
       "id": "slayed-gnarly",
@@ -5216,9 +5712,11 @@
       "isFree": false,
       "priceEur": 35.0,
       "officialUrl": "https://www.pluginboutique.com/",
-      "description": "One-shots et loops trap agressifs pour production moderne.",
+      "description": "Slayed Gnarly est un kit / pack de drums. One-shots et grooves prêts à droper dans un projet depuis la boutique.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "unison-midi-chord-pack",
@@ -5236,9 +5734,11 @@
       "isFree": false,
       "priceEur": 67.0,
       "officialUrl": "https://unison.audio/",
-      "description": "1200+ progressions d'accords MIDI pour tous genres.",
+      "description": "Des centaines de progressions MIDI Unison. Posez-les sur un piano ou un synthé et avancez la compos.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "unison-free-midi-pack",
@@ -5256,9 +5756,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://unison.audio/",
-      "description": "Pack MIDI gratuit avec mélodies et accords.",
+      "description": "Pack MIDI gratuit Unison pour tester leur approche mélodies/accords avant d'acheter les collections payantes.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cymatics-midi-collection",
@@ -5276,9 +5778,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://cymatics.fm/",
-      "description": "Mélodies, accords et basslines MIDI gratuits.",
+      "description": "Cymatics MIDI Collection livre des idées MIDI (accords, mélodies, patterns). Branchez un instrument et transformez le MIDI en arrangement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "wa-production-midi-chord-pack",
@@ -5296,9 +5800,11 @@
       "isFree": false,
       "priceEur": 29.0,
       "officialUrl": "https://www.waproduction.com/",
-      "description": "Progressions d'accords MIDI pour EDM, pop et hip-hop.",
+      "description": "WA Production MIDI Chord Pack livre des idées MIDI (accords, mélodies, patterns). Branchez un instrument et transformez le MIDI en arrangement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=MIDI+Chord+Pack",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "cthulhu",
@@ -5318,9 +5824,11 @@
       "isFree": false,
       "priceEur": 39.0,
       "officialUrl": "https://xferrecords.com/products/cthulhu",
-      "description": "Générateur d'accords et arpégiateur MIDI créatif.",
+      "description": "Cthulhu génère accords et arpèges MIDI. Posez une note, sortez une progression — composition accélérée.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Cthulhu+Xfer",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "hooktheory-hookpad",
@@ -5339,9 +5847,11 @@
       "isFree": false,
       "priceEur": 50.0,
       "officialUrl": "https://www.hooktheory.com/hookpad",
-      "description": "Outil de composition avec export MIDI et théorie musicale.",
+      "description": "Hookpad guide la composition avec théorie visuelle et export MIDI. Excellent pour apprendre en faisant.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "splice-midi-packs",
@@ -5359,9 +5869,11 @@
       "isFree": false,
       "priceEur": 13.0,
       "officialUrl": "https://splice.com/sounds/packs",
-      "description": "Packs MIDI mélodies, basses et accords via abonnement.",
+      "description": "Splice MIDI Packs livre des idées MIDI (accords, mélodies, patterns). Branchez un instrument et transformez le MIDI en arrangement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "producer-hive-midi-vault",
@@ -5379,9 +5891,11 @@
       "isFree": false,
       "priceEur": 25.0,
       "officialUrl": "https://producerhive.com/",
-      "description": "Collection de MIDI packs pour house, techno et trap.",
+      "description": "Producer Hive MIDI Vault livre des idées MIDI (accords, mélodies, patterns). Branchez un instrument et transformez le MIDI en arrangement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "loopmasters-midi-packs",
@@ -5399,9 +5913,11 @@
       "isFree": false,
       "priceEur": 20.0,
       "officialUrl": "https://www.loopmasters.com/",
-      "description": "Packs MIDI par genre : house, DnB, hip-hop et plus.",
+      "description": "Loopmasters MIDI Packs livre des idées MIDI (accords, mélodies, patterns). Branchez un instrument et transformez le MIDI en arrangement.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "komplete-15-ultimate",
@@ -5421,9 +5937,11 @@
       "isFree": false,
       "priceEur": 1799.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-ultimate/",
-      "description": "Bundle complet NI : 150+ instruments, effets et expansions.",
+      "description": "Komplete 15 Ultimate est le grand pack NI : instruments, effets et expansions pour un studio complet.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Komplete+15+Ultimate",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "komplete-15-standard",
@@ -5443,9 +5961,11 @@
       "isFree": false,
       "priceEur": 599.0,
       "officialUrl": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-15-standard/",
-      "description": "Bundle standard avec les essentiels Komplete 15.",
+      "description": "Komplete 15 Standard concentre l'essentiel NI sans monter à Ultimate. Bon équilibre prix / couverture.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Komplete+15",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "plugin-alliance-mega-bundle",
@@ -5465,9 +5985,11 @@
       "isFree": false,
       "priceEur": 249.0,
       "officialUrl": "https://www.plugin-alliance.com/",
-      "description": "Collection de plugins de mastering et mixage premium.",
+      "description": "Mega Bundle Plugin Alliance : une collection dense d'émulations et outils de mix/mastering premium.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Plugin+Alliance",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "waves-mercury-bundle",
@@ -5487,9 +6009,11 @@
       "isFree": false,
       "priceEur": 599.0,
       "officialUrl": "https://www.waves.com/bundles/mercury",
-      "description": "Plus de 150 plugins Waves pour mixage, mastering et création.",
+      "description": "Mercury est l'un des plus vastes bundles Waves. Couvre mix, master, live et création — souvent en promo.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Waves+Mercury",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "izotope-music-production-suite-6",
@@ -5509,9 +6033,11 @@
       "isFree": false,
       "priceEur": 499.0,
       "officialUrl": "https://www.izotope.com/en/shop/music-production-suite",
-      "description": "Suite complète : Ozone, Neutron, RX, Nectar et plus.",
+      "description": "La Music Production Suite assemble Ozone, Neutron, RX, Nectar… Un écosystème iZotope pour mix et master assistés.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Music+Production+Suite",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "arturia-v-collection-10",
@@ -5531,9 +6057,11 @@
       "isFree": false,
       "priceEur": 599.0,
       "officialUrl": "https://www.arturia.com/products/software-instruments/v-collection/",
-      "description": "32 émulations de synthés et pianos légendaires.",
+      "description": "Version récente de la V Collection : encore plus d'instruments Arturia pour couvrir vintage et moderne sans multiplier les licences.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=V+Collection",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "slate-digital-all-access-pass",
@@ -5553,9 +6081,11 @@
       "isFree": false,
       "priceEur": 15.0,
       "officialUrl": "https://slatedigital.com/all-access-pass/",
-      "description": "Abonnement mensuel à tous les plugins Slate Digital.",
+      "description": "All Access Pass débloque les plugins Slate au mois. Utile pour tester VMR, FG-X et co. sans tout acheter.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=All+Access+Pass",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "softube-volume-1-bundle",
@@ -5575,9 +6105,11 @@
       "isFree": false,
       "priceEur": 199.0,
       "officialUrl": "https://www.softube.com/bundles",
-      "description": "Bundle d'effets et d'amplis Softube pour le mixage.",
+      "description": "Softube Volume 1 Bundle regroupe plusieurs outils Softube. Intéressant si vous voulez une suite cohérente plutôt que des licences éparpillées.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "reason-studios-reason-bundle",
@@ -5597,9 +6129,11 @@
       "isFree": false,
       "priceEur": 20.0,
       "officialUrl": "https://www.reasonstudios.com/reason",
-      "description": "Abonnement Reason+ avec Rack, instruments et effets.",
+      "description": "Reason Studios Reason+ Bundle regroupe plusieurs outils Reason Studios. Intéressant si vous voulez une suite cohérente plutôt que des licences éparpillées.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "meldaproduction-mcompletebundle",
@@ -5619,9 +6153,11 @@
       "isFree": false,
       "priceEur": 499.0,
       "officialUrl": "https://www.meldaproduction.com/MCompleteBundle",
-      "description": "Bundle complet de 100+ plugins MeldaProduction.",
+      "description": "MCompleteBundle : la quasi-totalité Melda dans une licence. Quantité massive pour sound design et mastering.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "soundtoys-5",
@@ -5641,9 +6177,11 @@
       "isFree": false,
       "priceEur": 499.0,
       "officialUrl": "https://www.soundtoys.com/product/soundtoys-5/",
-      "description": "Collection complète des effets créatifs Soundtoys.",
+      "description": "Soundtoys 5 packe Decapitator, EchoBoy, Crystallizer et le reste de la famille. Créativité analogique logiciel.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=Soundtoys+5",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "fabfilter-total-bundle",
@@ -5663,9 +6201,11 @@
       "isFree": false,
       "priceEur": 899.0,
       "officialUrl": "https://www.fabfilter.com/bundles/total-bundle",
-      "description": "Tous les plugins FabFilter : EQ, compression, reverb, saturation.",
+      "description": "Le Total Bundle FabFilter regroupe EQ, dynamique, réverb et saturation de la marque. Une suite « pro » cohérente.",
       "discoveredAt": "2026-07-12",
-      "source": "manual"
+      "source": "manual",
+      "storeUrl": "https://www.pluginboutique.com/search?search=FabFilter+Total+Bundle",
+      "storePartner": "Plugin Boutique"
     },
     {
       "id": "roomreverb",
@@ -5686,7 +6226,9 @@
       "officialUrl": "https://github.com/Mr-Hamza1001/RoomReverb",
       "description": "🔊 Simulate room acoustics with this JUCE-based audio plugin that generates realistic reverb using ray-tracing techniques for improved sound design.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "fl-25-2-5",
@@ -5705,9 +6247,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/ImageLine-Project/fl-25.2.5",
-      "description": "fl 25.2.5 image line daw digital audio workstation music production beat making vst plugins audio editing mixing mastering piano roll step sequencer audio interface asio4all producer edition desktop utility installation setup guide beginner tutorial workflow optimization",
+      "description": "Fl 25.2.5 sculpte le spectre avec l'approche ImageLine-Project. Un EQ à choisir quand vous savez ce que vous voulez corriger ou mettre en avant.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "micvst",
@@ -5728,7 +6272,9 @@
       "officialUrl": "https://github.com/tenrececaudatusarmour182/MicVST",
       "description": "Route your microphone through VST3 plugins and output the processed audio to any application using a virtual audio cable.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "quill",
@@ -5747,9 +6293,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/nickpanaccione/Quill",
-      "description": "Quill is a live C++ DSP prototyping VST/AU plugin built on JUCE.",
+      "description": "Quill est un utilitaire de production (nickpanaccione). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "duq",
@@ -5768,9 +6316,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/gradippp/duq",
-      "description": "[WIP] MIDI-Based Envelope Trigger plugin",
+      "description": "Duq est un utilitaire de production (gradippp). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "morass",
@@ -5789,9 +6339,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/bogware/morass",
-      "description": "Studio vocal channel-strip audio plugin (AU/AUv3/VST3/Standalone), built on JUCE 8.",
+      "description": "Morass traite ou produit la voix. Un outil bogware pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "juce",
@@ -5810,9 +6362,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/juce-framework/JUCE",
-      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "description": "Juce est un utilitaire de production (juce-framework). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "delay",
@@ -5833,7 +6387,9 @@
       "officialUrl": "https://github.com/petetheman79/Delay",
       "description": "A Delay VST Plugin based on the tutorial in the book \"The Complete Beginner's Guide to Audio Plug-in Development\"",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "wire-wound-12",
@@ -5852,9 +6408,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://github.com/Jtekkk/WIRE-WOUND-12",
-      "description": "12 KINDS OF AUDIO TRANSFORMES SELECTABLE IN A VST PLUGIN",
+      "description": "Wire Wound 12 est un utilitaire de production (Jtekkk). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "github"
+      "source": "github",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "eldoraudio-launches-guitar-audio-to-midi-converter-for-turning-guitar-recordings",
@@ -5875,7 +6433,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
       "description": "Eldoraudio has launched Guitar Audio to MIDI Converter, a browser-based tool that transcribes guitar recordings into standard MIDI files. The new guitar converter joins Eldoraudio’s existing Piano Audio to MIDI Converter. You upload an audio file, set the BPM if needed, and get b",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "xnullx-releases-five-free-plugins-for-sound-design-and-sound-mangling",
@@ -5896,7 +6456,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/12/xnullx/",
       "description": "Developer XNULLX has released five free donationware plugins covering granular processing, saturation, wavefolding, spectral smear, and beat slicing. I will be honest right away. I like the tools themselves, but I am getting tired of the current wave of AI-generated plugin websit",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "angelic-vibes-releases-spread-a-free-stereo-widening-plugin",
@@ -5915,9 +6477,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://bedroomproducersblog.com/2026/07/11/angelic-vibes-spread/",
-      "description": "Developer Angelic Vibes has released Spread, a free stereo widening plugin for macOS and Windows. Spread is the second installment in the developer’s AV Essentials FX series (which I think also includes the free Pitchshifter that we recently featured). It is designed for vocals, ",
+      "description": "Developer Angelic Vibes has released Spread, a free stereo widening plugin for macOS and Windows. Spread is the second installment in the developer’s AV Essentials FX series (which I think also includes the free Pitchshifter that we recently featured). It is designed for vocals,",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "schulz-audio-offers-portacrunch-424-cassette-gain-stage-plugin-for-free",
@@ -5936,9 +6500,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://bedroomproducersblog.com/2026/07/11/schulz-audio-portacrunch-424/",
-      "description": "Developer Schulz Audio is offering Portacrunch 424, a cassette four-track gain-stage effect for macOS and Windows, as a free download. There’s no expiry date listed on the Portacrunch 424 product page, and the summer sale had around 15 hours remaining at the time of writing, but ",
+      "description": "Developer Schulz Audio is offering Portacrunch 424, a cassette four-track gain-stage effect for macOS and Windows, as a free download. There’s no expiry date listed on the Portacrunch 424 product page, and the summer sale had around 15 hours remaining at the time of writing, but",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "free-fx-plugins-aplenty-with-the-kvr-developer-challenge-2026",
@@ -5957,9 +6523,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://bedroomproducersblog.com/2026/07/10/fx-kvrdc26/",
-      "description": "The KVR Developer Challenge 26 not only provides a platform for existing and aspiring developers to showcase their creativity but also offers us an opportunity to stock up on new tools that enhance our workflow for free. And show our appreciation, of course. But, seriously, it’s ",
+      "description": "The KVR Developer Challenge 26 not only provides a platform for existing and aspiring developers to showcase their creativity but also offers us an opportunity to stock up on new tools that enhance our workflow for free. And show our appreciation, of course. But, seriously, it’s",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "almudio-releases-3d-panner-a-free-binaural-spatial-audio-plugin",
@@ -5980,7 +6548,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
       "description": "Almudio has released 3D Panner, a free early access spatial audio plugin for macOS and Windows. Developer Almog reached out about the release and shared some very interesting details about the project. 3D Panner was developed over seven months as his final project at BIMM Univers",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tonal-forms-releases-dado-lilac-alloy-a-free-kontakt-player-instrument",
@@ -5999,9 +6569,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://bedroomproducersblog.com/2026/07/09/dado-lilac-alloy-kontakt/",
-      "description": "Tonal Forms has released DADO – Lilac Alloy, a free Kontakt Player instrument available through Native Instruments. Developer Francesco Sabatini reached out about this one via email, and it was one of the best emails I received in a while. Francesco is a lead product designer at ",
+      "description": "Tonal Forms has released DADO – Lilac Alloy, a free Kontakt Player instrument available through Native Instruments. Developer Francesco Sabatini reached out about this one via email, and it was one of the best emails I received in a while. Francesco is a lead product designer at",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "check-out-some-free-synths-from-the-kvr-developer-challenge-2026",
@@ -6020,9 +6592,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://bedroomproducersblog.com/2026/07/09/check-out-some-free-synths-from-the-kvr-developer-challenge-2026/",
-      "description": "The KVR Developer Challenge 2026 is underway, and with over 50 freebies on offer, we’ve got lots to choose from. We’re taking a quick look at some of the synths from this year’s contest, and it’s a pretty impressive lineup. We have almost a month before the winners are announced ",
+      "description": "The KVR Developer Challenge 2026 is underway, and with over 50 freebies on offer, we’ve got lots to choose from. We’re taking a quick look at some of the synths from this year’s contest, and it’s a pretty impressive lineup. We have almost a month before the winners are announced",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "noizlabs-offers-the-beheader-clipper-plugin-free-for-a-limited-time",
@@ -6043,7 +6617,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/09/noizlabs-beheader-clipper/",
       "description": "NoizLabs has released Beheader, a free-for-a-limited-time clipper and saturation plugin for macOS and Windows. Beheader is a surgical clipper with a simple interface. Like any clipper, instead of pulling the whole signal down to avoid a ceiling, it clips only the peaks that excee",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "pitch-innovations-introduces-loop2kit-exclusive-bpb-discount-code-inside",
@@ -6064,7 +6640,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/09/pitch-innovations-loop2kit/",
       "description": "Pitch Innovations has released Loop2Kit, an intelligent sampler instrument that turns audio loops into playable kits. The developer is offering Loop2Kit for $69 during the intro sale, down from the regular $129 price. BPB readers can use the coupon code BPB10 for an extra 10% dis",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "analog-obsession-releases-thebus-a-free-analog-style-compressor-plugin",
@@ -6085,7 +6663,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/08/analog-obsession-thebus/",
       "description": "Analog Obsession has released TheBus, a free analog-style compressor plugin for macOS and Windows. Coming from one of my favorite indie developers, I was super excited to test this one. Analog Obsession describes TheBus as a fully custom compressor rather than a clone or variatio",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "zplane-launches-peel-stems-2-with-improved-real-time-stem-separation",
@@ -6106,7 +6686,9 @@
       "officialUrl": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
       "description": "zplane has launched PEEL STEMS 2, a major update to its real-time stem separation plugin for macOS and Windows. Stem separation is a busy area right now, but PEEL STEMS offers an interesting angle: it works directly inside your DAW. Instead of uploading audio to an online service",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "karanyi-sounds-summer-sale-save-on-plugins-and-bundles",
@@ -6127,7 +6709,9 @@
       "officialUrl": "https://rekkerd.org/karanyi-sounds-summer-sale-kontakt-instruments-plugins/",
       "description": "Karanyi Sounds has announced the launch of a limited time Summer Sale on its instruments, audio plugins and expansion packs. Summer Sale just kicked off – and this one runs for a few weeks. Every week a different plugin takes the spotlight, with a fresh exclusive offer. No countd",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "summer-sale-save-up-to-70-on-pitch-innovation-s-creative-audio-plugins",
@@ -6148,7 +6732,9 @@
       "officialUrl": "https://rekkerd.org/pitch-innovations-pitchbend-chord-bending-plugins-sale/",
       "description": "Pitch Innovations has announced the launch of a limited time Summer Sale with discounts of up to 70% off on its innovative music production tools focused on enhancing creativity and workflow inside the DAW. The offer includes the Groove Shaper one-of-a-kind creative sequencer, ex",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "omega-fm-synthesizer-by-bleass-on-sale-for-29-usd",
@@ -6169,7 +6755,9 @@
       "officialUrl": "https://rekkerd.org/bleass-omega-fm-synthesizer-plugin-sale/",
       "description": "Plugin Boutique has launched a limited time “Overdrive Sun Sale” on BLEASS Omega, offering a 63% discount on the user-friendly 4-operator FM synthesizer instrument as part of its 13th anniversary promotion. If you think FM Synthesis is complicated, it’s time to think again! BLEAS",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spire-synthesizer-by-reveal-sound-on-sale-at-60-off",
@@ -6190,7 +6778,9 @@
       "officialUrl": "https://rekkerd.org/spire-synthesizer-by-reveal-sound-on-sale/",
       "description": "Reveal Sound has launched a limited time Summer Sale on the Spire Synthesizer, offering a 60% discount for the next few days. Spire is a polyphonic software synthesizer that combines powerful sound engine modulation and flexible architecture, and a graphical interface provides un",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "slate-digital-fg-stress-compressor-effect-on-sale-for-at-50-off",
@@ -6211,7 +6801,9 @@
       "officialUrl": "https://rekkerd.org/slate-digital-fg-stress-compressor-effect-sale/",
       "description": "AudioDeluxe has announced a limited time promotion on Slate Digital’s FG-Stress compressor effect, offering a 50% discount as part of a Summer Sale. The FG-Stress is a digital replication of one of the industry’s most highly coveted analog compressors, the Empirical Labs Distress",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "flash-sale-save-60-on-ethereal-echoes-by-samplescience",
@@ -6230,9 +6822,11 @@
       "isFree": false,
       "priceEur": null,
       "officialUrl": "https://rekkerd.org/ethereal-echoes-by-samplescience-sale/",
-      "description": "SampleScience has launched a flash sale on its virtual instrument featuring 60 atmospheric ambient pads. For 24 hours only, Ethereal Echoes is offered at a 60% discount, priced only $12 USD with coupon code AMBIENT at the checkout. Shape your sound with four effects: distortion, ",
+      "description": "SampleScience has launched a flash sale on its virtual instrument featuring 60 atmospheric ambient pads. For 24 hours only, Ethereal Echoes is offered at a 60% discount, priced only $12 USD with coupon code AMBIENT at the checkout. Shape your sound with four effects: distortion,",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "save-20-on-klangmacht-drums-midi-pack-bundle-by-ugritone",
@@ -6253,7 +6847,9 @@
       "officialUrl": "https://rekkerd.org/ugritone-klangmacht-drums-midi-pack-bundle-sale/",
       "description": "As part of its “Aces High in July” promotion, Ugritone is offering a 20% discount on its Klangmacht Drums MIDI Pack Bundle, a collection of 4 MIDI packs with a total of 1,822 MIDI files. The Klangmacht Drums MIDI Pack Bundle covers serious ground. Metal, punk, hard rock – and yes",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "korg-launches-nts-4-build-it-yourself-analog-performance-mixer-for-hardware-setu",
@@ -6274,7 +6870,9 @@
       "officialUrl": "https://rekkerd.org/korg-launches-nts-4-build-it-yourself-analog-performance-mixer-for-hardware-setups/",
       "description": "KORG has announced a compact analog performance mixer kit designed for hardware setups built around the volca series, NTS instruments, Eurorack modular gear and desktop synths. The NTS-4 is the fourth edition in the Nu:Tekt series. Like those before it, NTS-4 requires self-assemb",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "save-40-on-syntorial-2-and-building-blocks-by-audible-genius",
@@ -6295,7 +6893,9 @@
       "officialUrl": "https://rekkerd.org/audible-genius-syntorial-2-building-blocks-tutorial-sale/",
       "description": "Audible Genius has launched a Summer Sale on its modern music production tools. Musicians and producers can get a discount on two hands-on tools that turn synth programming and music theory into practical, real-world skills. Over the past year, Audible Genius has worked to put ha",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "w-a-production-instacomposer-3-expansions-on-sale-for-39-90-usd",
@@ -6316,7 +6916,9 @@
       "officialUrl": "https://rekkerd.org/w-a-production-instacomposer-3-expansions-bundle-on-sale/",
       "description": "W.A. Production has launched a new value bundle aimed at producers, composers, and beatmakers who want instant inspiration, powerful MIDI generation, and an ever-growing library of musical ideas. The InstaComposer 3 & Expansions Bundle is offered at an 84% discount through the en",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "harrison-releases-mixbus-12-analog-console-inspired-daw",
@@ -6337,7 +6939,9 @@
       "officialUrl": "https://rekkerd.org/harrison-releases-mixbus-12-analog-console-inspired-daw/",
       "description": "Harrison has recently launch a major update to its digital audio workstation software which delivers the legendary analog-inspired sound, intuitive workflow, and powerful signature production tools that producers, engineers, and musicians love. Mixbus 12 channels Harrison’s 50-ye",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "arturia-launches-keylab-mk3-ultra-with-orange-finish",
@@ -6358,7 +6962,9 @@
       "officialUrl": "https://rekkerd.org/arturia-launches-keylab-mk3-ultra-with-orange-finish/",
       "description": "Arturia has introduced a special edition of its premium MIDI controller, now available in a bold ultra orange finish. Designed as a full-spec creative centerpiece for music production and live performance, KeyLab mk3 ULTRA combines expressive semi-weighted keys, aftertouch playab",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "free-nanomix-humanizer-plugin-by-fkfx-audio",
@@ -6379,7 +6985,9 @@
       "officialUrl": "https://rekkerd.org/free-nanomix-humanizer-plugin-by-fkfx-audio/",
       "description": "FKFX Audio has introduced a humanizer and mix utility plugin designed to add subtle movement to otherwise static tracks. Part of this year’s Developer Challenge at KVR Audio, NanoMix creates slow, smooth, repeatable micro-variations in level, pan, and MIDI parameters to make stat",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "uvi-bastille-day-deal-save-up-to-50-usd-on-virtual-instruments-and-plugins",
@@ -6400,7 +7008,9 @@
       "officialUrl": "https://rekkerd.org/uvi-bastille-day-deal-on-virtual-instruments-and-plugins/",
       "description": "UVI has announced the launch of its annual sale in celebration of the upcoming Bastille Day, offering up to $50 USD / 50 EUR off on a purchase for a few days only. The promotion is valid on all products including the flagship Falcon creative hybrid instrument, and the newly relea",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "free-reverie-resonator-and-audio-reactive-sampler-plugin-by-quiet-music",
@@ -6421,7 +7031,9 @@
       "officialUrl": "https://rekkerd.org/free-reverie-resonator-and-audio-reactive-sampler-plugin-by-quiet-music/",
       "description": "Quiet Music has released a new audio plugin which combines a sympathetic string resonator modeled with Karplus-Strong synthesis and an audio-reactive sampler with trigger and flow modes. Driven by incoming audio, Reverie is capable of everything from pure string voicings and melo",
       "discoveredAt": "2026-07-13",
-      "source": "rss"
+      "source": "rss",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "nuke-multiband-dynamic-by-side-key-system",
@@ -6440,9 +7052,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/nuke-multiband-by-side-key-system",
-      "description": "Nuke Multiband Dynamic by Side Key System — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Nuke Multiband Dynamic by Side Key System est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "iron-deck-tape-saturation-by-m-media-audio",
@@ -6461,9 +7075,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/iron-deck-by-m-media-audio",
-      "description": "Iron Deck Tape Saturation by M Media Audio — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Iron Deck Tape Saturation by M Media Audio ajoute saturation ou destruction contrôlée. L'outil KVR Audio quand le signal est trop sage.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "montagem-punch-dynamics-by-montagem",
@@ -6482,9 +7098,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/montagem-punch-by-montagem",
-      "description": "Montagem Punch Dynamics by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Montagem Punch Dynamics by Montagem est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "montagem-widener-stereo-imaging-by-montagem",
@@ -6503,9 +7121,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/montagem-widener-by-montagem",
-      "description": "Montagem Widener Stereo Imaging by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Montagem Widener Stereo Imaging by Montagem est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "montagem-finisher-saturation-by-montagem",
@@ -6524,9 +7144,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/montagem-finisher-by-montagem",
-      "description": "Montagem Finisher Saturation by Montagem — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Montagem Finisher Saturation by Montagem ajoute saturation ou destruction contrôlée. L'outil KVR Audio quand le signal est trop sage.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "vla-one-voice-levelling-amplifier-vocal-effects-by-studio9-plugins",
@@ -6545,9 +7167,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/vla-one-voice-levelling-amplifier-by-studio9-plugins",
-      "description": "VLA-One – Voice Levelling Amplifier Vocal Effects by Studio9 Plugins — plugin gratuit répertorié sur KVR Audio.",
+      "description": "VLA-One – Voice Levelling Amplifier Vocal Effects by Studio9 Plugins cible guitare (amp, cab ou instrument). La proposition KVR Audio pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "dj-filter-control-max-for-live-effect-by-killihu",
@@ -6566,9 +7190,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/dj-filter-control-by-killihu",
-      "description": "DJ Filter Control Max For Live Effect by killihu — plugin gratuit répertorié sur KVR Audio.",
+      "description": "DJ Filter Control Max For Live Effect by killihu est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "kill-filter-filter-by-reyes-amps",
@@ -6587,9 +7213,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/kill-filter-by-reyes-amps",
-      "description": "Kill Filter Filter by Reyes Amps — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Kill Filter Filter by Reyes Amps cible guitare (amp, cab ou instrument). La proposition KVR Audio pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "reyes-303-amp-model-by-reyes-amps",
@@ -6608,9 +7236,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/reyes-303-by-reyes-amps",
-      "description": "Reyes 303 Amp Model by Reyes Amps — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Reyes 303 Amp Model by Reyes Amps cible guitare (amp, cab ou instrument). La proposition KVR Audio pour enregistrer ou composer sans micro en face d'un ampli.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "bassshape-bass-by-plugin-nation",
@@ -6629,9 +7259,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/bassshape-by-plugin-nation",
-      "description": "BassShape Bass by Plugin Nation — plugin gratuit répertorié sur KVR Audio.",
+      "description": "BassShape Bass by Plugin Nation est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "harmonic-dna-reconstruction-core-sat-free-saturator-by-rawl",
@@ -6650,9 +7282,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/harmonic-dna-reconstruction-core-sat-free-by-rawl",
-      "description": "Harmonic DNA Reconstruction CORE SAT Free Saturator by RAWL — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Harmonic DNA Reconstruction CORE SAT Free Saturator by RAWL est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "borealis-le-reverb-by-mntra",
@@ -6671,9 +7305,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/borealis-le-by-mntra",
-      "description": "BOREALIS-LE Reverb by MNTRA — plugin gratuit répertorié sur KVR Audio.",
+      "description": "BOREALIS-LE Reverb by MNTRA place le son dans un espace. Chez KVR Audio, l'accent est mis sur une signature réverb identifiable plutôt qu'un preset fourre-tout.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "tatreenoiseremover-vocals-by-yuay-sound-record",
@@ -6692,9 +7328,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/tatreenoiseremover-by-yuay-sound-record",
-      "description": "TatreeNoiseRemover Vocals by Yuay Sound Record — plugin gratuit répertorié sur KVR Audio.",
+      "description": "TatreeNoiseRemover Vocals by Yuay Sound Record traite ou produit la voix. Un outil KVR Audio pour corriger, embellir ou monter une chaîne vocale.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "harsher-reality-multi-fx-by-piruz-labs",
@@ -6713,9 +7351,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/harsher-reality-by-piruz-labs",
-      "description": "Harsher Reality Multi FX by Piruz Labs — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Harsher Reality Multi FX by Piruz Labs est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "cybervox-playbeat-expansion-playbeat-expansion-pack-by-audiomodern",
@@ -6734,9 +7374,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/cybervox---playbeat-expansion-by-audiomodern",
-      "description": "Cybervox - Playbeat expansion Playbeat Expansion Pack by Audiomodern — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Cybervox - Playbeat expansion Playbeat Expansion Pack by Audiomodern est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "stepstrum-midi-processor-by-notewerks",
@@ -6755,9 +7397,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/stepstrum-by-notewerks",
-      "description": "StepStrum MIDI Processor by Notewerks — plugin gratuit répertorié sur KVR Audio.",
+      "description": "StepStrum MIDI Processor by Notewerks est un utilitaire de production (KVR Audio). Pas glamour, souvent indispensable au quotidien.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "doobie-delay-reverb-by-datanoisetv",
@@ -6776,9 +7420,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/doobie-by-datanoisetv",
-      "description": "Doobie Delay / Reverb by DatanoiseTV — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Doobie Delay / Reverb by DatanoiseTV place le son dans un espace. Chez KVR Audio, l'accent est mis sur une signature réverb identifiable plutôt qu'un preset fourre-tout.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "gristleizer-modulation-flanger-phaser-chorus-tremolo-by-studio-kozak",
@@ -6797,9 +7443,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/gristleizer-by-studio-kozak",
-      "description": "GRISTLEIZER Modulation (Flanger / Phaser / Chorus / Tremolo) by Studio Kozak — plugin gratuit répertorié sur KVR Audio.",
+      "description": "GRISTLEIZER Modulation (Flanger / Phaser / Chorus / Tremolo) by Studio Kozak anime le son (chorus, phaser, flanger…). De la vie stéréo sans réécrire toute la piste.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "semedo-compressor-compressor-by-semedo-audio",
@@ -6818,9 +7466,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/semedo-compressor-by-semedo-audio",
-      "description": "Semedo Compressor Compressor by Semedo Audio — plugin gratuit répertorié sur KVR Audio.",
+      "description": "Semedo Compressor Compressor by Semedo Audio gère la dynamique à la manière KVR Audio. Utile pour coller, contrôler ou colorer — selon le caractère du plugin.",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     },
     {
       "id": "spectrumnation-spectrum-analyzer-by-plugin-nation",
@@ -6839,9 +7489,11 @@
       "isFree": true,
       "priceEur": null,
       "officialUrl": "https://www.kvraudio.com/product/spectrumnation-by-plugin-nation",
-      "description": "SpectrumNation Spectrum Analyzer by Plugin Nation — plugin gratuit répertorié sur KVR Audio.",
+      "description": "SpectrumNation Spectrum Analyzer by Plugin Nation mesure au lieu de colorer. Un utilitaire KVR Audio pour décider avec des chiffres (et vos oreilles).",
       "discoveredAt": "2026-07-13",
-      "source": "kvr"
+      "source": "kvr",
+      "storeUrl": null,
+      "storePartner": null
     }
   ]
 }

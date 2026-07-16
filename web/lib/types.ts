@@ -35,6 +35,8 @@ export type PluginFormat =
   | "EXS24"
   | "SFZ";
 
+export type StorePartner = "Plugin Boutique" | "Beatport";
+
 export interface Plugin {
   id: string;
   slug: string;
@@ -46,6 +48,9 @@ export interface Plugin {
   isFree: boolean;
   priceEur: number | null;
   officialUrl: string;
+  /** URL boutique affiliée (Plugin Boutique / Beatport), si disponible. */
+  storeUrl?: string | null;
+  storePartner?: StorePartner | null;
   description: string;
   discoveredAt: string;
   source: string;
