@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { PluginCategory } from "@/lib/types";
 import { getCategoryLabel } from "@/lib/categories";
 
@@ -26,14 +27,20 @@ const CATEGORY_COLORS: Record<PluginCategory, string> = {
 
 interface CategoryBadgeProps {
   category: PluginCategory;
+  linked?: boolean;
 }
 
-export function CategoryBadge({ category }: CategoryBadgeProps) {
+export function CategoryBadge({ category, linked = true }: CategoryBadgeProps) {
+  const className = `inline-flex rounded-full px-2.5 py-1 text-xs font-medium ${CATEGORY_COLORS[category]}`;
+  const label = getCategoryLabel(category);
+
+  if (!linked) {
+    return <span className={className}>{label}</span>;
+  }
+
   return (
-    <span
-      className={`inline-flex rounded-full px-2.5 py-1 text-xs font-medium ${CATEGORY_COLORS[category]}`}
-    >
-      {getCategoryLabel(category)}
-    </span>
+    <Link href={`/categorie/${category}`} className={`${className} hover:opacity-90`}>
+      {label}
+    </Link>
   );
 }

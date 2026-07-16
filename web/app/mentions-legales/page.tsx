@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = buildPageMetadata({
   title: "Mentions légales",
-};
+  description:
+    "Mentions légales de VST Atlas — catalogue de plugins VST et outils MAO. Éditeur, hébergement, affiliation et publicité.",
+  path: "/mentions-legales",
+});
 
 export default function LegalPage() {
   return (

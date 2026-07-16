@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = buildPageMetadata({
   title: "Politique de confidentialité",
-};
+  description:
+    "Politique de confidentialité RGPD de VST Atlas : cookies, AdSense et droits des utilisateurs.",
+  path: "/confidentialite",
+});
 
 export default function PrivacyPage() {
   return (

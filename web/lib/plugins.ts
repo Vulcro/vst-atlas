@@ -76,3 +76,10 @@ export function formatPrice(plugin: Plugin): string {
     maximumFractionDigits: 0,
   }).format(plugin.priceEur);
 }
+
+export function getRelatedPlugins(plugin: Plugin, limit = 6): Plugin[] {
+  return catalog.plugins
+    .filter((item) => item.category === plugin.category && item.slug !== plugin.slug)
+    .sort((a, b) => a.name.localeCompare(b.name, "fr"))
+    .slice(0, limit);
+}

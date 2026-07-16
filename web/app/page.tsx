@@ -1,14 +1,24 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+import { AffiliateBanner } from "@/components/AffiliateBanner";
 import { AdSlot } from "@/components/AdSlot";
 import { PluginGrid } from "@/components/PluginGrid";
 import { CATEGORY_ORDER, CONTENT_SECTIONS, getCategoryLabel } from "@/lib/categories";
 import { SITE_TAGLINE } from "@/lib/constants";
+import { buildPageMetadata } from "@/lib/seo";
 import {
   getAllPlugins,
   getCategoryCounts,
   getFreePlugins,
   getRecentPlugins,
 } from "@/lib/plugins";
+
+export const metadata: Metadata = buildPageMetadata({
+  path: "/",
+  title: undefined,
+  description:
+    "Catalogue français de plugins VST et outils MAO — gratuits et payants. Synthés, effets, samples et bundles avec liens officiels.",
+});
 
 export default function HomePage() {
   const recent = getRecentPlugins(6);
@@ -68,7 +78,7 @@ export default function HomePage() {
           <div>
             <h2 className="text-2xl font-semibold">Derniers ajouts</h2>
             <p className="mt-2 text-sm text-muted">
-              Les plugins les plus récemment découverts par notre script.
+              Les plugins VST les plus récemment ajoutés au catalogue.
             </p>
           </div>
           <Link href="/plugins" className="text-sm text-accent-soft hover:underline">
@@ -78,6 +88,10 @@ export default function HomePage() {
         <PluginGrid plugins={recent} />
       </section>
 
+      <section className="mx-auto flex max-w-7xl justify-center px-4 py-6 sm:px-6">
+        <AffiliateBanner variant="leaderboard600" />
+      </section>
+
       <section className="mx-auto max-w-7xl px-4 py-8 sm:px-6">
         <AdSlot className="min-h-28" />
       </section>
@@ -85,7 +99,7 @@ export default function HomePage() {
       <section className="mx-auto max-w-7xl px-4 py-12 sm:px-6">
         <h2 className="text-2xl font-semibold">Samples & contenus</h2>
         <p className="mt-2 text-sm text-muted">
-          Loop packs, drum kits, MIDI kits et bundles des éditeurs officiels.
+          Packs de loops, kits de batterie, packs MIDI et bundles pour la MAO.
         </p>
         <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {CONTENT_SECTIONS.map((section) => {

@@ -67,6 +67,8 @@ Dans Vercel → Settings → Domains → ajoutez votre domaine et configurez les
 2. Ajoutez votre domaine
 3. Soumettez le sitemap : `https://vstatlas.fr/sitemap.xml`
 
+Guide complet : [`docs/SEO-PUB.md`](docs/SEO-PUB.md) (SEO + plan pub 30 €)
+
 ### Étape 5 — Monétisation
 
 Guide complet : [`docs/MONETISATION.md`](docs/MONETISATION.md)

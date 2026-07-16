@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
+import { AffiliateBanner } from "@/components/AffiliateBanner";
 import { PluginGrid } from "@/components/PluginGrid";
 import { CONTENT_SECTIONS, getSectionBySlug } from "@/lib/categories";
 import { getPluginsByCategory } from "@/lib/plugins";
+import { buildPageMetadata } from "@/lib/seo";
 
 interface SectionPageProps {
   params: Promise<{ section: string }>;
@@ -18,10 +20,11 @@ export async function generateMetadata({ params }: SectionPageProps): Promise<Me
   const section = getSectionBySlug(sectionSlug);
   if (!section) return {};
 
-  return {
-    title: section.title,
+  return buildPageMetadata({
+    title: `${section.title} pour la MAO`,
     description: section.description,
-  };
+    path: `/sections/${section.slug}`,
+  });
 }
 
 export default async function ContentSectionPage({ params }: SectionPageProps) {
@@ -45,8 +48,9 @@ export default async function ContentSectionPage({ params }: SectionPageProps) {
         <p className="mt-4 leading-relaxed text-muted">{section.description}</p>
       </div>
 
-      <div className="mt-8">
-        <AdSlot />
+      <div className="mt-8 flex flex-col items-center gap-6 sm:flex-row sm:justify-between">
+        <AdSlot className="w-full max-w-xl" />
+        <AffiliateBanner variant="square200" />
       </div>
 
       <div className="mt-10">
