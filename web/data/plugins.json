@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-20",
   "plugins": [
     {
       "id": "vital",
@@ -7494,6 +7494,846 @@
       "source": "kvr",
       "storeUrl": null,
       "storePartner": null
+    },
+    {
+      "id": "stftpitchshiftplugin",
+      "slug": "stftpitchshiftplugin",
+      "name": "Stftpitchshiftplugin",
+      "developer": "jurihock",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/jurihock/stftPitchShiftPlugin",
+      "description": "Official JUCE plugin for stftPitchShift",
+      "discoveredAt": "2026-07-20",
+      "source": "github"
+    },
+    {
+      "id": "openvino-vst3",
+      "slug": "openvino-vst3",
+      "name": "Openvino Vst3",
+      "developer": "TheFirstIstari",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/TheFirstIstari/OpenVINO-VST3",
+      "description": "VST3 audio plugins powered by Intel OpenVINO — wrapping Audacity's AI models for professional DAWs",
+      "discoveredAt": "2026-07-20",
+      "source": "github"
+    },
+    {
+      "id": "stashtrack",
+      "slug": "stashtrack",
+      "name": "Stashtrack",
+      "developer": "N9RecordsTechnologiesIL",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/N9RecordsTechnologiesIL/StashTrack",
+      "description": "StashTrack VST, a plugin for downloading youtube audio tracks straight into your DAW (currently mainly supports FLStudio)",
+      "discoveredAt": "2026-07-20",
+      "source": "github"
+    },
+    {
+      "id": "neural-morphing",
+      "slug": "neural-morphing",
+      "name": "Neural Morphing",
+      "developer": "manoskary",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/manoskary/neural-morphing",
+      "description": "A VST plugin for granular sound shaping with neural audio codecs",
+      "discoveredAt": "2026-07-20",
+      "source": "github"
+    },
+    {
+      "id": "destroyfx",
+      "slug": "destroyfx",
+      "name": "Destroyfx",
+      "developer": "sophiapoirier",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/sophiapoirier/destroyfx",
+      "description": "Destroy FX is a music software project of Sophia Poirier and Tom Murphy 7.  Mostly we make audio effect plugins that destroy your sound.  Supported plugin APIs include Audio Unit and VST.  Includes the DfxPlugin and DFX GUI frameworks.",
+      "discoveredAt": "2026-07-20",
+      "source": "github"
+    },
+    {
+      "id": "free-muedsat-and-muedlim-effect-plugins",
+      "slug": "free-muedsat-and-muedlim-effect-plugins",
+      "name": "FREE: MUEDsat and MUEDlim effect plugins",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-muedsat-and-muedlim-effect-plugins/",
+      "description": "Atsushi Kimura of glasswerks inc. wrote in to share about two free modules of an upcoming mastering plugin suite which reproduces the master-bus chain of a working composer and arranger. MUEDsp saturation (MUEDsat) is a transformer-saturation plugin, while MUEDsp limiter (MUEDlim",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "smart-audio-solution-releases-box-of-color-multi-effect-plugin",
+      "slug": "smart-audio-solution-releases-box-of-color-multi-effect-plugin",
+      "name": "Smart Audio Solution releases Box Of Color multi-effect plugin",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/smart-audio-solution-releases-box-of-color-multi-effect-plugin/",
+      "description": "Smart Audio Solution has recently released a 7-module saturation/coloration channel strip plugin for Windows and Mac. Built by mix engineer/producer Alberto Roveroni, Box Of Color‘s modules interact in a musical way. Despite this (deliberately) quirky aspect, this plugin is actua",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "free-infected-sounds-synth-plugins-for-windows",
+      "slug": "free-infected-sounds-synth-plugins-for-windows",
+      "name": "FREE: Infected Sounds synth plugins for Windows",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-infected-sounds-synth-plugins-for-windows/",
+      "description": "Infected Sounds has released a wide variety of software synthesizer instruments for Windows over the years. Many of them were already free, but they weren’t always available as websites hosting them would go defunct. Recently, Infected Sounds has launched a new website where all ",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "parish-audio-releases-x1-exciter-effect-plugin-vst3-au",
+      "slug": "parish-audio-releases-x1-exciter-effect-plugin-vst3-au",
+      "name": "Parish Audio releases X1 Exciter effect plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/parish-audio-releases-x1-exciter-effect-plugin-vst3-au/",
+      "description": "Parish Audio has released a frequency-focused harmonic enhancement plugin designed to add clarity, presence, articulation, pop, and high-frequency detail to individual tracks and full mixes. An exciter works by generating new harmonic content from the original signal and blending",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "hot-grooves-releases-latin-tech-house-3-and-90s-house",
+      "slug": "hot-grooves-releases-latin-tech-house-3-and-90s-house",
+      "name": "Hot Grooves releases Latin Tech House 3 and 90s House",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/hot-grooves-releases-latin-tech-house-3-and-90s-house/",
+      "description": "Hot Grooves has released a new sample pack featuring 8 construction kits and 8 vocal samples geared towards Latin Tech House music production. Latin Tech House 3 fuses raw Latin flavor with pumping Tech House drive, made for DJs and producers chasing that infectious, sun-soaked g",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "triple-spiral-audio-launches-summer-sale-with-up-to-60-off-sound-libraries",
+      "slug": "triple-spiral-audio-launches-summer-sale-with-up-to-60-off-sound-libraries",
+      "name": "Triple Spiral Audio launches Summer Sale with up to 60% OFF sound libraries",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/triple-spiral-audio-summer-sale-soundsets-kontakt-libraries/",
+      "description": "Triple Spiral Audio has announced the launch of its annual Summer Sale, offering discounts of up to 60% off on Kontakt libraries and soundsets for Omnisphere, Falcon, Pigments, Zebra, and many more. The Summer Sale 2026 has started and during this 10 day sale you can save up to 6",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "tdr-kotelnikov-ge-dynamics-processor-on-sale-for-19-usd",
+      "slug": "tdr-kotelnikov-ge-dynamics-processor-on-sale-for-19-usd",
+      "name": "TDR Kotelnikov GE dynamics processor on sale for $19 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tokyo-dawn-labs-tdr-kotelnikov-ge-dynamics-processor-plugin-sale/",
+      "description": "AudioDeluxe is offering an exclusive discount on the wideband dynamics processor by Tokyo Dawn Labs for the next few days. The TDR Kotelnikov GE (Gentleman’s Edition) plugin combines high fidelity dynamic range control with deep musical flexibility. As a descendant of the venerab",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "raw-gemz-releases-summer-house-for-serum-2-by-level-8",
+      "slug": "raw-gemz-releases-summer-house-for-serum-2-by-level-8",
+      "name": "RAW GEMZ releases Summer House for Serum 2 by Level 8",
+      "developer": "rekkerd.org",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/raw-gemz-releases-summer-house-for-serum-2-by-level-8/",
+      "description": "RAW GEMZ has recently released a sound pack that is designed to capture the sound of modern summer dance music, from uplifting poolside anthems and rooftop grooves to nostalgic sunset records that stay with you long after summer ends. Summer House for Serum 2 by Level 8 features ",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "free-sucrose-harmonics-effect-pluginby-unplugred",
+      "slug": "free-sucrose-harmonics-effect-pluginby-unplugred",
+      "name": "FREE: Sucrose harmonics effect pluginby UnplugRed",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-sucrose-harmonics-effect-pluginby-unplugred/",
+      "description": "As part of this year’s KVR Developer Challenge, UnplugRed has launched an audio plugin with a unique algorithm that generates harmonics and subharmonics in a precise and surgical manner. Sucrose is a collaboration between UnplugRed and blepfx. uses an innovative hilbert transform",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "onezero-samples-releases-jungle-roller-essentials-sample-pack",
+      "slug": "onezero-samples-releases-jungle-roller-essentials-sample-pack",
+      "name": "OneZero Samples releases Jungle Roller Essentials sample pack",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/onezero-samples-releases-jungle-roller-essentials-sample-pack/",
+      "description": "OneZero Samples has launched a new sample pack for building full tracks from scratch or adding fresh inspiration to existing projects. The royalty free Jungle Roller Essentials contains everything you need to create rolling grooves, hypnotic atmospheres, and heavyweight low-end w",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "ocean-swift-releases-devocean-modular-synth-sound-design-software",
+      "slug": "ocean-swift-releases-devocean-modular-synth-sound-design-software",
+      "name": "Ocean Swift releases DevOcean Modular synth & sound design software",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ocean-swift-releases-devocean-modular-synth-sound-design-software/",
+      "description": "Ocean Swift has introduced a modern modular synthesis and sound design platform for Windows and macOS. DevOcean Modular offers a growing collection of 145 modules which include dozens of nods to the open source DSP community, DSP and MIDI scripting, an educational and UX mindset ",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "zero-g-releases-other-worlds-evolved-instrument-library-for-kontakt",
+      "slug": "zero-g-releases-other-worlds-evolved-instrument-library-for-kontakt",
+      "name": "Zero-G releases Other Worlds Evolved instrument library for Kontakt",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/zero-g-releases-other-worlds-evolved-instrument-library-for-kontakt/",
+      "description": "Zero-G has introduced a new Evolved series instrument library. The next generation of the original library, Other Worlds Evolved is reimagined as a powerful instrument for Zero-G’s brand new Orbita Engine. Built from a vast 4.6GB collection of 500 original cinematic samples creat",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "marla-real-grooves-vol-1-midi-plugin-on-sale-for-19-usd",
+      "slug": "marla-real-grooves-vol-1-midi-plugin-on-sale-for-19-usd",
+      "name": "Marla Real Grooves Vol. 1 MIDI plugin on sale for $19 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/marla-real-grooves-vol-1-midi-plugin-on-sale/",
+      "description": "Audio Plugin Deals has launched an exclusive promotion on a collection of drum performances that aim to bring real human pocket straight to your DAW sequencer. Rather than relying on simple algorithmic randomization, Marla Real Grooves Volume 1 is a MIDI plugin that gives you act",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "soundhive-releases-end-game-three-stage-mastering-effect-plugin",
+      "slug": "soundhive-releases-end-game-three-stage-mastering-effect-plugin",
+      "name": "SoundHive releases End Game three-stage mastering effect plugin",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/soundhive-releases-end-game-mastering-effect-plugin/",
+      "description": "SoundHive has announced the release of new mastering plugin which unifies master-bus dynamics in a single window, so the loudness work is spread across three stages instead of forced through one limiter. Most engineers reach commercial loudness by stacking three or four plugins o",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "tdr-limiter-6-ge-plugin-by-tokyo-dawn-labs-on-sale-for-25-usd",
+      "slug": "tdr-limiter-6-ge-plugin-by-tokyo-dawn-labs-on-sale-for-25-usd",
+      "name": "TDR Limiter 6 GE plugin by Tokyo Dawn Labs on sale for $25 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tokyo-dawn-labs-tdr-limiter-6-ge-plugin-sale/",
+      "description": "AudioDeluxe has launched an exclusive discount on the TDR Limiter 6 GE by Tokyo Dawn Labs, an effect that delivers versatile, powerful, surgical dynamics shaping via an innovative, beautifully presented plugin. TDR Limiter 6 GE is a modern dynamics compression and limiting toolki",
+      "discoveredAt": "2026-07-20",
+      "source": "rss"
+    },
+    {
+      "id": "juno-nocturnes-lite-16-free-arturia-jun-6-v-presets-presets-for-jun-6-v-by-kreativ-sound",
+      "slug": "juno-nocturnes-lite-16-free-arturia-jun-6-v-presets-presets-for-jun-6-v-by-kreativ-sound",
+      "name": "Juno Nocturnes Lite — 16 Free Arturia JUN-6 V Presets Presets for Jun-6 V by Kreativ Sound",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/juno-nocturnes-lite-16-free-arturia-jun-6-v-presets-by-kreativ-sound",
+      "description": "Juno Nocturnes Lite — 16 Free Arturia JUN-6 V Presets Presets for Jun-6 V by Kreativ Sound — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "orbitix-raw-stereo-width-by-remi-blaze",
+      "slug": "orbitix-raw-stereo-width-by-remi-blaze",
+      "name": "Orbitix Raw Stereo Width by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/orbitix-raw-by-remi-blaze",
+      "description": "Orbitix Raw Stereo Width by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "oxidex-raw-saturation-by-remi-blaze",
+      "slug": "oxidex-raw-saturation-by-remi-blaze",
+      "name": "Oxidex Raw Saturation by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/oxidex-raw-by-remi-blaze",
+      "description": "Oxidex Raw Saturation by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "vaporate-raw-textures-by-remi-blaze",
+      "slug": "vaporate-raw-textures-by-remi-blaze",
+      "name": "Vaporate Raw Textures by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/vaporate-raw-by-remi-blaze",
+      "description": "Vaporate Raw Textures by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "purix-raw-resonance-removal-by-remi-blaze",
+      "slug": "purix-raw-resonance-removal-by-remi-blaze",
+      "name": "Purix Raw Resonance Removal by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/purix-raw-by-remi-blaze",
+      "description": "Purix Raw Resonance Removal by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "groove60-classic-drum-machine-midi-timing-processor-midi-fx-utility-by-push-and-groove",
+      "slug": "groove60-classic-drum-machine-midi-timing-processor-midi-fx-utility-by-push-and-groove",
+      "name": "Groove60 :Classic Drum Machine MIDI Timing Processor MIDI FX / Utility by Push and Groove",
+      "developer": "KVR Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/groove60-classic-drum-machine-midi-timing-processor-by-push-and-groove",
+      "description": "Groove60 :Classic Drum Machine MIDI Timing Processor MIDI FX / Utility by Push and Groove — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "zero-sweep-filter-filter-by-stemwire",
+      "slug": "zero-sweep-filter-filter-by-stemwire",
+      "name": "Zero Sweep Filter Filter by Stemwire",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/zero-sweep-filter-by-stemwire",
+      "description": "Zero Sweep Filter Filter by Stemwire — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "subzix-raw-sub-bass-by-remi-blaze",
+      "slug": "subzix-raw-sub-bass-by-remi-blaze",
+      "name": "Subzix Raw Sub Bass by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/subzix-raw-by-remi-blaze",
+      "description": "Subzix Raw Sub Bass by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "reactix-raw-riser-by-remi-blaze",
+      "slug": "reactix-raw-riser-by-remi-blaze",
+      "name": "Reactix Raw Riser by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/reactix-raw-by-remi-blaze",
+      "description": "Reactix Raw Riser by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "infernix-raw-stutter-effect-by-remi-blaze",
+      "slug": "infernix-raw-stutter-effect-by-remi-blaze",
+      "name": "Infernix Raw Stutter Effect by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/infernix-raw-by-remi-blaze",
+      "description": "Infernix Raw Stutter Effect by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "kernix-raw-multi-fx-by-remi-blaze",
+      "slug": "kernix-raw-multi-fx-by-remi-blaze",
+      "name": "Kernix Raw Multi FX by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/kernix-raw-by-remi-blaze",
+      "description": "Kernix Raw Multi FX by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "vortix-raw-granular-textures-by-remi-blaze",
+      "slug": "vortix-raw-granular-textures-by-remi-blaze",
+      "name": "Vortix Raw Granular Textures by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/vortix-raw-by-remi-blaze",
+      "description": "Vortix Raw Granular Textures by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "morphix-raw-granular-fx-by-remi-blaze",
+      "slug": "morphix-raw-granular-fx-by-remi-blaze",
+      "name": "Morphix Raw Granular FX by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/morphix-raw-by-remi-blaze",
+      "description": "Morphix Raw Granular FX by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "attrattore-synth-analog-style-subtractive-by-creature-from-the-black",
+      "slug": "attrattore-synth-analog-style-subtractive-by-creature-from-the-black",
+      "name": "Attrattore Synth (Analog Style/ Subtractive) by Creature From The Black",
+      "developer": "KVR Audio",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/attrattore-by-creature-from-the-black",
+      "description": "Attrattore Synth (Analog Style/ Subtractive) by Creature From The Black — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "ponte-audio-routing-by-creature-from-the-black",
+      "slug": "ponte-audio-routing-by-creature-from-the-black",
+      "name": "Ponte Audio Routing by Creature From The Black",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/ponte-by-creature-from-the-black",
+      "description": "Ponte Audio Routing by Creature From The Black — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "scatterit-raw-glitch-by-remi-blaze",
+      "slug": "scatterit-raw-glitch-by-remi-blaze",
+      "name": "Scatterit Raw Glitch by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/scatterit-raw-by-remi-blaze",
+      "description": "Scatterit Raw Glitch by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "flarex-stereo-imaging-by-remi-blaze",
+      "slug": "flarex-stereo-imaging-by-remi-blaze",
+      "name": "Flarex Stereo Imaging by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/flarex-by-remi-blaze",
+      "description": "Flarex Stereo Imaging by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "forgex-utility-by-remi-blaze",
+      "slug": "forgex-utility-by-remi-blaze",
+      "name": "Forgex Utility by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/forgex-by-remi-blaze",
+      "description": "Forgex Utility by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "searex-gate-by-remi-blaze",
+      "slug": "searex-gate-by-remi-blaze",
+      "name": "Searex Gate by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/searex-by-remi-blaze",
+      "description": "Searex Gate by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "yano-swing-midi-effect-by-bumpin-audio",
+      "slug": "yano-swing-midi-effect-by-bumpin-audio",
+      "name": "Yano Swing MIDI Effect by Bumpin Audio",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/yano-swing-by-bumpin-audio",
+      "description": "Yano Swing MIDI Effect by Bumpin Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-20",
+      "source": "kvr"
     }
   ]
 }
