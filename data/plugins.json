@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-27",
   "plugins": [
     {
       "id": "vital",
@@ -8333,6 +8333,1098 @@
       "officialUrl": "https://www.kvraudio.com/product/yano-swing-by-bumpin-audio",
       "description": "Yano Swing MIDI Effect by Bumpin Audio — plugin gratuit répertorié sur KVR Audio.",
       "discoveredAt": "2026-07-20",
+      "source": "kvr"
+    },
+    {
+      "id": "zam-plugins",
+      "slug": "zam-plugins",
+      "name": "Zam Plugins",
+      "developer": "zamaudio",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/zamaudio/zam-plugins",
+      "description": "Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing",
+      "discoveredAt": "2026-07-27",
+      "source": "github"
+    },
+    {
+      "id": "directpipe",
+      "slug": "directpipe",
+      "name": "Directpipe",
+      "developer": "LiveTrack-X",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/LiveTrack-X/DirectPipe",
+      "description": "Cross-platform real-time VST2/VST3/AU host. Plugin chain processing, external control (hotkeys, MIDI, Stream Deck, WebSocket, HTTP API), fast preset switching.",
+      "discoveredAt": "2026-07-27",
+      "source": "github"
+    },
+    {
+      "id": "signalizer",
+      "slug": "signalizer",
+      "name": "Signalizer",
+      "developer": "jthorborg",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/jthorborg/signalizer",
+      "description": "Audio/signal visualizer plugin",
+      "discoveredAt": "2026-07-27",
+      "source": "github"
+    },
+    {
+      "id": "alter",
+      "slug": "alter",
+      "name": "Alter",
+      "developer": "Quantryx-sound-project",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Quantryx-sound-project/Alter",
+      "description": "Audio visualisation application with VST plugin",
+      "discoveredAt": "2026-07-27",
+      "source": "github"
+    },
+    {
+      "id": "brickworks",
+      "slug": "brickworks",
+      "name": "Brickworks",
+      "developer": "Orastron",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Orastron/brickworks",
+      "description": "Brickworks is a music DSP toolkit that supplies you with the fundamental building blocks for creating and enhancing audio engines on any platform.",
+      "discoveredAt": "2026-07-27",
+      "source": "github"
+    },
+    {
+      "id": "izotope-japan-is-giving-away-vea-for-free-until-july-31",
+      "slug": "izotope-japan-is-giving-away-vea-for-free-until-july-31",
+      "name": "iZotope Japan is giving away VEA for FREE until July 31",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
+      "description": "iZotope Japan is giving away VEA, the Voice Enhancement Assistant plugin, for free until July 31st at 23:59 Japan time. The giveaway is part of the Japan-limited iZotope Mix & Master Sale 2026, which celebrates iZotope joining Boris FX. The broader sale runs until August 16th, bu",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "realcassette-is-a-free-cassette-tape-plugin-and-standalone-app-for-windows",
+      "slug": "realcassette-is-a-free-cassette-tape-plugin-and-standalone-app-for-windows",
+      "name": "RealCassette is a FREE cassette tape plugin and standalone app for Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "drum_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/26/realcassette-jan-schulten/",
+      "description": "Jan Schulten has released RealCassette, a free cassette tape effect plugin and standalone app for Windows. Most BPB readers already know that I absolutely love processing sounds with cassette tapes. That probably became obvious somewhere between BPB Cassette 808, BPB Cassette 909",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "hvoya-audio-releases-gneiss-a-free-morphing-multistage-filter-plugin",
+      "slug": "hvoya-audio-releases-gneiss-a-free-morphing-multistage-filter-plugin",
+      "name": "Hvoya Audio releases Gneiss, a FREE morphing multistage filter plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/26/hvoya-audio-gneiss/",
+      "description": "Eugene Yakshin of Hvoya Audio has released Gneiss, a free morphing multistage filter effect plugin for macOS and Windows. As I mentioned before, I am taking a look at some of my favorite KVR Developer Challenge entries this year, and Gneiss is another one I really liked. It is fr",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "dystopian-waves-makes-drox-ii-pro-free-for-a-limited-time",
+      "slug": "dystopian-waves-makes-drox-ii-pro-free-for-a-limited-time",
+      "name": "Dystopian Waves makes DroX II Pro FREE for a limited time",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/25/dystopian-waves-drox-ii-pro/",
+      "description": "Dystopian Waves has made DroX II Pro, its glitch and stutter audio effect, free for a limited time on Gumroad. The Pro version is currently listed as $0+ and 100% off, down from its regular $35 price. I do not see an expiry date on the Gumroad page, so it is probably best to grab",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "soundmorph-timeflux-available-for-only-9-until-july-31",
+      "slug": "soundmorph-timeflux-available-for-only-9-until-july-31",
+      "name": "SoundMorph TimeFlux available for only $9 until July 31",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/25/soundmorph-timeflux-goodbye/",
+      "description": "SoundMorph is retiring the original standalone TimeFlux software, which is now available for $9 until July 31, down from its regular $149 price. I just received an email from SoundMorph about the retirement deal, and it’s both great news and sad news. After July 31, the original ",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "purafied-audio-makes-liquid-death-snare-free-again",
+      "slug": "purafied-audio-makes-liquid-death-snare-free-again",
+      "name": "Purafied Audio makes Liquid Death Snare FREE again",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/25/purafied-audio-liquid-death-snare/",
+      "description": "Purafied Audio has made Liquid Death Snare free again, dropping the price from $38 to $0 for a limited time. I just received an email from Purafied Audio about the offer, and this is definitely a nice one to catch if you work with acoustic drums. If you have a weak acoustic snare",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "gliff-is-a-free-midi-guitar-translator-for-macos-and-windows",
+      "slug": "gliff-is-a-free-midi-guitar-translator-for-macos-and-windows",
+      "name": "Gliff is a FREE MIDI guitar translator for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/24/gliff-midi-guitar-translator/",
+      "description": "Gliff is a free guitar-based plugin for macOS and Windows that’s aimed at guitarists and keyboardists alike. So, there are two ways to approach this plugin: one is as a guitarist looking to create clean, polyphonic MIDI chord patterns that you can drag and drop into your project.",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "matari-audio-releases-free-public-beta-of-buffr-a-retrospective-audio-and-midi",
+      "slug": "matari-audio-releases-free-public-beta-of-buffr-a-retrospective-audio-and-midi",
+      "name": "Matari Audio releases free public beta of BUFFR, a retrospective audio and MIDI",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/24/matari-audio-buffr-beta/",
+      "description": "Matari Audio has released BUFFR, a free public beta of a retrospective audio, system audio, and MIDI capture plugin for macOS, Windows, and Linux. Important note before we get into the details: the public beta is free, but each beta license lasts 21 days from first use. There is ",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "expressive-e-launches-noisy-2-6-with-new-resonators-effects-and-presets-intro",
+      "slug": "expressive-e-launches-noisy-2-6-with-new-resonators-effects-and-presets-intro",
+      "name": "Expressive E launches Noisy 2.6 with new resonators, effects, and presets (INTRO",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/24/expressive-e-noisy-2-6/",
+      "description": "Expressive E has released Noisy 2.6, a major update to its noise-through-resonance software synthesizer. Noisy 2.6 is a free update for existing Noisy 2 owners. For a limited time, new users can get it for €89/$89 (40% off), before it returns to its regular €149/$149 price. I rem",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "friendgineer-labs-releases-chance-a-free-random-multi-fx-plugin",
+      "slug": "friendgineer-labs-releases-chance-a-free-random-multi-fx-plugin",
+      "name": "Friendgineer Labs releases Chance, a FREE random multi-FX plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/23/friendgineer-labs-chance/",
+      "description": "Friendgineer Labs has released Chance, a free random multi-FX plugin for macOS and Windows. Chance is another 2026 KVR Developer Challenge entry I liked this year. I will take a closer look at a few more KVRDC plugins separately, but this is one of my favorites because I simply l",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "westwood-instruments-relaunches-free-roots-instruments-as-plugins",
+      "slug": "westwood-instruments-relaunches-free-roots-instruments-as-plugins",
+      "name": "Westwood Instruments relaunches FREE Roots instruments as plugins",
+      "developer": "bedroomproducersblog.com",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/23/westwood-instruments-roots-plugins/",
+      "description": "Westwood Instruments has relaunched Roots, its series of free virtual instruments, in the developer’s own plugin format. We have covered the Roots series several times on BPB while the instruments were available for Kontakt Player, including Untold Strings and Dust Piano. My favo",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "fracture-sounds-releases-blueprint-textural-sax-a-free-experimental-woodwind-l",
+      "slug": "fracture-sounds-releases-blueprint-textural-sax-a-free-experimental-woodwind-l",
+      "name": "Fracture Sounds releases Blueprint: Textural Sax, a FREE experimental woodwind l",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/07/22/fracture-sounds-blueprint-textural-sax/",
+      "description": "Blueprint: Textural Sax is the latest addition to the free and wonderful Blueprint collection by Fracture Sounds. More specifically, it’s the latest addition to Blueprint’s Textural cinematic libraries. Previous releases include Textural Cello and Textural Violin. Like the other ",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "alonso-sound-introduces-revealed-serum-2-hard-bass-meltdown",
+      "slug": "alonso-sound-introduces-revealed-serum-2-hard-bass-meltdown",
+      "name": "Alonso Sound introduces Revealed Serum 2 Hard Bass Meltdown",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/alonso-sound-introduces-revealed-serum-2-hard-bass-meltdown/",
+      "description": "Alonso Sound has announced the release of a new Revealed series sound pack for the Serum 2 software synthesizer by Xfer Records. A collection of 50 presets and MIDI files, Hard Bass Meltdown aims to bring heavy basslines and high-pressure energy into Bass House, Moombahton, and D",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "blind-audio-releases-backroom-drums-and-vessel-atmospheric-downtempo",
+      "slug": "blind-audio-releases-backroom-drums-and-vessel-atmospheric-downtempo",
+      "name": "Blind Audio releases Backroom Drums and Vessel Atmospheric Downtempo",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/blind-audio-releases-backroom-drums-and-vessel-atmospheric-downtempo/",
+      "description": "Blind Audio has released a new collection of raw, character-rich acoustic drum samples born in a vibe-heavy DIY home drum room and reshaped through legendary vintage samplers. Purpose-built for Boom Bap, Lo-Fi, and Modern Hip-Hop production, Backroom Drums contains 54 one shots a",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "save-over-20-on-fl-studio-music-production-software",
+      "slug": "save-over-20-on-fl-studio-music-production-software",
+      "name": "Save over 20% on FL Studio music production software",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/fl-studio-music-production-software-on-sale/",
+      "description": "Image-Line has announced a limited time promotion on its popular music production software for Windows and Mac. FL Studio is available to purchase at over 20% off regular for a few days only. Buy FL Studio once and own it forever. Every future update is included, free. Join milli",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "devproaudio-releases-reverside-algorithmic-reverb-plugin",
+      "slug": "devproaudio-releases-reverside-algorithmic-reverb-plugin",
+      "name": "DEVPROAUDIO releases REVERSIDE algorithmic reverb plugin",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/devproaudio-releases-reverside-algorithmic-reverb-plugin/",
+      "description": "DEVPROAUDIO has announced the release of a new plugin which combines a versatile dual-engine fully algorithmic reverb with a 3D positioning system that is shaped by both source/listener placement and the geometry of the virtual space. The result is not just a stereo spread or a g",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "save-90-on-cinematic-guitars-infinity-for-kontakt-by-sample-logic",
+      "slug": "save-90-on-cinematic-guitars-infinity-for-kontakt-by-sample-logic",
+      "name": "Save 90% on Cinematic Guitars Infinity for Kontakt by Sample Logic",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sample-logic-cinematic-guitars-infinity-kontakt-sale/",
+      "description": "As part of its 20th anniversary, Sample Logic has launched a limited time sale on Cinematic Guitars Infinity, a cinematic virtual instrument for Kontakt featuring massive, dramatic, cinematic sounds. Sample Logic has achieved a world-first by anointing INFINITY with a XY effects ",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "quantastical-sound-updates-str-ng-software-synthesizer-to-v2-3-3",
+      "slug": "quantastical-sound-updates-str-ng-software-synthesizer-to-v2-3-3",
+      "name": "Quantastical Sound updates STRÄNG software synthesizer to v2.3.3",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/quantastical-sound-updates-strang-software-synthesizer-to-v2-3-3/",
+      "description": "Quantastical Sound has announced an update to its software synthesizer instrument for Windows and Mac (VST3, AU and AAX). Version 2.3.3 of STRÄNG brings a physically modeled exciter which plucks a real Karplus-Strong string straight into the convolution body. Blend it in with the",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "hyperpop-bundle-ni-super-saw-and-excite-audio-evolve-alloy-elastic",
+      "slug": "hyperpop-bundle-ni-super-saw-and-excite-audio-evolve-alloy-elastic",
+      "name": "Hyperpop Bundle: NI Super*Saw and Excite Audio Evolve Alloy & Elastic",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/hyperpop-bundle-ni-supersaw-and-excite-audio-evolve-alloy-elastic/",
+      "description": "Plugin Boutique has launched an exclusive value bundle featuring a selection of audio plugins geared towards Hyperpop music production. Offered at a 35% discount for a limited time, the Hyperpop Bundle comprises Native Instruments’ recent Super*Saw synthesizer co-created with A. ",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "voxmotive-bundle-for-audiomodern-soundbox-on-sale-for-49-usd",
+      "slug": "voxmotive-bundle-for-audiomodern-soundbox-on-sale-for-49-usd",
+      "name": "Voxmotive Bundle for Audiomodern Soundbox on sale for $49 USD",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/voxmotive-bundle-for-audiomodern-soundbox-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time sale on a bundle of two expansion packs for the Soundbox free sampler platform from Audiomodern. The Voxmotive Bundle is on sale for $49 USD for the next few days. Unleash the ultimate cinematic vocal suite with Voxmotive 1 &",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "dieswitch-drums-metalcore-drum-instrument-on-sale-at-20-off",
+      "slug": "dieswitch-drums-metalcore-drum-instrument-on-sale-at-20-off",
+      "name": "Dieswitch Drums metalcore drum instrument on sale at 20% OFF",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/dieswitch-drums-metalcore-drum-instrument-sale/",
+      "description": "As part of its “Aces High in July” promotion, Ugritone has announced a flash sale on its small yet punchy drumkit which packs the punch of the early 2000’s New England Metalcore drums. The Dieswitch Drums modern metal drum instrument is offered a 20% discount for 48 hours only. T",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "go2-x-software-synthesizer-by-rob-papen-on-sale-at-30-off",
+      "slug": "go2-x-software-synthesizer-by-rob-papen-on-sale-at-30-off",
+      "name": "Go2-X software synthesizer by Rob Papen on sale at 30% OFF",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/rob-papen-go2-software-synthesizer-plugin-sale/",
+      "description": "Plugin Boutique has launched a sale on Rob Papen’s easy-to-use software synthesizer that has all of the controls and features available visually all at once. The Go2-X synthesizer is offered at a 30% discount for the next few days. As you might know, the current Rob Papen collect",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "free-syntaur-sounds-for-esq-1-by-cherry-audio",
+      "slug": "free-syntaur-sounds-for-esq-1-by-cherry-audio",
+      "name": "FREE: Syntaur Sounds for ESQ-1 by Cherry Audio",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-syntaur-sounds-for-esq-1-by-cherry-audio/",
+      "description": "Cherry Audio has announced a free collection of presets featuring the sounds originally developed for the Syntaur Soundsets line of patch collections by Sam Mims. Ranging from pop and hip-hop to ambient and analog, the pack showcases some of the most innovative ESQ-1 sound design",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "save-60-on-weiss-deess-mastering-de-esser-plugin-by-softube",
+      "slug": "save-60-on-weiss-deess-mastering-de-esser-plugin-by-softube",
+      "name": "Save 60% on Weiss Deess mastering de-esser plugin by Softube",
+      "developer": "rekkerd.org",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/softube-weiss-deess-deesser-plugin-sale/",
+      "description": "AudioDeluxe has launched an exclusive limited time promotion on Softube’s Weiss Deess, a dual-band mastering de-esser plugin featuring code-ported algorithms from the industry standard DS1-MK3. Whether you’re trying to tame sibilance in a lead vocal, rein in a sharp-sounding hi-h",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "abyzor-updates-variations-midi-plugin-to-v2-1",
+      "slug": "abyzor-updates-variations-midi-plugin-to-v2-1",
+      "name": "ABYZOR updates Variations MIDI plugin to v2.1",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/abyzor-updates-variations-midi-plugin-to-v2-1/",
+      "description": "ABYZOR has released a major update to its MIDI variation engine which lets users transform one MIDI melody or chord pattern into endless creative variations with intensity control, arrangement layers, and instant drag-and-drop export. Version 2.1 of ABYZOR Variations introduces n",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "future-wave-bundle-by-future-samples-on-sale-for-19-95-usd",
+      "slug": "future-wave-bundle-by-future-samples-on-sale-for-19-95-usd",
+      "name": "Future Wave Bundle by Future Samples on sale for $19.95 USD",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/future-wave-bundle-by-future-samples-on-sale/",
+      "description": "VST Alarm has launched a limited time promotion on a bundle of 20 sample packs from Future Samples, offering a huge 95% discount for the next few weeks. Elevate your music production with the FUTURE WAVE BUNDLE—a massive collection of royalty-free sounds designed for Trap, Hip Ho",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "free-gneiss-morphing-multistage-filter-effect-plugin-by-hvoya-audio",
+      "slug": "free-gneiss-morphing-multistage-filter-effect-plugin-by-hvoya-audio",
+      "name": "FREE: Gneiss morphing multistage filter effect plugin by Hvoya Audio",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-gneiss-morphing-multistage-filter-effect-plugin-by-hvoya-audio/",
+      "description": "Eugene Yakshin has released a morphing multistage filter effect for Windows and Mac (VST3, AU and CLAP). Gneiss features two resonant pre‑filters which feed a Moog‑style ladder that can drive and break, allowing for a playable chaotic system. Heavy, gritty, banded, formed under p",
+      "discoveredAt": "2026-07-27",
+      "source": "rss"
+    },
+    {
+      "id": "jigsaw-pedal-board-by-tweakbench",
+      "slug": "jigsaw-pedal-board-by-tweakbench",
+      "name": "Jigsaw Pedal Board by Tweakbench",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/jigsaw-by-tweakbench",
+      "description": "Jigsaw Pedal Board by Tweakbench — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "air-g-chorus-pedal-stereochorus-by-air-g-audio",
+      "slug": "air-g-chorus-pedal-stereochorus-by-air-g-audio",
+      "name": "Air-G Chorus Pedal StereoChorus by Air-G Audio",
+      "developer": "KVR Audio",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/air-g-chorus-pedal-by-air-g-audio",
+      "description": "Air-G Chorus Pedal StereoChorus by Air-G Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "jo-tt-free-multi-band-compressor-by-jaws-sound",
+      "slug": "jo-tt-free-multi-band-compressor-by-jaws-sound",
+      "name": "JO-TT — Free — Multi Band Compressor by JAWS SOUND",
+      "developer": "KVR Audio",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/jo-tt-free-by-jaws-sound",
+      "description": "JO-TT — Free — Multi Band Compressor by JAWS SOUND — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "torchit-raw-saturation-by-remi-blaze",
+      "slug": "torchit-raw-saturation-by-remi-blaze",
+      "name": "Torchit Raw Saturation by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/torchit-raw-by-remi-blaze",
+      "description": "Torchit Raw Saturation by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "chainix-raw-multi-fx-by-remi-blaze",
+      "slug": "chainix-raw-multi-fx-by-remi-blaze",
+      "name": "Chainix Raw Multi FX by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/chainix-raw-by-remi-blaze",
+      "description": "Chainix Raw Multi FX by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "scorchit-raw-saturation-effect-by-remi-blaze",
+      "slug": "scorchit-raw-saturation-effect-by-remi-blaze",
+      "name": "Scorchit Raw Saturation effect by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/scorchit-raw-by-remi-blaze",
+      "description": "Scorchit Raw Saturation effect by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "blazeit-raw-saturation-effect-by-remi-blaze",
+      "slug": "blazeit-raw-saturation-effect-by-remi-blaze",
+      "name": "Blazeit Raw Saturation effect by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/blazeit-raw-by-remi-blaze",
+      "description": "Blazeit Raw Saturation effect by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "cataclisma-a-space-time-distortion-distortion-by-creature-from-the-black",
+      "slug": "cataclisma-a-space-time-distortion-distortion-by-creature-from-the-black",
+      "name": "Cataclisma – A Space-Time Distortion Distortion by Creature From The Black",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/cataclisma-a-space-time-distortion-by-creature-from-the-black",
+      "description": "Cataclisma – A Space-Time Distortion Distortion by Creature From The Black — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "mango-mangler-by-fx-mechanics",
+      "slug": "mango-mangler-by-fx-mechanics",
+      "name": "Mango Mangler by FX-Mechanics",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/mango-by-fx-mechanics",
+      "description": "Mango Mangler by FX-Mechanics — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "semedo-verb2-vst-3-by-semedo-audio",
+      "slug": "semedo-verb2-vst-3-by-semedo-audio",
+      "name": "semedo VERB2 VST 3 by Semedo Audio",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/semedo-verb2-by-semedo-audio",
+      "description": "semedo VERB2 VST 3 by Semedo Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "semedo-pure-vst-3-by-semedo-audio",
+      "slug": "semedo-pure-vst-3-by-semedo-audio",
+      "name": "semedo PURE+ VST 3 by Semedo Audio",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/semedo-pure-and-by-semedo-audio",
+      "description": "semedo PURE+ VST 3 by Semedo Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "70-free-sounds-for-synth-80-presets-for-synth-80-by-bjoern-bojahr",
+      "slug": "70-free-sounds-for-synth-80-presets-for-synth-80-by-bjoern-bojahr",
+      "name": "70 free Sounds for Synth-80 Presets for Synth-80 by Bjoern Bojahr",
+      "developer": "KVR Audio",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/70-free-sounds-for-synth-80-by-bjoern-bojahr",
+      "description": "70 free Sounds for Synth-80 Presets for Synth-80 by Bjoern Bojahr — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "air-g-dist-pedal-distortion-pedal-by-air-g-audio",
+      "slug": "air-g-dist-pedal-distortion-pedal-by-air-g-audio",
+      "name": "Air-G Dist Pedal Distortion Pedal by Air-G Audio",
+      "developer": "KVR Audio",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/air-g-dist-pedal-by-air-g-audio",
+      "description": "Air-G Dist Pedal Distortion Pedal by Air-G Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "drox-ii-pro-audio-plugin-glitch-stutter-fx-by-dystopian-waves",
+      "slug": "drox-ii-pro-audio-plugin-glitch-stutter-fx-by-dystopian-waves",
+      "name": "Drox II Pro Audio Plugin Glitch Stutter FX by Dystopian Waves",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/drox-ii-pro-audio-plugin-by-dystopian-waves",
+      "description": "Drox II Pro Audio Plugin Glitch Stutter FX by Dystopian Waves — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "gaugex-raw-metering-by-remi-blaze",
+      "slug": "gaugex-raw-metering-by-remi-blaze",
+      "name": "Gaugex Raw Metering by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "analyzer",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/gaugex-raw-by-remi-blaze",
+      "description": "Gaugex Raw Metering by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "buffr-audio-recorder-by-matari-audio",
+      "slug": "buffr-audio-recorder-by-matari-audio",
+      "name": "BUFFR Audio Recorder by Matari Audio",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/buffr-by-matari-audio",
+      "description": "BUFFR Audio Recorder by Matari Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "semedo-aeromotion-vst-by-semedo-audio",
+      "slug": "semedo-aeromotion-vst-by-semedo-audio",
+      "name": "Semedo AEROMOTION VST by Semedo Audio",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/semedo-aeromotion-by-semedo-audio",
+      "description": "Semedo AEROMOTION VST by Semedo Audio — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "hazex-raw-reverb-by-remi-blaze",
+      "slug": "hazex-raw-reverb-by-remi-blaze",
+      "name": "Hazex Raw Reverb by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/hazex-raw-by-remi-blaze",
+      "description": "Hazex Raw Reverb by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "crunchix-raw-bitcrusher-by-remi-blaze",
+      "slug": "crunchix-raw-bitcrusher-by-remi-blaze",
+      "name": "Crunchix Raw Bitcrusher by Remi Blaze",
+      "developer": "KVR Audio",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/crunchix-raw-by-remi-blaze",
+      "description": "Crunchix Raw Bitcrusher by Remi Blaze — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
+      "source": "kvr"
+    },
+    {
+      "id": "vrac-drum-machine-by-beatsurfing",
+      "slug": "vrac-drum-machine-by-beatsurfing",
+      "name": "VRAC Drum Machine by BEATSURFING",
+      "developer": "KVR Audio",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://www.kvraudio.com/product/vrac-by-beatsurfing",
+      "description": "VRAC Drum Machine by BEATSURFING — plugin gratuit répertorié sur KVR Audio.",
+      "discoveredAt": "2026-07-27",
       "source": "kvr"
     }
   ]
