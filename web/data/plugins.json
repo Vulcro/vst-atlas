@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-08-03",
   "plugins": [
     {
       "id": "vital",
@@ -9426,6 +9426,384 @@
       "description": "VRAC Drum Machine by BEATSURFING — plugin gratuit répertorié sur KVR Audio.",
       "discoveredAt": "2026-07-27",
       "source": "kvr"
+    },
+    {
+      "id": "aufx-test",
+      "slug": "aufx-test",
+      "name": "Aufx Test",
+      "developer": "tymcode",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/tymcode/aufx-test",
+      "description": "Automated audio test framework and AU Effects Explorer host for AU/VST plugin testing.",
+      "discoveredAt": "2026-08-03",
+      "source": "github"
+    },
+    {
+      "id": "guitar-vst",
+      "slug": "guitar-vst",
+      "name": "Guitar Vst",
+      "developer": "tolaurentjpn",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/tolaurentjpn/guitar-vst",
+      "description": "Monophonic guitar-to-synth audio plugin for macOS (VST3, AU, Standalone)",
+      "discoveredAt": "2026-08-03",
+      "source": "github"
+    },
+    {
+      "id": "dawalka",
+      "slug": "dawalka",
+      "name": "Dawalka",
+      "developer": "pcixmix",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/pcixmix/DAWalka",
+      "description": "Stable Audio 3-based AU / VST plugins for DAW (Logic Pro, Ableton, Reaper, Bitwig, etc.). Enables the generation of arbitrary samples and sound effects.",
+      "discoveredAt": "2026-08-03",
+      "source": "github"
+    },
+    {
+      "id": "save-up-to-87-on-baby-audio-s-creative-plugins",
+      "slug": "save-up-to-87-on-baby-audio-s-creative-plugins",
+      "name": "Save up to 87% on Baby Audio’s creative plugins",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/baby-audio-plugins-and-bundles-sale/",
+      "description": "Plugin Boutique has announced a Summer Sale promotion on Baby Audio, offering a selection of its unique and creative tools at discounts of up to 87% off for the next couple of weeks. Enjoy huge savings on Baby Audio’s unique and creative tools, including SubCulture, Grainferno, T",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "ifeature-releases-thorn-multiband-transient-shaper-effect-plugin",
+      "slug": "ifeature-releases-thorn-multiband-transient-shaper-effect-plugin",
+      "name": "iFeature releases Thorn multiband transient shaper effect plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ifeature-releases-thorn-multiband-transient-shaper-effect-plugin/",
+      "description": "iFeature has announced the release of a new audio plugin which is design to make your sounds punch harder without turning up the volume. Developed in collaboration with Prototype Audio, Thorn is a multiband transient shaper that works on 4 frequency bands at once, so your kick, s",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "save-90-on-sampletekk-piano-keys-bundle-vst3-au",
+      "slug": "save-90-on-sampletekk-piano-keys-bundle-vst3-au",
+      "name": "Save 90% on SampleTekk Piano & Keys Bundle (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sampletekk-piano-keys-bundle-vst3-au-plugins-sale/",
+      "description": "Audio Plugin Deals has launched an exclusive promotion on the SampleTekk Piano & Keys Bundle, offering the collection of virtual instruments for Windows and macOS (VST3/AU) at 90% off regular for the next two weeks. For over two decades SampleTekk has sampled pianos and keys with",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "free-galdr-grim-frostbitten-polysynth-for-windows-macos-linux",
+      "slug": "free-galdr-grim-frostbitten-polysynth-for-windows-macos-linux",
+      "name": "FREE: Galdr grim & frostbitten polysynth for Windows, macos & Linux",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-galdr-grim-frostbitten-polysynth-for-windows-macos-linux/",
+      "description": "Andrea wrote in to share about his free and open source software synthesizer built around the sound palette of black metal. Built with JUCE, Galdr is a 12-voice instrument that pairs a subtractive engine with a morphing wavetable mode and an effects chain aimed at the genre, incl",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "renegate-gate-plugin-by-auburn-sounds-on-sale-for-10-usd",
+      "slug": "renegate-gate-plugin-by-auburn-sounds-on-sale-for-10-usd",
+      "name": "Renegate gate plugin by Auburn Sounds on sale for $10 USD",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/auburn-sounds-renegate-gate-plugin-sale/",
+      "description": "As part of its “Hidden Gems” promotion, Plugin Boutique has launched a limited time sale on Auburn Sounds’ full-band gate effect plugin Renegate, offering nearly 50% off through the end of the month. Renegate simplifies gating and gives you a smooth and natural sound. Whether you",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "rx1200-12-bit-sampler-instrument-by-inphonik-on-sale-for-14-50-usd",
+      "slug": "rx1200-12-bit-sampler-instrument-by-inphonik-on-sale-for-14-50-usd",
+      "name": "RX1200 12-bit Sampler Instrument by Inphonik on sale for $14.50 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/rx1200-12-bit-sampler-instrument-plugin-inphonik-sale/",
+      "description": "Plugin Boutique has launched a limited time sale on Inphonik’s 12-bit sampler instrument RX1200, offering 50% off on the effect plugin based on the E-mu SP-1200 as part of its “Hidden Gems” promotion. With its gritty digital sound for sequencing fat beats, the ability to build mu",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-72-on-excite-audio-s-effect-plugins-virtual-instruments",
+      "slug": "save-up-to-72-on-excite-audio-s-effect-plugins-virtual-instruments",
+      "name": "Save up to 72% on Excite Audio’s effect plugins & virtual instruments",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/excite-audio-effect-plugins-virtual-instruments-sale/",
+      "description": "Plugin Boutique has launched a Summer Sale on Excite Audio, offering its audio effects and virtual instruments at discounted prices for the next few weeks. Streamline your workflow and add something truly remarkable to your productions with the incredible effects and instruments ",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "melody-sauce-3-midi-plugin-by-evabeat-on-sale-for-79-usd",
+      "slug": "melody-sauce-3-midi-plugin-by-evabeat-on-sale-for-79-usd",
+      "name": "Melody Sauce 3 MIDI plugin by EVAbeat on sale for $79 USD",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/melody-sauce-3-midi-plugin-by-evabeat-on-sale/",
+      "description": "Plugin Boutique has announced an exclusive limited time sale on EVAbeat’s recently updated MIDI plugin for creating melodies, chords and bass. Regularly priced $99 USD, Melody Sauce 3 is on sale for $79 USD for a few weeks only. Generate unique melodies, chord progressions, and b",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-50-on-fiedler-audio-s-spatial-software-at-plugin-boutique",
+      "slug": "save-up-to-50-on-fiedler-audio-s-spatial-software-at-plugin-boutique",
+      "name": "Save up to 50% on Fiedler Audio’s spatial software at Plugin Boutique",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/fiedler-audios-audio-software-sale/",
+      "description": "Plugin Boutique has launched a limited time Summer Sale promotion on products from Fiedler Audio, offering discounts of up to 50% off regular through the end of the month. Fiedler Audio was founded 2013, with the goal of delivering the highest quality products for sound and sound",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "plugin-boutique-august-gifts-bitwig-8-track-baby-audio-taip-serato-hex-fx-c",
+      "slug": "plugin-boutique-august-gifts-bitwig-8-track-baby-audio-taip-serato-hex-fx-c",
+      "name": "Plugin Boutique August Gifts: Bitwig 8-Track, Baby Audio TAIP, Serato Hex FX & C",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/plugin-boutique-august-gifts-bitwig-8-track-baby-audio-taip-serato-hex-fx-celemony-melodyne-essential/",
+      "description": "Plugin Boutique has announced a new round of gifts, offering its customers a chance to pick up some free music making tools with a purchase for the next few days. Depending on the value of your order, you’ll unlock access to different gift tiers and be able to choose from a selec",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "manufacturer-focus-save-up-to-91-on-native-instruments-plugins-bundles",
+      "slug": "manufacturer-focus-save-up-to-91-on-native-instruments-plugins-bundles",
+      "name": "Manufacturer Focus: Save up to 91% on Native Instruments plugins & bundles",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/native-instruments-plugins-bundles-manufacturer-sale/",
+      "description": "Plugin Boutique has announced an exclusive manufacturer focus promotion on a selection of products from Native Instruments, offering discounts of up to 91% off regular for the next few days. With prices starting from $10 USD, the sale includes Komplete Select Band, Electronic and",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "frctl-audio-releases-aura-ducking-reverb-plugin-incl-free",
+      "slug": "frctl-audio-releases-aura-ducking-reverb-plugin-incl-free",
+      "name": "FRCTL Audio releases AURA ducking reverb plugin (incl. Free)",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/frctl-audio-releases-aura-ducking-reverb-plugin-incl-free/",
+      "description": "FRCTL Audio has introduced an algorithmic reverb effect which turns the reverb tail down while the source is playing, then lets it back up in the gaps. AURA features various controls to adjust the reverb and tail, 7 characters (Room, Plate, Hall, Chamber, Bloom, Shimmer and Space",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "sonible-learn-bundle-ai-assistive-effect-plugin-suite-on-sale-at-75-off",
+      "slug": "sonible-learn-bundle-ai-assistive-effect-plugin-suite-on-sale-at-75-off",
+      "name": "Sonible learn:bundle AI-assistive effect plugin suite on sale at 75% OFF",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sonible-learnbundle-ai-assistive-effect-plugin-suite-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time promotion on Sonible’s bundle of intuitive, AI powered plugins that aims to help users understand EQ, compression, limiting, reverb and masking. The learn:bundle is offered at a 75% discount for the next few weeks. The learn:",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "save-40-on-creative-audio-effects-by-lese-at-plugin-boutique",
+      "slug": "save-40-on-creative-audio-effects-by-lese-at-plugin-boutique",
+      "name": "Save 40% on creative audio effects by Lese at Plugin Boutique",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/creative-audio-plugin-by-lese-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time Summer Sale on a selection of audio plugins from Lese, offering a 40% discount for the next few weeks. The Lese objective is to fill “auditory niches”. They design unique systems, built from the ground up to work a bit differ",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "free-hyperpop-anthems-for-serum-2-by-glitchedtones-limited-time",
+      "slug": "free-hyperpop-anthems-for-serum-2-by-glitchedtones-limited-time",
+      "name": "FREE: Hyperpop Anthems for Serum 2 by Glitchedtones (limited time)",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-hyperpop-anthems-for-serum-2-by-glitchedtones-limited-time/",
+      "description": "Audio Plugin Deals has launched a limited time promotion on a collection of Serum 2 presets tailored specifically for fast-paced, high-energy modern electronic production. Hyperpop Anthems by Glitchedtones is free to download for the next few weeks. The Hyperpop Anthems preset pa",
+      "discoveredAt": "2026-08-03",
+      "source": "rss"
     }
   ]
 }
