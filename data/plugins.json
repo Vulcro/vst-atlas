@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
   "plugins": [
     {
       "id": "vital",
@@ -9803,6 +9803,636 @@
       "officialUrl": "https://rekkerd.org/free-hyperpop-anthems-for-serum-2-by-glitchedtones-limited-time/",
       "description": "Audio Plugin Deals has launched a limited time promotion on a collection of Serum 2 presets tailored specifically for fast-paced, high-energy modern electronic production. Hyperpop Anthems by Glitchedtones is free to download for the next few weeks. The Hyperpop Anthems preset pa",
       "discoveredAt": "2026-08-03",
+      "source": "rss"
+    },
+    {
+      "id": "classicreverb-re04",
+      "slug": "classicreverb-re04",
+      "name": "Classicreverb Re04",
+      "developer": "AnClark",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnClark/ClassicReverb-RE04",
+      "description": "Reversed engineering of Kjaerhus Audio Classic Reverb, with enhancements",
+      "discoveredAt": "2026-08-10",
+      "source": "github"
+    },
+    {
+      "id": "o-audio-vst-development",
+      "slug": "o-audio-vst-development",
+      "name": "O Audio Vst Development",
+      "developer": "taylorbrook",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/taylorbrook/O-Audio-VST-Development",
+      "description": "0-Audio — open-source audio plugins (VST3/AU) and the system that builds them. https://oaudio.io",
+      "discoveredAt": "2026-08-10",
+      "source": "github"
+    },
+    {
+      "id": "audio-dsp",
+      "slug": "audio-dsp",
+      "name": "Audio_Dsp",
+      "developer": "clovesrodrigues",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/clovesrodrigues/AUDIO_DSP",
+      "description": "Biblioteca de DSP para áudio. C++ Audio DSP library for VST/VST3 plugins, Reaper, Audacity, and OBS Studio. Processamento e edição de áudio em tempo real. ENGINE DE PROGRAMAÇÃO VST3 E ÁUDIO.",
+      "discoveredAt": "2026-08-10",
+      "source": "github"
+    },
+    {
+      "id": "reflector-is-a-free-open-source-sample-discovery-workstation-for-macos",
+      "slug": "reflector-is-a-free-open-source-sample-discovery-workstation-for-macos",
+      "name": "Reflector is a FREE open-source sample discovery workstation for macOS",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
+      "description": "Composer and software engineer Austin Rockman has released Reflector, a free open-source interactive audio workstation for sample discovery. Austin contacted me about the project, and I liked the idea even before testing it. Machine learning gets thrown into a lot of music tools ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "stagecraft-software-ringmod-is-now-free-for-macos-and-windows",
+      "slug": "stagecraft-software-ringmod-is-now-free-for-macos-and-windows",
+      "name": "Stagecraft Software RingMod is now FREE for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/09/stagecraft-software-ringmod/",
+      "description": "Stagecraft Software’s RingMod plugin previously cost $30, but the Chicago-based developer has decided to make it available for free. To grab RingMod for free, head to the product page, and there you can download the installer directly. The plugin is available in AU, VST3, and AAX",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "oa-labs-releases-phosphor-1-a-free-unstable-analog-style-synth-for-macos",
+      "slug": "oa-labs-releases-phosphor-1-a-free-unstable-analog-style-synth-for-macos",
+      "name": "OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
+      "description": "OA-Labs has released OA-Phosphor-1, a free virtual analog synthesizer plugin for macOS. The developer describes it as a synth for “controllable instability,” and I think it’s a good fit. Phosphor-1 can deliver the typical subtractive type of stuff too, but the fun, for me at leas",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "synthedit-1-6-adds-native-macos-support-after-decades-on-windows",
+      "slug": "synthedit-1-6-adds-native-macos-support-after-decades-on-windows",
+      "name": "SynthEdit 1.6 adds native macOS support after decades on Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/08/synthedit-macos/",
+      "description": "Jeff McClintock has released SynthEdit 1.6, a major update to the modular plugin development environment. The big headline here is that SynthEdit now finally runs natively on macOS. After decades as a Windows-first tool, it can now export 64-bit VST3 plugins for Windows and macOS",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "sound-radix-releases-radical1-solo-a-free-additive-synth-plugin",
+      "slug": "sound-radix-releases-radical1-solo-a-free-additive-synth-plugin",
+      "name": "Sound Radix releases Radical1 Solo, a FREE additive synth plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/07/sound-radix-radical1-solo/",
+      "description": "Sound Radix has released Radical1 Solo, a free monophonic additive synth plugin for macOS and Windows. I have not heard much from Sound Radix about new products in a while, but that is on me, since the company introduced Radical1, its first instrument plugin, in late 2025. The or",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "celebrate-808-day-with-67-off-roland-s-tr-808-plugin",
+      "slug": "celebrate-808-day-with-67-off-roland-s-tr-808-plugin",
+      "name": "Celebrate 808 Day with 67% OFF Roland’s TR-808 plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "drum_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/07/celebrate-808-day-2026/",
+      "description": "Plugin Boutique is offering the Roland TR-808 for $49, down from $149, as part of its 808 Day deals. The offer is available until August 31st, 2026, and the purchase also qualifies for Plugin Boutique’s current free gift promotion. The TR-808 is a legendary drum machine if there ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "ganue-audio-releases-rivet-a-free-fet-compressor-plugin",
+      "slug": "ganue-audio-releases-rivet-a-free-fet-compressor-plugin",
+      "name": "GANUE Audio releases Rivet, a FREE FET compressor plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/07/ganue-audio-rivet/",
+      "description": "GANUE Audio has released Rivet, a free FET compressor plugin for Windows and macOS. Rivet is an input-driven compressor, so there is no threshold control. You drive the signal into the compressor with Input and compensate with Output, and the compression becomes stronger as the i",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "ik-multimedia-gives-away-pianoverse-black-pearl-b200-with-newsletter-signup",
+      "slug": "ik-multimedia-gives-away-pianoverse-black-pearl-b200-with-newsletter-signup",
+      "name": "IK Multimedia gives away Pianoverse Black Pearl B200 with newsletter signup",
+      "developer": "bedroomproducersblog.com",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/06/ik-multimedia-pianoverse-black-pearl-b200/",
+      "description": "IK Multimedia is offering Pianoverse Black Pearl B200 as a free download for users who subscribe to the IK newsletter. The offer runs through September 1st, 2026. IK says you get Black Pearl immediately after subscribing, but you need to stay subscribed to the newsletter for 90 d",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "feddsp-releases-raiju-saturator-plugin-free-until-august-20th",
+      "slug": "feddsp-releases-raiju-saturator-plugin-free-until-august-20th",
+      "name": "fedDSP releases RAIJU saturator plugin, FREE until August 20th",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/06/feddsp-raiju/",
+      "description": "fedDSP has released RAIJU, a zero-latency saturator plugin for macOS and Windows, and you can get it for free until August 20th, 2026. RAIJU normally costs £30, but the developer is offering it for free as an introductory deal until August 20th at 9 PM UK time. After that, it mov",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "zrythm-free-and-open-source-daw-v2-alpha-is-available-for-testing",
+      "slug": "zrythm-free-and-open-source-daw-v2-alpha-is-available-for-testing",
+      "name": "Zrythm FREE and open-source DAW v2 Alpha is available for testing",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/06/zrythm-2-alpha/",
+      "description": "You can now access and test the Alpha version of Zrythm v2, a free and open-source DAW. When it comes to digital audio workstations, especially free options, there have been plenty of changes in recent years. We’ve seen old favourites discontinued, rebranded, and, in some cases, ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "midipad-turns-your-playstation-controller-into-a-free-macos-instrument",
+      "slug": "midipad-turns-your-playstation-controller-into-a-free-macos-instrument",
+      "name": "MIDIpad turns your PlayStation controller into a FREE macOS instrument",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/06/midipad-free/",
+      "description": "Steve Mitchell has released MIDIpad, a free macOS app that turns a game controller into a musical instrument and MIDI controller. I used an old tool more than a decade ago that converted a game controller into a MIDI controller. I can’t remember the name now, but I loved the idea",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "psp-audioware-launches-bbdelay-vintage-bbd-ambience-processor",
+      "slug": "psp-audioware-launches-bbdelay-vintage-bbd-ambience-processor",
+      "name": "PSP Audioware launches BBDelay vintage BBD ambience processor",
+      "developer": "bedroomproducersblog.com",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/06/psp-audioware-bbdelay/",
+      "description": "PSP Audioware has released PSP BBDelay, a new analog-inspired delay and ambience processor for macOS and Windows. Following last month’s PSP Levelizer release, PSP Audioware describes BBDelay as one of its most ambitious effects projects in recent years. It is inspired by the Dyn",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "808-day-2026-roland-honors-the-drum-machine-that-redefined-modern-music",
+      "slug": "808-day-2026-roland-honors-the-drum-machine-that-redefined-modern-music",
+      "name": "808 Day 2026: Roland honors the drum machine that redefined modern music",
+      "developer": "rekkerd.org",
+      "category": "drum_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/808-day-2026-roland-honors-the-drum-machine-that-redefined-modern-music/",
+      "description": "Roland Corporation celebrates the iconic TR-808 Rhythm Composer for another installment of 808 Day. Since its debut in 1980, the TR-808, commonly known as “the 808,” has provided the sonic backbone of modern music, from hip-hop and techno to trap and beyond. To celebrate this 808",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "denoiser-noise-removal-effect-plugin-by-tape-it-on-sale-for-30-usd",
+      "slug": "denoiser-noise-removal-effect-plugin-by-tape-it-on-sale-for-30-usd",
+      "name": "Denoiser noise removal effect plugin by Tape It on sale for $30 USD",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/denoiser-noise-removal-effect-plugin-by-tape-it-on-sale/",
+      "description": "As part of its “Hidden Gems” promotion, Plugin Boutique has launched an exclusive sale on Tape It’s background noise removal tool for Windows and macOS (VST3, AU and standalone). Offered at nearly 70% off regular, Denoiser lets users denoise longer recordings like unplugged sessi",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "add-natural-sounding-claps-and-snaps-with-hand-clap-studio-on-sale-at-40-off",
+      "slug": "add-natural-sounding-claps-and-snaps-with-hand-clap-studio-on-sale-at-40-off",
+      "name": "Add natural-sounding claps and snaps with Hand Clap Studio, on sale at 40% OFF",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/add-natural-sounding-claps-and-snaps-with-hand-clap-studio-by-robotic-bean/",
+      "description": "Plugin Boutique has launched a limited time sale on Robotic Bean’s audio plugin Hand Clap Studio, offering a 40% discount on the virtual instrument that lets you add natural-sounding claps and snaps to your music with ease. This instrument plugin is the ultimate tool for handclap",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "bjooks-celebrates-808-day-with-free-roland-ebook-and-special-anniversary-offer-o",
+      "slug": "bjooks-celebrates-808-day-with-free-roland-ebook-and-special-anniversary-offer-o",
+      "name": "BJOOKS celebrates 808 Day with free Roland eBook and special anniversary offer o",
+      "developer": "rekkerd.org",
+      "category": "drum_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bjooks-celebrates-808-day-with-free-roland-ebook-and-special-anniversary-offer-on-inspire-the-music/",
+      "description": "BJOOKS is celebrating 808 Day (August 8) by inviting musicians, producers, engineers, and electronic music fans to explore the remarkable story behind one of the most influential instruments ever created. For one day only, the complete Roland eBook from INSPIRE THE MUSIC – 50 Yea",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "roland-d-50-linear-synthesizer-plugin-on-sale-for-69-usd",
+      "slug": "roland-d-50-linear-synthesizer-plugin-on-sale-for-69-usd",
+      "name": "Roland D-50 Linear Synthesizer plugin on sale for $69 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/roland-d-50-linear-synthesizer-plugin-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive sale on the D-50 software synthesizer by Roland, offering a 53% discount for the next few weeks. The D-50 completely changed the synth landscape when it was released in 1987. Powered by Roland’s groundbreaking LA (Linear Arithmetic) synth",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "save-70-on-aurea-flux-saxophone-instrument-for-kontakt-by-elastic-sounds",
+      "slug": "save-70-on-aurea-flux-saxophone-instrument-for-kontakt-by-elastic-sounds",
+      "name": "Save 70% on Aurea Flux saxophone instrument for Kontakt by Elastic Sounds",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/aurea-flux-saxophone-instrument-for-kontakt-by-elastic-sounds/",
+      "description": "Audio Plugin Deals has launched a limited time sale on a Kontakt instrument library featuring a collection of tempo-locked saxophone patterns. Aurea Flux by Elastic Sounds is on sale for $15 USD for the next two weeks. Aurea Flux from Elastic Sounds is the first tempo adjustable ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "tdr-nova-ge-dynamic-eq-plugin-by-tokyo-dawn-labs-on-sale-at-68-off",
+      "slug": "tdr-nova-ge-dynamic-eq-plugin-by-tokyo-dawn-labs-on-sale-at-68-off",
+      "name": "TDR Nova GE dynamic EQ plugin by Tokyo Dawn Labs on sale at 68% OFF",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tokyo-dawn-labs-tdr-nova-ge-dynamic-eq-plugin-sale/",
+      "description": "AudioDeluxe has announced an exclusive promotion on the TDR Nova GE equalizer effect plugin by Tokyo Dawn Labs. NOVA GE is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, the plugin also includes flexible dynamics processing options allow",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "portatron-tape-synthesizer-lofi-4-track-cassette-plugin-on-sale-for-69-usd",
+      "slug": "portatron-tape-synthesizer-lofi-4-track-cassette-plugin-on-sale-for-69-usd",
+      "name": "Portatron Tape Synthesizer lofi 4-track cassette plugin on sale for $69 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/robotic-bean-portatron-tape-synthesizer-lofi-4-track-cassette-plugin-sale/",
+      "description": "As part of its “Hidden Gems” promotion, Plugin Boutique has launched an exclusive sale on Robotic Bean’s audio plugin that brings all the mojo from a 4-track cassette Portastudio to your DAW. Portatron Tape Synthesizer lets you build tape loops by combining samples, create drones",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "eastwest-launches-studio-collections-value-bundles",
+      "slug": "eastwest-launches-studio-collections-value-bundles",
+      "name": "EastWest launches Studio Collections value bundles",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/eastwest-launches-studio-collections-value-bundles/",
+      "description": "EastWest has announced a new family of carefully curated bundles that make it easier than ever to own the award-winning virtual instruments behind countless films, television shows, games, and hit records. With savings of over 80% compared to purchasing products individually, the",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "softube-heartbeat-drum-machine-plugin-on-sale-for-39-usd",
+      "slug": "softube-heartbeat-drum-machine-plugin-on-sale-for-39-usd",
+      "name": "Softube Heartbeat drum machine plugin on sale for $39 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/softube-heartbeat-drum-machine-plugin-sale/",
+      "description": "Plugin Boutique has announced an exclusive sale on Softube’s drum machine instrument, offering a 71% discount for a limited time only. Heartbeat delivers 8 channels of drum sounds, mostly based on modeled analog synthesis. Classic drum synthesis is back with a vengeance! Flexible",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "rast-sound-releases-cusp-musical-transient-shaper-effect-plugin",
+      "slug": "rast-sound-releases-cusp-musical-transient-shaper-effect-plugin",
+      "name": "Rast Sound releases Cusp musical transient shaper effect plugin",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/rast-sound-releases-cusp-musical-transient-shaper-effect-plugin/",
+      "description": "Rast Sound has introduced a new audio plugin that delivers fast, musical transient shaping with targeted character and real mid/side focus. Designed to separate the fast-changing hit from the continuing tail, Cusp gives each its own level control, and lets you drive the part you ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "fabula-audio-releases-drone-maker-virtual-instrument-vst3-au",
+      "slug": "fabula-audio-releases-drone-maker-virtual-instrument-vst3-au",
+      "name": "Fabula Audio releases Drone Maker virtual instrument (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/fabula-audio-releases-drone-maker-virtual-instrument-vst3-au/",
+      "description": "Fabula Audio has introduced a new virtual instrument featuring a custom drone engine built from real instruments, including a hurdy-gurdy, church organ, bagpipes, bowed strings, choir and bells. Drone Maker shapes these into slow-moving, evolving atmospheres. Warped hurdy-gurdy a",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juice",
+      "slug": "save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juice",
+      "name": "Save 90% on 10-in-1 Analog Lab Mega Preset Pack by Audio Juice",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/save-90-on-10-in-1-analog-lab-mega-preset-pack-by-audio-juice/",
+      "description": "ADSR Sounds has launched a limited time promotion on a value bundle featuring 10 sound packs for Arturia’s Analog Lab instrument. The Analog Lab Mega Preset Pack by Audio Juice is on sale for $20 USD for a few days only. 10 in 1 – Arturia Analog Lab Mega Pack by Audio Juice bring",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "the-very-loud-indeed-co-releases-omnisphere-3-radio",
+      "slug": "the-very-loud-indeed-co-releases-omnisphere-3-radio",
+      "name": "The Very Loud Indeed Co. releases Omnisphere 3 Radio",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-very-loud-indeed-co-releases-omnisphere-3-radio/",
+      "description": "Sound design boutique company The Very Loud Indeed Co. has introduced a collection of 120 new cinematic patches for the Omnisphere 3 virtual instrument by Spectrasonics. Radio includes 123 new sound sources which have been recorded and designed specifically for this soundset. It ",
+      "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "i-am-choir-matches-your-lyrics-melody-timing-inside-your-daw",
+      "slug": "i-am-choir-matches-your-lyrics-melody-timing-inside-your-daw",
+      "name": "I AM CHOIR matches your lyrics, melody & timing inside your DAW",
+      "developer": "rekkerd.org",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/i-am-choir-matches-your-lyrics-melody-timing-inside-your-daw/",
+      "description": "AM I AUDIO has announced the release of a virtual choir instrument plugin that matches your words and melodies exactly inside your DAW. I AM CHOIR includes a gospel choir, children’s choir, and an all-male gang vocal/shouting choir. Traditional chorus and harmonizer plugins apply",
+      "discoveredAt": "2026-08-10",
       "source": "rss"
     }
   ]
