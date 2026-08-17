@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-17",
   "plugins": [
     {
       "id": "vital",
@@ -10433,6 +10433,657 @@
       "officialUrl": "https://rekkerd.org/i-am-choir-matches-your-lyrics-melody-timing-inside-your-daw/",
       "description": "AM I AUDIO has announced the release of a virtual choir instrument plugin that matches your words and melodies exactly inside your DAW. I AM CHOIR includes a gospel choir, children’s choir, and an all-male gang vocal/shouting choir. Traditional chorus and harmonizer plugins apply",
       "discoveredAt": "2026-08-10",
+      "source": "rss"
+    },
+    {
+      "id": "levelanchor",
+      "slug": "levelanchor",
+      "name": "Levelanchor",
+      "developer": "tlemon-com",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/tlemon-com/LevelAnchor",
+      "description": "Free VST2 loudness plugin for OBS. Holds each audio source on a LUFS target in real time, without compressing. A working reference integration of the LevelAPI2 library.",
+      "discoveredAt": "2026-08-17",
+      "source": "github"
+    },
+    {
+      "id": "promptslice",
+      "slug": "promptslice",
+      "name": "Promptslice",
+      "developer": "vasylNaumenko",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/vasylNaumenko/promptslice",
+      "description": "Generate sound effects with ElevenLabs inside your DAW — a VST3 / AU plugin that pulls several takes, lets you audition and slice them, and drags the one that works onto a track. macOS and Windows, C++/JUCE, AGPL.",
+      "discoveredAt": "2026-08-17",
+      "source": "github"
+    },
+    {
+      "id": "audiobrowserplugin-vst3",
+      "slug": "audiobrowserplugin-vst3",
+      "name": "Audiobrowserplugin_ Vst3",
+      "developer": "rudylinks",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/rudylinks/AudioBrowserPlugin_-VST3",
+      "description": "Projet open-source audio détecté sur GitHub.",
+      "discoveredAt": "2026-08-17",
+      "source": "github"
+    },
+    {
+      "id": "ear-production-suite",
+      "slug": "ear-production-suite",
+      "name": "Ear Production Suite",
+      "developer": "ebu",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/ebu/ear-production-suite",
+      "description": "The EAR Production Suite is a set of VST® plugins and tools for producing immersive and personalizable audio content suitable for any  Next Generation Audio codec. It is based on the Audio Definition Model (ITU-R BS.2076) and the ITU ADM Renderer (ITU-R BS.2127) and enables monit",
+      "discoveredAt": "2026-08-17",
+      "source": "github"
+    },
+    {
+      "id": "audio-assault-offers-carntens-greys-amp-sim-free-for-a-limited-time",
+      "slug": "audio-assault-offers-carntens-greys-amp-sim-free-for-a-limited-time",
+      "name": "Audio Assault offers Carntens Greys amp sim FREE for a limited time",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/16/audio-assault-carntens-greys/",
+      "description": "Audio Assault is offering Carntens Greys, a premium guitar amp module for Amp Locker, as a free download for a limited time. Please note that this is not a standalone amp plugin. Carntens Greys requires Amp Locker, Audio Assault’s amp-sim platform, which lets you load the company",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "alonso-sound-offers-19-year-anniversary-pack-free-until-august-31",
+      "slug": "alonso-sound-offers-19-year-anniversary-pack-free-until-august-31",
+      "name": "Alonso Sound offers 19 Year Anniversary Pack FREE until August 31",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/16/alonso-19-anniversary/",
+      "description": "Alonso Sound is offering the 19 Year Anniversary Pack as a free download until August 31st, 2026. This pack normally costs $35 and includes 128 presets for u-he Diva, Xfer Serum 2, Reveal Sound Spire, and LennarDigital Sylenth1. It includes 32 presets for each synth and covers le",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "okina-audio-releases-takumi-eq-a-free-eq-and-multiband-saturator",
+      "slug": "okina-audio-releases-takumi-eq-a-free-eq-and-multiband-saturator",
+      "name": "Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/15/okina-audio-takumi-eq/",
+      "description": "Okina Audio has released Takumi EQ, a free equalizer plugin with a Pultec-style section and optional multiband saturation. The product page is originally in Japanese and defaults to that language, but you can easily switch to English using the language selector in the upper-right",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "fx-mechanics-releases-mango-a-free-modular-glitch-effect",
+      "slug": "fx-mechanics-releases-mango-a-free-modular-glitch-effect",
+      "name": "FX-Mechanics releases Mango, a FREE modular glitch effect",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/15/fx-mechanics-mango/",
+      "description": "FX-Mechanics has released Mango, a free and open-source modular glitch effect for macOS, Windows, and Linux. It’s not a surprise that Kieran Foster’s Glitch comes to mind when looking at a plugin like this. We recently covered Glitch again because Kieran, also known as illformed ",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "windows-g-releases-e-peakclipper500-as-a-free-vst3-clipper-for-windows",
+      "slug": "windows-g-releases-e-peakclipper500-as-a-free-vst3-clipper-for-windows",
+      "name": "Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/14/windows-g-peakclipper500/",
+      "description": "Windows-G has released E-PeakClipper500 as a free VST3 clipper plugin for Windows. We covered E-PeakClipper500 last year as a JSFX clipper for REAPER, which could also run in other DAWs through the free YSFX wrapper. This new release is a native Windows VST3 version, so Windows u",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "sample-dicer-is-a-free-four-layer-one-shot-sampler-for-macos-and-windows",
+      "slug": "sample-dicer-is-a-free-four-layer-one-shot-sampler-for-macos-and-windows",
+      "name": "Sample Dicer is a FREE four-layer one-shot sampler for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/14/sample-dicer/",
+      "description": "Ilya Orange has released Sample Dicer, a free four-layer one-shot sampler for macOS and Windows. Sample Dicer basically turns raw audio into playable variations, or at least that’s the way I understood it. Instead of loading one sample and triggering it the same way every time, y",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "okay-synthesizer-releases-okay-shaper-a-free-three-band-volume-shaper",
+      "slug": "okay-synthesizer-releases-okay-shaper-a-free-three-band-volume-shaper",
+      "name": "Okay Synthesizer releases Okay Shaper, a FREE three-band volume shaper",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/14/okay-shaper/",
+      "description": "Okay Synthesizer has released Okay Shaper, a free three-band volume shaper for macOS and Windows. We featured Okay Distortion earlier this year, and I liked the somewhat playful design of that plugin. The new Okay Shaper has a similar personality, from the goofy “You can go ahead",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "tuva-1-5-adds-project-playback-across-five-major-daws-30-off",
+      "slug": "tuva-1-5-adds-project-playback-across-five-major-daws-30-off",
+      "name": "Tuva 1.5 adds project playback across five major DAWs (30% OFF)",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/14/tuva-1-5/",
+      "description": "Tuva has released its biggest update so far, adding audio and MIDI playback directly inside DAW project previews. BPB readers get 30% OFF with code SUMMERBPB30. We first covered Tuva earlier this year as a smart sample manager with AI tagging and project browsing, followed by the",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "semedo-releases-aeromotion-a-free-multi-mode-modulation-plugin",
+      "slug": "semedo-releases-aeromotion-a-free-multi-mode-modulation-plugin",
+      "name": "Semedo releases AEROMOTION, a FREE multi-mode modulation plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/14/semedo-aeromotion/",
+      "description": "Semedo Audio has released AEROMOTION, a free multi-mode modulation plugin for macOS and Windows. Is it an airplane? Is it a cooling fan? No, it’s a modulation plugin! AEROMOTION combines ten modulation engines in one place, with Chorus, Vibrato, Tremolo, Rotary, Aero, Flanger, Ph",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "what-happens-when-an-indie-plugin-finally-meets-its-users",
+      "slug": "what-happens-when-an-indie-plugin-finally-meets-its-users",
+      "name": "What happens when an indie plugin finally meets its users",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/13/vatra-meets-users/",
+      "description": "When VATRA launched, it finally stopped living in a vacuum of my own ideas. I knew v1.0 wasn’t the end, but after almost two years of development, it felt like the plugin had finally left my hands as the thing I wanted it to be. Then the customer feedback started coming in. Peopl",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "morphoice-releases-wingmen-a-free-chorus-plugin-with-eight-roland-style-modes",
+      "slug": "morphoice-releases-wingmen-a-free-chorus-plugin-with-eight-roland-style-modes",
+      "name": "Morphoice releases WingMen, a FREE chorus plugin with eight Roland-style modes",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/13/morphoice-wingmen-chorus/",
+      "description": "Morphoice has released WingMen, a free chorus plugin for macOS, Windows, and Linux. We have covered quite a few Morphoice synths lately, including the EightySix Juno-6 emulation and the more recent EightyTen JX-8P/SuperJX-10 emulation. WingMen takes the chorus sections from some ",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "immanent-audio-releases-ia-de-esser-a-free-de-essing-plugin",
+      "slug": "immanent-audio-releases-ia-de-esser-a-free-de-essing-plugin",
+      "name": "Immanent Audio releases IA De-Esser, a FREE de-essing plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/13/immanent-audio-ia-de-esser/",
+      "description": "Immanent Audio has released IA De-Esser, a free de-essing and resonance suppression plugin for macOS and Windows. IA De-Esser does things a bit differently. Instead of a single module, it has four filter slots for taming sibilance, harshness, and resonant peaks. Each slot can wor",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "icondrum-virtual-drum-machine-by-gforce-on-sale-for-40-usd",
+      "slug": "icondrum-virtual-drum-machine-by-gforce-on-sale-for-40-usd",
+      "name": "IconDrum virtual drum machine by GForce on sale for $40 USD",
+      "developer": "rekkerd.org",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/icondrum-virtual-drum-machine-by-gforce-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive promotion on GForce Software’s virtual drum instrument which brings a rich library of 100 authentic sounds, each carrying the soul of the original LinnDrum machine. IconDrum is offered at nearly 50% off regular for the next few days. The ",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "sound-magic-releases-supreme-drums-nashville-virtual-drum-instrument",
+      "slug": "sound-magic-releases-supreme-drums-nashville-virtual-drum-instrument",
+      "name": "Sound Magic releases Supreme Drums Nashville virtual drum instrument",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sound-magic-releases-supreme-drums-nashville-virtual-drum-instrument/",
+      "description": "Sound Magic has announced the release of a new drum instrument designed to capture the authentic character, dynamics, and versatility of Nashville-style drums for modern Country, Country Pop, and Pop production. Powered by Sound Magic’s latest Supreme Drums Epic V2 Engine, Suprem",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "tdr-molot-ge-dynamic-compressor-plugin-by-tokyo-dawn-labs-on-sale-for-10-usd",
+      "slug": "tdr-molot-ge-dynamic-compressor-plugin-by-tokyo-dawn-labs-on-sale-for-10-usd",
+      "name": "TDR Molot GE dynamic compressor plugin by Tokyo Dawn Labs on sale for $10 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tokyo-dawn-labs-tdr-molot-ge-dynamic-compressor-plugin-sale/",
+      "description": "AudioDeluxe has launched an exclusive sale on Tokyo Dawn Labs’ top rated characterful dynamic range compressor Molot GE, an effect plugin which melds several classic compression mechanisms with sophisticated saturation, creative tone control, and a snappy peak limiter. Whether it",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "u-he-manufacturer-focus-sale-save-up-to-52-on-synths-effects",
+      "slug": "u-he-manufacturer-focus-sale-save-up-to-52-on-synths-effects",
+      "name": "u-he Manufacturer Focus Sale: Save up to 52% on synths & effects",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/u-he-synthesizers-effects-plugins-sale/",
+      "description": "Plugin Boutique has announced an exclusive limited time promotion, offering a selection of synthesizer instruments and effects from u-he at discounts of up to 52% off regular for the next few days. u-he synths and effects are renowned the world over and for good reason! Enjoy the",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "extended-spire-synthesizer-by-reveal-sound-on-sale-at-60-off",
+      "slug": "extended-spire-synthesizer-by-reveal-sound-on-sale-at-60-off",
+      "name": "Extended: Spire Synthesizer by Reveal Sound on sale at 60% OFF",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/spire-synthesizer-by-reveal-sound-on-sale/",
+      "description": "Reveal Sound has announced the return of its limited time Summer Sale on the Spire Synthesizer, offering a 60% discount for the next few days. Spire is a polyphonic software synthesizer that combines powerful sound engine modulation and flexible architecture, and a graphical inte",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for-59-usd",
+      "slug": "airspace-reverb-delay-effect-plugin-by-modeaudio-on-sale-for-59-usd",
+      "name": "Airspace reverb & delay effect plugin by ModeAudio on sale for $59 USD",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/airspace-reverb-delay-effect-plugin-by-modeaudio-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time promotion on ModeAudio’s Airspace creative audio plugin, which combines convolution reverb and stereo delay effects for powerful spatial processing. Airspace is your new one-stop-shop for creating rich sonic spaces & lush, ev",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-soundid-reference-for-headphones-by-sonarworks",
+      "slug": "save-50-on-soundid-reference-for-headphones-by-sonarworks",
+      "name": "Save 50% on SoundID Reference for Headphones by Sonarworks",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/soundid-reference-for-headphones-by-sonarworks-sale/",
+      "description": "Plugin Boutique has launched an exclusive sale on Sonarworks’ software that helps you get a consistent studio reference sound wherever you go. SoundID Reference for Headphones is offered at a 50% discount for the next few days. A headphone calibration software delivers consistent",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "genealogy-audio-releases-semantika-instrument-library-for-soundbox",
+      "slug": "genealogy-audio-releases-semantika-instrument-library-for-soundbox",
+      "name": "Genealogy Audio releases Semantika instrument library for Soundbox",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/genealogy-audio-releases-semantika-instrument-library-for-soundbox/",
+      "description": "Genealogy Audio has recently released a new cinematic sound library for Audiomodern’s Soundbox sampler instrument. Designed for composers, producers, and sound designers seeking emotionally rich textures with exceptional dynamic response, Semantika delivers inspiring sounds with ",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "best-service-releases-arabic-oud-for-engine-player",
+      "slug": "best-service-releases-arabic-oud-for-engine-player",
+      "name": "Best Service releases Arabic Oud for Engine Player",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/best-service-releases-arabic-oud-for-engine-player/",
+      "description": "Best Service has announced the release of the Engine Player-powered edition of Arabic Oud, a virtual instrument library which brings the expressive sound of the Middle East directly into any DAW. Together with Arab musician and oud virtuoso Bassam Ayoub, three different ouds were",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "the-crow-hill-company-launches-arcane-strings-virtual-instrument",
+      "slug": "the-crow-hill-company-launches-arcane-strings-virtual-instrument",
+      "name": "The Crow Hill Company launches Arcane Strings virtual instrument",
+      "developer": "rekkerd.org",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-crow-hill-company-launches-arcane-strings-virtual-instrument/",
+      "description": "The Crow Hill Company has announced a new virtual instrument built around rough, unblended, microtonal string performances aimed at composers who want their scores to sound distinctive rather than polished. Described by its creators as a “baritone” ensemble of basses, cellos, and",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "5pin-media-releases-hypnotic-techno-aus-berlin-sample-pack",
+      "slug": "5pin-media-releases-hypnotic-techno-aus-berlin-sample-pack",
+      "name": "5Pin Media releases Hypnotic Techno Aus Berlin sample pack",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/5pin-media-releases-hypnotic-techno-aus-berlin-sample-pack/",
+      "description": "5Pin Media has released a new sample pack featuring stripped back Berlin style hypnotic techno elements inspired by artists such as Len Faki, Rene Wise, Flug, Ben Klock, Yanamaste and Chris Liebing. The royalty-free Hypnotic Techno Aus Berlin contains 14 song starters and additio",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "replicat-audio-releases-kingkrusher-multi-fx-workstation-plugin",
+      "slug": "replicat-audio-releases-kingkrusher-multi-fx-workstation-plugin",
+      "name": "Replicat Audio releases KingKrusher multi-fx workstation plugin",
+      "developer": "rekkerd.org",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/replicat-audio-releases-kingkrusher-multi-fx-workstation-plugin/",
+      "description": "Replicat Audio has announced the release of a multi-effects plugin built around a deep bitcrushing and sample-rate reduction engine, paired with a flexible modulation and routing system. Designed from the ground up to be fun to use and sound great without sacrificing any control ",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "save-20-on-klangmacht-drums-bastian-emig-by-ugritone",
+      "slug": "save-20-on-klangmacht-drums-bastian-emig-by-ugritone",
+      "name": "Save 20% on Klangmacht Drums Bastian Emig by Ugritone",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/klangmacht-drums-bastian-emig-by-ugritone-sale/",
+      "description": "Ugritone continues its “Endless Heat” promotion with a flash sale on its Klangmacht Drums Bastian Emig Kontakt Player-powered virtual instrument. Gargantuan and still precise. That’s the paradox this kit solves. Bastian Emig — Van Canto’s drummer, session and live player across p",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-72-on-ayaic-s-monolith-series-mixing-effect-plugins",
+      "slug": "save-up-to-72-on-ayaic-s-monolith-series-mixing-effect-plugins",
+      "name": "Save up to 72% on AYAIC’s Monolith series mixing effect plugins",
+      "developer": "rekkerd.org",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ayaic-mix-monolith-cos-pro-plugins-sale/",
+      "description": "Plugin Boutique has announced a limited time promotion on AYAIC‘s mixing and mastering plugins, offering up to 72% off regular for the next few days. On sale from $69 USD, the offer includes the following products: AYAIC Mix Monolith: Mix Monolith delivers instant, adaptive level",
+      "discoveredAt": "2026-08-17",
+      "source": "rss"
+    },
+    {
+      "id": "black-octopus-sound-mega-vocal-bundle-2-15-sample-packs-at-88-off",
+      "slug": "black-octopus-sound-mega-vocal-bundle-2-15-sample-packs-at-88-off",
+      "name": "Black Octopus Sound Mega Vocal Bundle 2: 15 sample packs at 88% OFF",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/mega-vocal-bundle-by-black-octopus-sound-15-sample-packs/",
+      "description": "Audio Plugin Deals has launched a two-week promotion on the Mega Vocal Bundle 2 by Black Octopus Sound, a collection of 15 vocal sample libraries. The Mega Vocal Bundle 2 by Black Octopus Sound is a massive arsenal of 15 premium libraries. Featuring professional vocalists, it cov",
+      "discoveredAt": "2026-08-17",
       "source": "rss"
     }
   ]
