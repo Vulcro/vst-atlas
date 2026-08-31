@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-31",
   "plugins": [
     {
       "id": "vital",
@@ -11651,6 +11651,636 @@
       "officialUrl": "https://rekkerd.org/hofa-system-thirdpartypluginloader-adds-multiband-mid-side-and-more-to-your-plugins/",
       "description": "HOFA-Plugins has announced an add-on for its modular processing environment HOFA SYSTEM. The ThirdPartyPluginLoader allows producers, mixing and mastering engineers to load their existing plugins directly into HOFA SYSTEM and combine them freely with SYSTEM’s modules, routing str",
       "discoveredAt": "2026-08-24",
+      "source": "rss"
+    },
+    {
+      "id": "audio-plugins",
+      "slug": "audio-plugins",
+      "name": "Audio Plugins",
+      "developer": "mradambeck",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/mradambeck/audio-plugins",
+      "description": "VST and AU audio plugins using JUCE",
+      "discoveredAt": "2026-08-31",
+      "source": "github"
+    },
+    {
+      "id": "rg-shimmer-delay-vst",
+      "slug": "rg-shimmer-delay-vst",
+      "name": "Rg Shimmer Delay Vst",
+      "developer": "fodpedal1-cmyk",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/fodpedal1-cmyk/RG-shimmer-delay-vst",
+      "description": "RG Electronics Shimmer Delay VST3 Audio Plugin",
+      "discoveredAt": "2026-08-31",
+      "source": "github"
+    },
+    {
+      "id": "spacepanner-vst1",
+      "slug": "spacepanner-vst1",
+      "name": "Spacepanner Vst1",
+      "developer": "benouzi",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/benouzi/spacepanner-vst1",
+      "description": "Plugin VST3 de spatialisation audio par VBAP (Vector Base Amplitude Panning) : positionnement de sources et d'enceintes sur un plan 2D, jusqu'à 8 sources et 16 enceintes, paramètres X/Y automatisables depuis le DAW. Développé en C++/JUCE, compilé pour Windows et macOS. Conçu avec",
+      "discoveredAt": "2026-08-31",
+      "source": "github"
+    },
+    {
+      "id": "cva-labs-releases-free-aether-stereo-exciter-for-macos-and-windows",
+      "slug": "cva-labs-releases-free-aether-stereo-exciter-for-macos-and-windows",
+      "name": "CVA Labs releases FREE Aether Stereo Exciter for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/",
+      "description": "CVA Labs has released Aether Stereo Exciter, a free and open-source harmonic enhancer for macOS and Windows. Aether is an interesting take on the stereo exciter concept. It gives us two independent channels with Drive, Frequency, Contour, Air, limiter Threshold and Release, Makeu",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "noirsonance-releases-free-headroomer-channel-cleanup-plugin",
+      "slug": "noirsonance-releases-free-headroomer-channel-cleanup-plugin",
+      "name": "NoirSonance releases FREE Headroomer channel cleanup plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/",
+      "description": "NoirSonance has released Headroomer, a free/pay-what-you-want channel cleanup plugin for macOS and Windows. We recently featured the developer’s Decompressor upward dynamics plugin, which followed NoirSonance’s decision to make its entire 12-plugin collection free with optional d",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "shadaloo-audio-dsp-makes-density-eq-permanently-free",
+      "slug": "shadaloo-audio-dsp-makes-density-eq-permanently-free",
+      "name": "Shadaloo Audio DSP makes Density EQ permanently FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/29/shadaloo-density-eq/",
+      "description": "Shadaloo Audio DSP has made Density EQ, its four-band presence and weight-shaping equalizer, permanently free. Fabio “Shadaloo” Caterino shared the news in the BPB Community yesterday (thank you!), explaining that he wanted to make the plugin accessible to anyone who would like t",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "get-w-a-production-presser-compressor-free-until-september-6",
+      "slug": "get-w-a-production-presser-compressor-free-until-september-6",
+      "name": "Get W.A. Production Presser compressor FREE until September 6",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/29/wa-production-presser-free/",
+      "description": "W.A. Production is offering Presser, its $29.90 creative compressor plugin, as a free download with the code TBC100 until September 6, 2026. The giveaway is a collaboration with The Beat Community. To claim it, add Presser to your cart on the W.A. Production website, enter TBC100",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "decomposer-releases-dert-a-free-one-knob-distortion-plugin",
+      "slug": "decomposer-releases-dert-a-free-one-knob-distortion-plugin",
+      "name": "Decomposer releases Dert, a FREE one-knob distortion plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/28/decomposer-dert-distortion/",
+      "description": "Decomposer has released Dert, a free distortion plugin with one knob and four increasingly mangled flavors of dirt. If the developer name sounds familiar, Decomposer is the team behind Sitala. I love Sitala; it is one of my go-to tools when I want to load and play drum samples qu",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "ssl-native-x-echo-tape-delay-is-only-15-until-august-31-84-off",
+      "slug": "ssl-native-x-echo-tape-delay-is-only-15-until-august-31-84-off",
+      "name": "SSL Native X-Echo tape delay is only $15 until August 31 (84% OFF)",
+      "developer": "bedroomproducersblog.com",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/28/ssl-native-x-echo-tape/",
+      "description": "Plugin Boutique is offering SSL Native X-Echo for only $15 until August 31, 2026. The vintage-style tape delay typically costs $99, so the current deal knocks 84% off the regular price. X-Echo takes inspiration from classic 1960s tape echo hardware such as the Echoplex, but it ad",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "get-one-orchestral-tools-premium-instrument-free-until-october-31",
+      "slug": "get-one-orchestral-tools-premium-instrument-free-until-october-31",
+      "name": "Get one Orchestral Tools premium instrument FREE until October 31",
+      "developer": "bedroomproducersblog.com",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/28/orchestral-tools-mastering/",
+      "description": "Orchestral Tools and Mastering.com are giving away one premium SINEplayer instrument of your choice until October 31, 2026. There are five instruments to choose from, with regular prices ranging from €20 to €50. Use the voucher code ot-x-masteringcom-2026 during checkout to reduc",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "box-of-bass-is-a-free-complete-bass-rig-plugin-for-macos-windows-and-linux",
+      "slug": "box-of-bass-is-a-free-complete-bass-rig-plugin-for-macos-windows-and-linux",
+      "name": "Box of Bass is a FREE complete bass rig plugin for macOS, Windows, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/27/box-of-bass/",
+      "description": "Box of Rules has released Box of Bass, a free multi-channel bass processing rig for macOS, Windows, and Linux. We recently featured the developer’s Picking Fingers plugin, which changes the character of a bass recording between picked and fingerstyle playing. Box of Bass is a muc",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "dreamtonics-launches-instrument-x-neural-orchestral-instrument-platform",
+      "slug": "dreamtonics-launches-instrument-x-neural-orchestral-instrument-platform",
+      "name": "Dreamtonics launches Instrument X neural orchestral instrument platform",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/27/dreamtonics-instrument-x/",
+      "description": "Dreamtonics has released Instrument X, a new orchestral instrument platform that uses neural acoustic modeling instead of conventional sample playback. The Tokyo-based developer is best known for Synthesizer V Studio 2 Pro and the Vocoflex voice transformation plugin. Instrument ",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "codwaves-makes-seaquake-techno-rumble-plugin-free-forever",
+      "slug": "codwaves-makes-seaquake-techno-rumble-plugin-free-forever",
+      "name": "Codwaves makes Seaquake techno rumble plugin FREE forever",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/27/codwaves-seaquake-free-forever/",
+      "description": "Codwaves has made Seaquake, its techno rumble generator for macOS and Windows, permanently free to download. The developer confirmed that Seaquake is now free forever, so there is no deadline to claim it. We first featured Seaquake in December 2024, when it was available through ",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "reason-free-puts-15-legendary-reason-devices-inside-your-daw-for-free-forever",
+      "slug": "reason-free-puts-15-legendary-reason-devices-inside-your-daw-for-free-forever",
+      "name": "Reason Free puts 15 legendary Reason devices inside your DAW for FREE forever",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/27/reason-free/",
+      "description": "Reason Studios has launched Reason Free, a permanent freeware version of the Reason Rack with 15 instruments, effects, and creative utilities for macOS and Windows. Honestly, this may be the biggest freeware release of 2026 so far. Reason isn’t giving away a temporary demo or a h",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "bpb-giveaway-win-one-of-two-leapwing-audio-ultravox-2-vocal-processor-licenses",
+      "slug": "bpb-giveaway-win-one-of-two-leapwing-audio-ultravox-2-vocal-processor-licenses",
+      "name": "BPB GIVEAWAY: Win one of two Leapwing Audio UltraVox 2 vocal processor licenses",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/08/27/leapwing-audio-ultravox-2-giveaway/",
+      "description": "Thanks to BPB reader Bobay, we’re giving two readers a free copy of Leapwing Audio UltraVox 2, a streamlined vocal processor normally priced at €69. To enter the giveaway, leave a comment answering the question at the end of this article. Two BPB readers will each receive one Ult",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "free-explore-harmony-with-harmony-pro-midi-fx-plugin-vst3-au",
+      "slug": "free-explore-harmony-with-harmony-pro-midi-fx-plugin-vst3-au",
+      "name": "FREE: Explore harmony with Harmony Pro MIDI FX plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-explore-harmony-with-harmony-pro-midi-fx-plugin-vst3-au/",
+      "description": "Harmony Lab Audio has introduced a free harmony exploration tool for composers and music producers. Designed to help you explore harmonic possibilities from your own musical ideas rather than automatically generating progressions, Harmony Pro includes chord suggestions and harmon",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "free-dert-one-knob-distortion-plugin-by-decomposer",
+      "slug": "free-dert-one-knob-distortion-plugin-by-decomposer",
+      "name": "FREE: Dert one-knob distortion plugin by Decomposer",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-dert-one-knob-distortion-plugin-by-decomposer/",
+      "description": "Decomposer has introduced a free distortion effect plugin with a single control. Turn Dert up and the sound moves through overdrive, distortion, bitcrush and ring mod, each one crossfading into the next. A little bit puts some grit on a snare. More across a whole kit and it sound",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "ssl-x-gate-visual-gating-plugin-by-solid-state-logic-on-sale-for-15-usd",
+      "slug": "ssl-x-gate-visual-gating-plugin-by-solid-state-logic-on-sale-for-15-usd",
+      "name": "SSL X-Gate visual gating plugin by Solid State Logic on sale for $15 USD",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ssl-x-gate-visual-gating-plugin-by-solid-state-logic-on-sale/",
+      "description": "Plugin Boutique has announced a limited time promotion on Solid State Logic’s comprehensive and highly visual gating plugin, inspired by the workflow from SSL’s digital broadcast consoles. The SSL X-Gate native plugin features a rolling waveform graph, mid/side processing options",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "u-i-software-releases-metasynth-ctx-2-x-and-artmatic-designer-ctx-2-x",
+      "slug": "u-i-software-releases-metasynth-ctx-2-x-and-artmatic-designer-ctx-2-x",
+      "name": "U&I Software releases MetaSynth CTX 2.x and ArtMatic Designer CTX 2.x",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ui-software-releases-metasynth-ctx-2-x-and-artmatic-designer-ctx-2-x/",
+      "description": "U&I Software has announced the release of an update to its award-winning sound design, sampling, and music production application for macOS. MetaSynth CTX 2.x brings major architecture enhancements, workflow streamlining, and advanced sound design capabilities to the image-to-aud",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "free-micro-granular-effect-retune-tuning-plugin-by-sound-overflow",
+      "slug": "free-micro-granular-effect-retune-tuning-plugin-by-sound-overflow",
+      "name": "FREE: MICRO granular effect & RETUNE tuning plugin by Sound Overflow",
+      "developer": "rekkerd.org",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-micro-granular-effect-retune-tuning-plugin-by-sound-overflow/",
+      "description": "Sound Overflow has recently launched a collection of VST3 effect plugins for Windows, two of which are free to download. MICRO is a granular glitch effect with 4 stackable modules and a 4-LFO modulation matrix. MICRO constantly captures whatever comes in. Grains, short windowed f",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "parish-audio-releases-aethon-granular-effect-plugin-vst3-au",
+      "slug": "parish-audio-releases-aethon-granular-effect-plugin-vst3-au",
+      "name": "Parish Audio releases Aethon granular effect plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/parish-audio-releases-aethon-granular-effect-plugin-vst3-au/",
+      "description": "Parish Audio has released a granular transformation effect that pulls incoming audio apart into tiny fragments, letting them drift, pulse, scatter, reverse, and recombine into new textures. Aethon can turn a simple synth into a slowly evolving atmosphere, dissolve a sustained cho",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "free-old-school-series-of-analog-modeled-processors-by-idiglabs-macos",
+      "slug": "free-old-school-series-of-analog-modeled-processors-by-idiglabs-macos",
+      "name": "FREE: Old School series of analog-modeled processors by iDigLabs (macOS)",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-old-school-series-of-analog-modeled-processors-by-idiglabs-macos/",
+      "description": "iDigLabs has released a free collection of ten analog-modeled processors for macOS. Old School models not just the individual units but the interaction between them, accounting for transformer loading, cable capacitance, and stage-to-stage drive so the chain behaves the way hardw",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "keyscapes-sample-pack-by-new-beard-media-on-sale-for-6-95-usd",
+      "slug": "keyscapes-sample-pack-by-new-beard-media-on-sale-for-6-95-usd",
+      "name": "Keyscapes sample pack by New Beard Media on sale for $6.95 USD",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/keyscapes-sample-pack-by-new-beard-media/",
+      "description": "VST Alarm has launched a two-week promotion on a collection of 455 piano and keyboard loops designed to spark ideas across a wide range of musical styles and media. Built from piano, electric piano and classic keyboard tones, the Keyscapes library focuses on musicality, emotion a",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "devproaudio-updates-reverside-3d-spatial-reverb-to-v1-0-1",
+      "slug": "devproaudio-updates-reverside-3d-spatial-reverb-to-v1-0-1",
+      "name": "DEVPROAUDIO updates Reverside 3D spatial reverb to v1.0.1",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/devproaudio-updates-reverside-3d-spatial-reverb-to-v1-0-1/",
+      "description": "DEVPROAUDIO has released an update to its audio plugin which pairs a versatile dual-engine fully algorithmic reverb with a 3D positioning system shaped by both source/listener placement and the geometry of the virtual space, giving a more believable sense of depth, width, and dir",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "shmlv-releases-sndwch-gain-matching-effect-plugin",
+      "slug": "shmlv-releases-sndwch-gain-matching-effect-plugin",
+      "name": "shmlv releases sndwch gain-matching effect plugin",
+      "developer": "rekkerd.org",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/shmlv-releases-sndwch-gain-matching-effect-plugin/",
+      "description": "Denis Shumilov wrote in to share about a utility built to strip loudness out of A/B comparisons. sndwch works as a pair of instances placed around the plugin or chain being judged: the first adds gain, the second takes the exact same amount back out. The two instances find each o",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "forgedsp-releases-kick-alchemist-kick-drum-plugin",
+      "slug": "forgedsp-releases-kick-alchemist-kick-drum-plugin",
+      "name": "ForgeDSP releases Kick Alchemist kick drum plugin",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/forgedsp-releases-kick-alchemist-kick-drum-plugin/",
+      "description": "ForgeDSP has introduced a kick drum plugin for Windows. Unlike the synthesis-based kick tools it sits next to, Kick Alchemist layers samples the producer already owns. The plugin features three slots (BASE for sub, CORE for body, SPARK for the click), per-layer tuning to the trac",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "1bitdragon-5-0-brings-new-creative-tools-workflow-improvements-and-expanded-co",
+      "slug": "1bitdragon-5-0-brings-new-creative-tools-workflow-improvements-and-expanded-co",
+      "name": "1BitDragon 5.0 brings new creative tools, workflow improvements, and expanded co",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/1bitdragon-5-0-brings-new-creative-tools-workflow-improvements-and-expanded-composition-features/",
+      "description": "Nicolas Morin wrote in to share about an update to his music creation software geared towards game developers. Designed to be easy to use, simple, instant and fun, version 5.0 of 1BitDragon now includes 12 instrument tracks, 15 effects with automation, WAV import, Dragon Synth, n",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "portal-musical-granular-fx-plugin-by-output-on-sale-at-50-off",
+      "slug": "portal-musical-granular-fx-plugin-by-output-on-sale-at-50-off",
+      "name": "Portal musical granular FX plugin by Output on sale at 50% OFF",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/output-portal-musical-granular-fx-plugin-sale/",
+      "description": "Plugin Boutique is offering an exclusive discount on the Portal granular fx plugin by Output, offering 50% off the regular price for a few days only. With PORTAL, granular synthesis takes your sounds to another dimension. Easily alter any audio input – VSTs, drums, vocals, live g",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "sonura-flow-pro-ai-music-software-on-sale-for-45-usd-annual-license",
+      "slug": "sonura-flow-pro-ai-music-software-on-sale-for-45-usd-annual-license",
+      "name": "Sonura Flow Pro AI music software on sale for $45 USD (annual license)",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sonura-flow-pro-ai-music-software-on-sale/",
+      "description": "VST Alarm has launched an exclusive promotion on an all-in-one AI music studio which lets you produce by describing the loop, one-shot, or vocal in your head. On sale at 74% off regular, the annual license of Sonura Flow Pro comes with a full year of 1000 credits a month, good fo",
+      "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "ghost-syndicate-releases-overpass-jungle-sample-pack",
+      "slug": "ghost-syndicate-releases-overpass-jungle-sample-pack",
+      "name": "Ghost Syndicate releases Overpass Jungle sample pack",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ghost-syndicate-releases-overpass-jungle-sample-pack/",
+      "description": "Ghost Syndicate has returned with an atmospheric Jungle sample pack inspired by mist-covered cityscapes, late-night journeys and the unmistakable sound of PS1-era jungle. The royalty-free Overpass contains over 550 MB of loops and one shots for creating rain-soaked rollers, cinem",
+      "discoveredAt": "2026-08-31",
       "source": "rss"
     }
   ]
